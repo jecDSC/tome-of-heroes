@@ -38,6 +38,8 @@ def get_heroes_list():
         print('Level 40 Stats Table pulled successfully.')
 
     heroes = bs4.BeautifulSoup(heroes_html, 'lxml')
+    with open('data/lv40_heroes.html', 'w', encoding='utf-8') as file:
+        file.write(str(heroes.prettify()))
     rows = heroes.find_all('tr', class_='hero-filter-element')
 
     heroes = []
@@ -48,6 +50,7 @@ def get_heroes_list():
     for i in rows:
         links.append(i.find_all('a')[0].get('href'))
     
+    pd.DataFrame({'links':links}, index=heroes).to_csv('data/hero-links')
     return dict(zip(heroes, links))
 
 # This is for saving hero pages as local HTML files.

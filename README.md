@@ -2,14 +2,12 @@
 
 An extensive dataset of Heroes from the game Fire Emblem Heroes.
 
-Datasets are pulled from the Fire Emblem Heroes subset of fandom.com.
+Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom.
 
 ## Currently Added Datasets
 
 - Level 40 Stats Table
 
-## Appended Data
+## Regarding Special Characters
 
-- Color
-- Version
-- Book
+- To be addressed
