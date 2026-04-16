@@ -2,7 +2,13 @@
 hero-pages
 worldbox
 test
+outdated
 
 # Files
 heroes_pages.csv
 lv40_heroes.html
+explore.ipynb
+updater.ipynb
+lv40_heroes.html
+lv40_heroes_readable.html
+hero-links.csv

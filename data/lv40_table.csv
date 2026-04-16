@@ -1,0 +1,1366 @@
+,hero,entry,move,weapon,hp,atk,spd,def,res,total,color,weapon-type,availability
+0,Abel: The Panther,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,39,33,32,25,25,154,Blue,Lance,regular_4_3_2_1
+1,Aelfric: Custodian Monk,Three Houses,Infantry,Red Tome,43,40,31,20,37,171,Red,Tome,ghb
+2,Alcryst: Tender Archer,Engage,Infantry,Colorless Bow,39,43,46,30,24,182,Colorless,Bow,rearmed
+3,Alcryst: Tender Groom,Engage,Infantry,Red Bow,40,44,46,35,23,188,Red,Bow,tempest
+4,Alear: Awoken Divinity,Engage,Infantry,Green Breath,40,41,47,33,37,198,Green,Breath,legendary
+5,Alear: Dragon Child,Engage,Infantry,Red Sword,40,43,46,32,26,187,Red,Sword,specialRate
+6,Alear: Dragon Youth,Engage,Infantry,Red Sword,40,44,45,33,25,187,Red,Sword,specialRate
+7,Alear: Engaging Fire,Engage,Infantry,Colorless Breath,40,41,46,30,41,198,Colorless,Breath,legendary
+8,Alear: Fell Dragon Child,Engage,Infantry,Red Sword,40,46,47,35,31,199,Red,Sword,regular_5
+9,Alear: Gifted Dragons,Engage,Infantry,Blue Breath,40,43,46,30,45,204,Blue,Breath,duo;special
+10,Alear: Red Days Past,Engage,Armored,Green Breath,51,48,18,45,49,211,Green,Breath,regular_5
+11,Alear: Seaside Dragon,Engage,Infantry,Colorless Breath,39,42,47,32,38,198,Colorless,Breath,special
+12,Alfaðör: Celestial King,Heroes,Flying,Blue Tome,38,49,28,24,50,189,Blue,Tome,mythic
+13,Alfonse: Askran Duo,Heroes,Infantry,Blue Tome,41,38,17,35,30,161,Blue,Tome,duo;special;specialRate
+14,Alfonse: Heir to Openness,Heroes,Cavalry,Green Axe,41,46,16,47,40,190,Green,Axe,regular_5
+15,Alfonse: Opening Miracle,Heroes,Infantry,Red Sword,42,49,16,49,48,204,Red,Sword,chosen
+16,Alfonse: Prince of Askr,Heroes,Infantry,Red Sword,43,35,25,32,22,157,Red,Sword,story
+17,Alfonse: Spring Prince,Heroes,Cavalry,Green Axe,41,35,33,30,18,157,Green,Axe,special;specialRate
+18,Alfonse: Uplifting Love,Heroes,Armored,Green Tome,43,38,25,37,31,174,Green,Tome,special
+19,Alfred: Floral Protector,Engage,Cavalry,Blue Lance,40,45,25,43,27,180,Blue,Lance,rearmed
+20,Alfred: Joyous Snowdrop,Engage,Armored,Blue Lance,50,49,47,48,18,212,Blue,Lance,special
+21,Alm: Hero of Prophecy,Echoes,Infantry,Red Sword,45,33,30,28,22,158,Red,Sword,specialRate
+22,Alm: Imperial Ascent,Echoes,Infantry,Red Sword,42,38,35,37,20,172,Red,Sword,specialRate
+23,Alm: Lovebird Duo,Echoes,Infantry,Green Axe,40,35,40,32,25,172,Green,Axe,duo;special;specialRate
+24,Alm: Powerful Resolve,Echoes,Infantry,Colorless Bow,41,47,47,30,28,193,Colorless,Bow,attuned
+25,Alm: Saint-King,Echoes,Infantry,Colorless Bow,40,37,37,26,22,162,Colorless,Bow,legendary
+26,Altena: Luminous Rider,Genealogy of the Holy War,Flying,Blue Lance,45,37,25,39,20,166,Blue,Lance,regular_4_3_2_1
+27,Altina: Cross-Time Duo,Path of Radiance,Infantry,Red Sword,42,40,18,37,39,176,Red,Sword,harmonized;special;specialRate
+28,Altina: Dawn's Trueblade,Radiant Dawn,Flying,Red Sword,42,38,20,30,36,166,Red,Sword,mythic
+29,Altina: Unrivaled Dawn,Radiant Dawn,Infantry,Green Axe,42,47,16,42,46,193,Green,Axe,special
+30,Amelia: Blossoming Talent,The Sacred Stones,Armored,Blue Lance,45,46,46,37,33,207,Blue,Lance,regular_5
+31,Amelia: Rose of the War,The Sacred Stones,Armored,Green Axe,47,34,34,35,23,173,Green,Axe,specialRate
+32,Anankos: Seething Silence,Fates,Armored,Blue Breath,42,43,44,36,31,196,Blue,Breath,specialRate
+33,Anna: Commander,Heroes,Infantry,Green Axe,41,29,38,22,28,158,Green,Axe,story
+34,Anna: Secret Charmer,Awakening,Cavalry,Green Bow,38,43,46,22,25,174,Green,Bow,special
+35,Anna: Secret Seller,Awakening,Infantry,Blue Lance,38,35,40,28,31,172,Blue,Lance,specialRate
+36,Anna: Twice the Anna,Awakening,Flying,Green Axe,40,44,47,31,27,189,Green,Axe,harmonized;special
+37,Anna: Wealth-Wisher,Heroes,Infantry,Red Bow,40,34,40,16,37,167,Red,Bow,special;specialRate
+38,Annand: Knight-Defender,Genealogy of the Holy War,Flying,Red Sword,37,35,39,27,34,172,Red,Sword,specialRate
+39,Annette: Festive Helper,Three Houses,Armored,Colorless Bow,43,43,23,40,41,190,Colorless,Bow,special
+40,Annette: Overachiever,Three Houses,Infantry,Green Axe,40,39,36,28,30,173,Green,Axe,specialRate
+41,Arden: Strong and Tough,Genealogy of the Holy War,Armored,Red Sword,60,36,16,41,16,169,Red,Sword,tempest
+42,Ares: Black Knight,Genealogy of the Holy War,Cavalry,Red Sword,40,36,30,33,18,157,Red,Sword,regular_4_3_2_1
+43,Arete: Requiem's Beauty,Fates,Cavalry,Red Tome,41,36,27,20,34,158,Red,Tome,ghb
+44,Arion: Gungnir's Heir,Genealogy of the Holy War,Flying,Blue Lance,41,45,36,46,21,189,Blue,Lance,ghb
+45,Arlen: Mage of Khadein,Shadow Dragon / (New) Mystery,Infantry,Colorless Tome,41,42,45,38,17,183,Colorless,Tome,regular_5
+46,Arthur: Furious Mage,Genealogy of the Holy War,Infantry,Green Tome,40,42,41,30,18,171,Green,Tome,specialRate
+47,Arthur: Hapless Hero,Fates,Infantry,Green Axe,43,32,29,30,24,158,Green,Axe,regular_4_3_2_1
+48,Artur: Silver Saint,The Sacred Stones,Armored,Green Tome,43,41,19,35,41,179,Green,Tome,special;specialRate
+49,Arval: Cycle Keeper,Three Houses,Infantry,Colorless Tome,40,44,27,23,43,177,Colorless,Tome,mythic
+50,Arvis: Emperor of Flame,Genealogy of the Holy War,Infantry,Red Tome,33,34,31,17,33,148,Red,Tome,ghb
+51,Asbel: Windswept Youth,Thracia 776,Infantry,Green Tome,40,36,42,21,26,165,Green,Tome,specialRate
+52,Ash: Borrowed Power,Heroes,Infantry,Colorless Beast,45,48,18,49,44,204,Colorless,Beast,entwined
+53,Ash: Earnest Greetings,Heroes,Infantry,Blue Beast,41,44,19,44,40,188,Blue,Beast,tempest;special;specialRate
+54,Ash: Retainer to Askr,Heroes,Infantry,Colorless Beast,41,39,27,41,34,182,Colorless,Beast,mythic
+55,Ashe: Budding Chivalry,Three Houses,Flying,Red Dagger,40,43,46,32,17,178,Red,Dagger,special
+56,Ashe: Chivalric Amends,Three Houses,Cavalry,Green Bow,39,44,47,27,28,185,Green,Bow,regular_5
+57,Ashe: Fabled Sea Knight,Three Houses,Cavalry,Blue Lance,40,37,41,32,18,168,Blue,Lance,special;specialRate
+58,Ashera: Order Goddess,Radiant Dawn,Infantry,Colorless Tome,37,35,39,15,40,166,Colorless,Tome,mythic
+59,Ashnard: Mad King,Path of Radiance,Flying,Red Sword,43,37,21,35,31,167,Red,Sword,ghb
+60,Askr: God of Openness,Heroes,Infantry,Colorless Beast,40,43,26,43,31,183,Colorless,Beast,mythic
+61,Askr: Open Harvest,Heroes,Infantry,Colorless Beast,42,48,16,48,45,199,Colorless,Beast,special
+62,Askr: Renewed Gods,Heroes,Infantry,Colorless Tome,40,42,16,42,37,177,Colorless,Tome,duo;special;specialRate
+63,Astram: Midia's Hero,Shadow Dragon / (New) Mystery,Infantry,Red Sword,44,35,36,36,21,172,Red,Sword,ghb
+64,Astrid: Resolute Damsel,Path of Radiance,Cavalry,Green Bow,38,39,41,27,23,168,Green,Bow,specialRate
+65,Athena: Borderland Sword,Shadow Dragon / (New) Mystery,Infantry,Red Sword,36,31,38,27,24,156,Red,Sword,regular_4_3_2_1
+66,Athos: Omniscient One,The Blazing Blade,Infantry,Blue Tome,40,49,18,32,49,188,Blue,Tome,mythic
+67,Atlas: Forest Muscle,Echoes,Infantry,Green Axe,46,43,37,34,27,187,Green,Axe,regular_4_3_2_1
+68,August: Astute Tactician,Thracia 776,Infantry,Colorless Staff,40,40,17,32,43,172,Colorless,Staff,specialRate
+69,Aversa: Dark One,Awakening,Flying,Red Tome,42,33,34,17,24,150,Red,Tome,ghb
+70,Ayra: Astra's Wielder,Genealogy of the Holy War,Infantry,Red Sword,41,33,37,31,21,163,Red,Sword,specialRate
+71,Ayra: Supreme Astra,Genealogy of the Holy War,Infantry,Red Sword,40,46,48,34,31,199,Red,Sword,legendary
+72,Ayra: Together in Tea,Genealogy of the Holy War,Cavalry,Red Sword,40,44,46,32,17,179,Red,Sword,harmonized;special
+73,Azama: Carefree Monk,Fates,Infantry,Colorless Staff,43,21,26,32,25,147,Colorless,Staff,regular_4_3_2_1
+74,Azelle: Youthful Flame,Genealogy of the Holy War,Infantry,Red Tome,41,37,39,26,23,166,Red,Tome,specialRate
+75,Azura: Celebratory Spirit,Fates,Flying,Green Axe,37,30,35,22,26,150,Green,Axe,special;specialRate
+76,Azura: Hatari Duet,Path of Radiance,Cavalry,Green Tome,37,37,39,16,23,152,Green,Tome,harmonized;special;specialRate
+77,Azura: Lady of Ballads,Fates,Infantry,Green Axe,35,32,34,20,28,149,Green,Axe,special;specialRate
+78,Azura: Lady of the Lake,Fates,Infantry,Blue Lance,36,31,33,21,28,149,Blue,Lance,specialRate
+79,Azura: Lady of the Sky,Fates,Flying,Blue Lance,36,42,48,16,48,190,Blue,Lance,special
+80,Azura: Song's Reflection,Fates,Cavalry,Green Axe,38,45,46,18,28,175,Green,Axe,attuned
+81,Azura: Vallite Songstress,Fates,Flying,Blue Tome,33,30,35,17,24,139,Blue,Tome,legendary
+82,Azura: Young Songstress,Fates,Infantry,Green Tome,36,33,29,17,25,140,Green,Tome,tempest
+83,Baldr: Celestial Sun God,Heroes,Flying,Red Sword,41,47,48,30,28,194,Red,Sword,mythic
+84,Baldr: New Year's Elite,Heroes,Flying,Blue Lance,41,48,49,34,28,200,Blue,Lance,duo;special
+85,Baldr: Rays of Judgment,Heroes,Flying,Blue Bow,42,48,48,32,25,195,Blue,Bow,regular_5
+86,Balthus: King of Grappling,Three Houses,Infantry,Green Axe,47,42,24,37,31,181,Green,Axe,regular_4_3_2_1
+87,Balthus: Summer's Big Bet,Three Houses,Infantry,Blue Lance,47,49,31,45,26,198,Blue,Lance,tempest
+88,Bantu: Tiki's Guardian,Shadow Dragon / (New) Mystery,Infantry,Red Breath,45,34,28,35,26,168,Red,Breath,regular_4_3_2_1
+89,Barst: The Hatchet,Shadow Dragon / (New) Mystery,Infantry,Green Axe,46,33,32,30,17,158,Green,Axe,regular_4_3_2_1
+90,Bartre: Earsome Warrior,The Binding Blade,Infantry,Red Sword,46,40,26,35,25,172,Red,Sword,tempest
+91,Bartre: Fearless Warrior,The Binding Blade,Infantry,Green Axe,49,36,25,33,13,156,Green,Axe,regular_4_3_2_1
+92,Basilio: Feroxi West-Khan,Awakening,Infantry,Green Axe,48,43,33,36,21,181,Green,Axe,regular_4_3_2_1
+93,Bastian: Crimea's Keystone,Radiant Dawn,Infantry,Green Tome,40,44,28,20,45,177,Green,Tome,regular_4_3_2_1
+94,Benny: Sensitive Soul,Fates,Armored,Blue Lance,48,35,23,44,34,184,Blue,Lance,regular_4_3_2_1
+95,Berkut: Debonair Noble,Echoes,Infantry,Blue Lance,41,36,23,37,24,161,Blue,Lance,special;specialRate
+96,Berkut: Prideful Prince,Echoes,Cavalry,Blue Lance,43,34,22,31,24,154,Blue,Lance,ghb
+97,Berkut: Purgatorial Prince,Echoes,Cavalry,Blue Lance,40,35,17,35,30,157,Blue,Lance,specialRate
+98,Bernadetta: Eternal Loner,Three Houses,Cavalry,Colorless Bow,38,32,38,22,26,156,Colorless,Bow,specialRate
+99,Bernadetta: Frosty Shut-In,Three Houses,Cavalry,Green Tome,39,36,40,19,23,157,Green,Tome,special;specialRate
+100,Bernadetta: Late Hibernator,Three Houses,Cavalry,Blue Bow,39,43,47,20,25,174,Blue,Bow,tempest;special
+101,Bernadetta: Sheltered Loner,Three Houses,Cavalry,Blue Bow,40,45,48,24,28,185,Blue,Bow,regular_5
+102,Bertram: Dread Cavalier,Path of Radiance,Cavalry,Red Sword,45,37,27,38,26,173,Red,Sword,ghb
+103,Beruka: Quiet Assassin,Fates,Flying,Green Axe,46,29,23,37,22,157,Green,Axe,regular_4_3_2_1
+104,Black Knight: Mortal Legend,Radiant Dawn,Armored,Red Sword,47,49,16,49,46,207,Red,Sword,legendary
+105,Black Knight: Sinister General,Path of Radiance,Armored,Red Sword,48,34,34,35,18,169,Red,Sword,tempest
+106,Black Knight: The Night's Blade,Path of Radiance,Armored,Green Axe,43,44,44,35,30,196,Green,Axe,special;specialRate
+107,Boey: Skillful Survivor,Echoes,Infantry,Green Tome,43,29,27,32,18,149,Green,Tome,regular_4_3_2_1
+108,Bors: Ostia's Bastion,The Binding Blade,Armored,Blue Lance,51,47,34,48,25,205,Blue,Lance,regular_4_3_2_1
+109,Boyd: Future Great,Path of Radiance,Infantry,Green Axe,50,43,36,31,21,181,Green,Axe,tempest
+110,Boyd: Intrepid Warrior,Path of Radiance,Infantry,Green Axe,51,49,45,37,21,203,Green,Axe,regular_4_3_2_1
+111,Brady: Daunting Priest,Awakening,Infantry,Colorless Staff,41,33,32,23,28,157,Colorless,Staff,regular_4_3_2_1
+112,Bramimond: The Enigma,The Blazing Blade,Infantry,Colorless Tome,39,40,27,21,35,162,Colorless,Tome,mythic
+113,Brigand Boss: Known Criminal,Echoes,Infantry,Green Axe,45,42,35,35,24,181,Green,Axe,ghb
+114,Brigid: Awakened Bow,Genealogy of the Holy War,Infantry,Green Bow,40,46,48,34,25,193,Green,Bow,attuned
+115,Brigid: Orgahil Pirate,Genealogy of the Holy War,Infantry,Red Bow,41,37,40,30,19,167,Red,Bow,special;specialRate
+116,Brunnya: Devoted General,The Binding Blade,Infantry,Blue Tome,42,35,31,21,33,162,Blue,Tome,tempest
+117,Bruno: Masked Hare,Heroes,Cavalry,Colorless Staff,41,30,24,35,14,144,Colorless,Staff,special;specialRate
+118,Bruno: Masked Knight,Heroes,Cavalry,Blue Tome,40,45,48,22,30,185,Blue,Tome,ghb
+119,Bruno: Masked Reveler,Heroes,Armored,Green Tome,43,41,38,29,34,185,Green,Tome,tempest
+120,Byleth: Anchor of Hope,Three Houses,Infantry,Red Sword,41,47,48,38,30,204,Red,Sword,regular_5
+121,Byleth: Fell Star's Duo,Three Houses,Flying,Red Tome,40,36,42,16,21,155,Red,Tome,duo;special;specialRate
+122,Byleth: Fount of Learning,Three Houses,Infantry,Blue Tome,40,42,44,25,26,177,Blue,Tome,special
+123,Byleth: Frosty Professors,Three Houses,Armored,Red Sword,47,46,18,45,46,202,Red,Sword,duo;special
+124,Byleth: Of the Academy,Three Houses,Infantry,Blue Tome,40,46,49,41,17,193,Blue,Tome,emblem
+125,Byleth: Proven Professor,Three Houses,Infantry,Red Sword,40,34,40,33,21,168,Red,Sword,specialRate
+126,Byleth: Sublime Light,Three Houses,Flying,Colorless Tome,39,41,43,26,24,173,Colorless,Tome,specialRate
+127,Byleth: Tested Professor,Three Houses,Infantry,Red Sword,40,36,38,34,20,168,Red,Sword,specialRate
+128,Byleth: The Fódlan Light,Three Houses,Infantry,Blue Tome,40,39,43,23,26,171,Blue,Tome,legendary
+129,Byleth: The Fódlan Star,Three Houses,Infantry,Green Tome,40,39,41,25,21,166,Green,Tome,legendary
+130,Byleth: Vengeance Vessel,Three Houses,Infantry,Red Sword,40,44,47,32,25,188,Red,Sword,specialRate
+131,Caeda: Beloved Queen,Shadow Dragon / (New) Mystery,Flying,Blue Lance,39,38,43,27,31,178,Blue,Lance,legendary
+132,Caeda: Marth's Faithful,Shadow Dragon / (New) Mystery,Infantry,Blue Lance,40,42,47,30,34,193,Blue,Lance,attuned
+133,Caeda: Princess of Talys,Shadow Dragon / (New) Mystery,Flying,Red Sword,36,33,42,25,30,166,Red,Sword,special;specialRate
+134,Caeda: Sea-Blossom Pair,Heroes,Cavalry,Green Axe,39,33,42,26,28,168,Green,Axe,harmonized;special;specialRate
+135,Caeda: Talys's Bride,Shadow Dragon / (New) Mystery,Infantry,Blue Tome,33,29,37,19,30,148,Blue,Tome,special;specialRate
+136,Caeda: Talys's Heart,Shadow Dragon / (New) Mystery,Flying,Red Sword,36,25,37,24,34,156,Red,Sword,regular_4_3_2_1
+137,Caeldori: Perfect Angel,Fates,Flying,Blue Lance,39,40,44,30,31,184,Blue,Lance,specialRate
+138,Caellach: Tiger Eye,The Sacred Stones,Infantry,Green Axe,45,40,27,31,33,176,Green,Axe,ghb
+139,Cain: The Bull,Shadow Dragon / (New) Mystery,Cavalry,Red Sword,42,32,32,27,21,154,Red,Sword,regular_4_3_2_1
+140,Caineghis: Gallia's Lion King,Radiant Dawn,Armored,Colorless Beast,47,37,23,37,30,174,Colorless,Beast,specialRate
+141,Camilla: Alluring Darkness,Fates,Flying,Green Tome,40,45,46,22,25,178,Green,Tome,legendary
+142,Camilla: Bewitching Beauty,Fates,Flying,Green Axe,37,30,32,28,31,158,Green,Axe,regular_4_3_2_1
+143,Camilla: Flower of Fantasy,Fates,Flying,Red Tome,36,37,30,17,30,150,Red,Tome,specialRate
+144,Camilla: Holiday Traveler,Fates,Flying,Red Sword,40,33,35,31,23,162,Red,Sword,special;specialRate
+145,Camilla: Light of Nohr,Fates,Flying,Colorless Staff,39,33,37,21,25,155,Colorless,Staff,specialRate
+146,Camilla: Midnight Bloom,Fates,Flying,Red Tome,38,43,19,32,40,172,Red,Tome,special;specialRate
+147,Camilla: Spring Princess,Fates,Flying,Green Tome,39,35,25,30,19,148,Green,Tome,special;specialRate
+148,Camilla: Steamy Secrets,Fates,Flying,Colorless Dagger,38,33,35,17,28,151,Colorless,Dagger,tempest
+149,Camilla: Tropical Beauty,Fates,Flying,Blue Tome,39,33,36,23,19,150,Blue,Tome,special;specialRate
+150,Camilla: Young Beauty,Fates,Flying,Green Axe,40,46,48,35,25,194,Green,Axe,special
+151,Camus: Sable Knight,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,42,32,33,31,17,155,Blue,Lance,ghb
+152,Canas: Wisdom Seeker,The Blazing Blade,Infantry,Red Tome,36,32,29,21,33,151,Red,Tome,tempest
+153,Candace: Sly Snatcher,Fates,Infantry,Colorless Bow,38,45,36,25,44,188,Colorless,Bow,ghb
+154,Caspar: Hotheaded Inciter,Three Houses,Infantry,Green Axe,46,48,44,32,28,198,Green,Axe,regular_4_3_2_1
+155,Caspar: Summer Intensity,Three Houses,Infantry,Green Axe,46,41,36,30,23,176,Green,Axe,special
+156,Castor: Loving Son,Shadow Dragon / (New) Mystery,Infantry,Red Bow,45,46,39,33,24,187,Red,Bow,ghb
+157,Cath: Caper Captain,The Binding Blade,Cavalry,Blue Tome,39,37,43,21,22,162,Blue,Tome,special;specialRate
+158,Cath: Master Thief,The Binding Blade,Infantry,Green Dagger,41,36,43,27,30,177,Green,Dagger,regular_4_3_2_1
+159,Catherine: Thunder Knight,Three Houses,Infantry,Red Sword,43,39,41,30,23,176,Red,Sword,specialRate
+160,Catria: Azure Wing Pair,Echoes,Flying,Green Axe,40,40,41,28,23,172,Green,Axe,harmonized;special;specialRate
+161,Catria: Middle Whitewing,Shadow Dragon / (New) Mystery,Flying,Blue Lance,39,31,34,29,25,158,Blue,Lance,regular_4_3_2_1
+162,Catria: Mild Middle Sister,Echoes,Flying,Red Sword,41,38,36,27,24,166,Red,Sword,specialRate
+163,Catria: Spring Whitewing,Shadow Dragon / (New) Mystery,Cavalry,Blue Tome,36,32,35,18,23,144,Blue,Tome,special;specialRate
+164,Catria: Windswept Knight,Shadow Dragon / (New) Mystery,Flying,Blue Bow,39,45,45,25,30,184,Blue,Bow,special
+165,Cecilia: Etrurian Bride,The Binding Blade,Cavalry,Red Tome,40,41,25,18,38,162,Red,Tome,special
+166,Cecilia: Etrurian General,The Binding Blade,Cavalry,Green Tome,36,32,25,22,29,144,Green,Tome,regular_4_3_2_1
+167,Cecilia: Festive Instructor,The Binding Blade,Armored,Colorless Dagger,41,35,23,30,36,165,Colorless,Dagger,tempest
+168,Ced: Hero on the Wind,Genealogy of the Holy War,Infantry,Green Tome,37,35,39,19,31,161,Green,Tome,specialRate
+169,Ced: Sage of the Wind,Genealogy of the Holy War,Infantry,Green Tome,43,45,46,22,26,182,Green,Tome,regular_5
+170,Celica: Caring Princess,Echoes,Infantry,Red Tome,39,32,33,22,22,148,Red,Tome,specialRate
+171,Celica: Imprisoned Soul,Echoes,Infantry,Red Sword,40,35,35,27,26,163,Red,Sword,specialRate
+172,Celica: Of Echoes,Echoes,Infantry,Blue Tome,45,46,46,21,24,182,Blue,Tome,emblem
+173,Celica: Queen of Valentia,Echoes,Infantry,Green Tome,40,38,38,18,28,162,Green,Tome,legendary
+174,Celica: Sunlit Priestesses,Echoes,Cavalry,Colorless Tome,40,48,47,20,24,179,Colorless,Tome,harmonized;special
+175,Celica: Valentia's Hope,Echoes,Infantry,Colorless Tome,40,43,42,21,25,171,Colorless,Tome,specialRate
+176,Celica: Warrior Priestess,Echoes,Infantry,Red Sword,38,33,39,29,24,163,Red,Sword,specialRate
+177,Celica: With Grace,Heroes,Infantry,Red Sword,40,47,49,38,30,204,Red,Sword,harmonized
+178,Céline: Blissful Tea Party,Engage,Flying,Red Tome,36,43,47,16,41,183,Red,Tome,special
+179,Céline: Joyous Royal,Engage,Infantry,Green Tome,37,41,44,17,38,177,Green,Tome,specialRate
+180,Céline: Love's Aroma,Engage,Cavalry,Blue Tome,34,42,48,13,47,184,Blue,Tome,special
+181,Céline: Teatime Ninja,Engage,Infantry,Blue Tome,36,44,47,16,45,188,Blue,Tome,special
+182,Cervantes: Invincible General,Awakening,Armored,Blue Lance,50,45,31,44,25,195,Blue,Lance,ghb
+183,Chad: Lycian Wildcat,The Binding Blade,Infantry,Colorless Dagger,45,30,37,26,23,161,Colorless,Dagger,regular_4_3_2_1
+184,Charlotte: Money Maiden,Fates,Infantry,Blue Lance,46,36,32,24,19,157,Blue,Lance,special;specialRate
+185,Charlotte: Wily Warrior,Fates,Infantry,Green Axe,48,43,41,25,18,175,Green,Axe,specialRate
+186,Cherche: Shaded by Wings,Awakening,Flying,Green Axe,43,44,20,44,32,183,Green,Axe,special;specialRate
+187,Cherche: Wyvern Friend,Awakening,Flying,Green Axe,46,38,25,32,16,157,Green,Axe,regular_4_3_2_1
+188,Chloé: Fairy-Tale Flier,Engage,Flying,Blue Lance,36,38,40,28,42,184,Blue,Lance,specialRate
+189,Chloé: Spring Wings,Awakening,Flying,Red Tome,40,43,47,22,26,178,Red,Tome,harmonized;special
+190,Chrom: Crowned Exalt,Awakening,Infantry,Blue Bow,41,42,26,34,25,168,Blue,Bow,legendary
+191,Chrom: Exalted Prince,Awakening,Infantry,Red Sword,47,37,25,31,17,157,Red,Sword,regular_4_3_2_1
+192,Chrom: Fate-Defying Duo,Awakening,Infantry,Red Bow,40,44,27,40,26,177,Red,Bow,duo;special;specialRate
+193,Chrom: Fated Honor,Awakening,Cavalry,Blue Lance,41,42,42,37,17,179,Blue,Lance,specialRate
+194,Chrom: Fell Exalt,Awakening,Cavalry,Red Sword,41,45,46,29,18,179,Red,Sword,rearmed
+195,Chrom: Gifted Leader,Awakening,Armored,Green Axe,51,40,19,35,29,174,Green,Axe,special;specialRate
+196,Chrom: Knight Exalt,Awakening,Cavalry,Red Sword,41,37,28,34,17,157,Red,Sword,specialRate
+197,Chrom: Pivotal Blow,Awakening,Infantry,Colorless Bow,40,49,43,49,18,199,Colorless,Bow,special
+198,Chrom: Spring Exalt,Awakening,Infantry,Green Axe,43,35,32,28,20,158,Green,Axe,special;specialRate
+199,Chulainn: Leading Gladiator,Genealogy of the Holy War,Infantry,Green Axe,43,46,48,39,27,203,Green,Axe,special
+200,Chulainn: Unbeaten Warrior,Genealogy of the Holy War,Infantry,Red Sword,45,46,46,40,21,198,Red,Sword,ghb
+201,Citrinne: Caring Noble,Engage,Infantry,Green Tome,38,46,27,22,44,177,Green,Tome,specialRate
+202,Clair: Highborn Flier,Echoes,Flying,Blue Lance,37,26,36,24,33,156,Blue,Lance,regular_4_3_2_1
+203,Clanne: Summer Fan,Engage,Infantry,Colorless Dagger,38,40,46,19,45,188,Colorless,Dagger,special
+204,Clarine: Refined Noble,The Binding Blade,Cavalry,Colorless Staff,35,25,33,22,29,144,Colorless,Staff,regular_4_3_2_1
+205,Clarisse: Sniper in the Dark,Shadow Dragon / (New) Mystery,Infantry,Colorless Bow,37,31,34,25,20,147,Colorless,Bow,ghb
+206,Claude: Almyra's King,Three Houses,Flying,Colorless Bow,42,36,40,23,25,166,Colorless,Bow,specialRate
+207,Claude: Budding Ambition,Three Houses,Cavalry,Colorless Bow,40,46,49,26,30,191,Colorless,Bow,special
+208,Claude: Distant Deer,Three Houses,Cavalry,Blue Bow,40,46,48,24,27,185,Blue,Bow,special
+209,Claude: Golden Breeze,Three Houses,Flying,Green Dagger,42,44,47,24,26,183,Green,Dagger,special
+210,Claude: King of Unification,Three Houses,Flying,Colorless Bow,41,37,41,23,24,166,Colorless,Bow,legendary
+211,Claude: The Schemer,Three Houses,Cavalry,Colorless Bow,39,33,37,20,21,150,Colorless,Bow,specialRate
+212,Claude: Tropical Trouble,Three Houses,Flying,Blue Dagger,41,38,42,25,26,172,Blue,Dagger,special
+213,Claude: Yuletide Schemer,Three Houses,Armored,Colorless Bow,41,43,46,32,34,196,Colorless,Bow,tempest
+214,Clive: Idealistic Knight,Echoes,Cavalry,Blue Lance,45,33,25,32,19,154,Blue,Lance,tempest
+215,Colm: Capable Thief,The Sacred Stones,Infantry,Blue Dagger,43,36,41,24,32,176,Blue,Dagger,regular_4_3_2_1
+216,Conrad: Masked Knight,Echoes,Cavalry,Blue Lance,40,31,22,34,35,162,Blue,Lance,ghb
+217,Conrad: Unmasked Knight,Echoes,Cavalry,Red Sword,39,32,23,33,35,162,Red,Sword,special
+218,Constance: Fallen Noble,Three Houses,Flying,Red Tome,39,42,40,17,29,167,Red,Tome,specialRate
+219,Cordelia: Knight Paradise,Awakening,Cavalry,Blue Lance,41,32,38,28,18,157,Blue,Lance,special;specialRate
+220,Cordelia: Knight Paragon,Awakening,Flying,Blue Lance,40,35,35,22,25,157,Blue,Lance,regular_4_3_2_1
+221,Cordelia: Perfect Bride,Awakening,Infantry,Colorless Bow,36,35,35,19,22,147,Colorless,Bow,special;specialRate
+222,Cordelia: Unyielding Snow,Awakening,Flying,Blue Lance,40,44,43,33,23,183,Blue,Lance,harmonized;special;specialRate
+223,Cormag: Aloof Lanceman,The Sacred Stones,Flying,Blue Lance,42,36,32,34,23,167,Blue,Lance,ghb
+224,Cornelia: Saint Consumed,Three Houses,Infantry,Colorless Staff,42,46,23,26,40,177,Colorless,Staff,ghb
+225,Corrin: Bloodbound Beast,Fates,Infantry,Blue Breath,42,38,38,33,26,177,Blue,Breath,specialRate
+226,Corrin: Celestial Sorcerer,Fates,Infantry,Green Breath,44,44,21,44,39,192,Green,Breath,special;specialRate
+227,Corrin: Child of Dawn,Fates,Infantry,Green Breath,40,40,46,27,46,199,Green,Breath,legendary
+228,Corrin: Child of Dusk,Fates,Infantry,Colorless Breath,41,38,40,34,29,182,Colorless,Breath,legendary
+229,Corrin: Daylight Ninja Act,Fates,Infantry,Blue Lance,41,40,38,35,28,182,Blue,Lance,special
+230,Corrin: Dream Prince,Fates,Infantry,Blue Breath,42,35,35,31,24,167,Blue,Breath,specialRate
+231,Corrin: Dream Princess,Fates,Infantry,Green Breath,41,31,37,32,27,168,Green,Breath,specialRate
+232,Corrin: Enjoying Tradition,Fates,Infantry,Colorless Bow,37,32,30,34,18,151,Colorless,Bow,tempest
+233,Corrin: Fateful Prince,Fates,Infantry,Red Sword,42,32,32,28,24,158,Red,Sword,regular_4_3_2_1
+234,Corrin: Fateful Princess,Fates,Infantry,Blue Breath,41,27,34,34,21,157,Blue,Breath,regular_4_3_2_1
+235,Corrin: Nightfall Ninja Act,Fates,Cavalry,Green Tome,38,41,40,23,20,162,Green,Tome,duo;special;specialRate
+236,Corrin: Novice Vacationer,Fates,Flying,Blue Tome,34,31,34,22,26,147,Blue,Tome,special;specialRate
+237,Corrin: Of Fates,Fates,Armored,Red Sword,43,46,49,26,49,213,Red,Sword,emblem
+238,Corrin: Silent Bloodline,Fates,Armored,Colorless Breath,42,40,46,37,40,205,Colorless,Breath,specialRate
+239,Corrin: Starry Seer,Fates,Infantry,Blue Breath,40,42,45,36,30,193,Blue,Breath,special;specialRate
+240,Corrin: Wailing Soul,Fates,Infantry,Colorless Breath,43,35,37,31,27,173,Colorless,Breath,specialRate
+241,Corrin: Young Kinship,Fates,Armored,Blue Breath,41,43,47,35,46,212,Blue,Breath,duo;special
+242,Cynthia: Hero Chaser,Awakening,Flying,Blue Lance,38,32,37,27,29,163,Blue,Lance,ghb
+243,Cyril: Rhea's Attendant,Three Houses,Infantry,Red Bow,46,42,44,35,26,193,Red,Bow,ghb
+244,Dagdar: Reformed Bandit,Thracia 776,Infantry,Green Axe,44,49,35,45,25,198,Green,Axe,ghb
+245,Dagr: Bluster Princess,Heroes,Cavalry,Red Sword,41,45,46,30,22,184,Red,Sword,special
+246,Dagr: New Year Jötnar,Heroes,Flying,Green Bow,40,41,42,27,22,172,Green,Bow,duo;special;specialRate
+247,Dagr: Sun's Radiance,Heroes,Infantry,Green Axe,41,39,41,30,25,176,Green,Axe,mythic
+248,Dagr: Sunny Bloom,Heroes,Infantry,Red Sword,40,45,47,37,30,199,Red,Sword,aided
+249,Darros: Seawalker,Shadow Dragon / (New) Mystery,Infantry,Green Axe,46,36,32,37,21,172,Green,Axe,tempest
+250,Death Knight: The Reaper,Three Houses,Cavalry,Blue Lance,40,35,25,30,27,157,Blue,Lance,ghb
+251,Dedue: Dauntless Beast,Three Houses,Armored,Blue Beast,49,49,17,49,43,207,Blue,Beast,rearmed
+252,Dedue: Dimitri's Vassal,Three Houses,Armored,Green Axe,50,45,17,45,28,185,Green,Axe,specialRate
+253,Dedue: Loyal Life Guard,Three Houses,Infantry,Green Axe,45,46,20,47,35,193,Green,Axe,tempest
+254,Deen: Bladed Sandstorm,Echoes,Cavalry,Colorless Dagger,43,36,39,27,23,168,Colorless,Dagger,tempest
+255,Deirdre: Fated Saint,Genealogy of the Holy War,Infantry,Blue Tome,40,43,32,19,43,177,Blue,Tome,legendary
+256,Deirdre: Lady of the Forest,Genealogy of the Holy War,Infantry,Green Tome,36,33,28,16,35,148,Green,Tome,specialRate
+257,Delthea: Free Spirit,Echoes,Infantry,Blue Tome,33,36,34,13,31,147,Blue,Tome,specialRate
+258,Delthea: Prodigy in Bloom,Echoes,Cavalry,Blue Tome,36,43,40,16,28,163,Blue,Tome,special;specialRate
+259,Delthea: Tatarrah's Puppet,Echoes,Infantry,Blue Tome,41,36,33,19,28,157,Blue,Tome,ghb
+260,Dew: Benevolent Thief,Genealogy of the Holy War,Infantry,Red Dagger,41,42,48,37,24,192,Red,Dagger,regular_4_3_2_1
+261,Dheginsea: Harvest Goldoan,Radiant Dawn,Armored,Red Breath,45,45,14,41,39,184,Red,Breath,special;specialRate
+262,Diamant: Fortified King,Engage,Infantry,Green Axe,40,50,37,49,28,204,Green,Axe,legendary
+263,Diamant: Gallant Ninja,Engage,Infantry,Green Axe,40,48,38,48,25,199,Green,Axe,special
+264,Diamant: Rising Power,Engage,Infantry,Red Sword,41,46,36,43,21,187,Red,Sword,specialRate
+265,Dieck: Wounded Tiger,The Binding Blade,Infantry,Green Axe,40,40,35,36,25,176,Green,Axe,specialRate
+266,Dimitri: Blessed Protector,Three Houses,Cavalry,Green Axe,41,47,46,32,19,185,Green,Axe,special
+267,Dimitri: King of Faerghus,Three Houses,Infantry,Blue Lance,41,40,36,40,19,176,Blue,Lance,specialRate
+268,Dimitri: Savage Boar,Three Houses,Infantry,Blue Lance,40,42,40,38,17,177,Blue,Lance,specialRate
+269,Dimitri: Savior King,Three Houses,Infantry,Blue Lance,40,41,41,37,18,177,Blue,Lance,legendary
+270,Dimitri: Sky-Blue Lion,Three Houses,Cavalry,Green Axe,40,42,40,35,17,174,Green,Axe,special;specialRate
+271,Dimitri: Stargazing Lion,Three Houses,Cavalry,Red Sword,41,49,47,34,19,190,Red,Sword,special
+272,Dimitri: The Protector,Three Houses,Cavalry,Blue Lance,40,36,29,34,18,157,Blue,Lance,specialRate
+273,Díthorba: Cutting Knight,Genealogy of the Holy War,Flying,Blue Lance,43,35,38,23,33,172,Blue,Lance,ghb
+274,Donnel: Sunny Villager,Awakening,Infantry,Green Axe,46,45,31,40,30,192,Green,Axe,tempest
+275,Donnel: Village Hero,Awakening,Infantry,Blue Lance,43,35,29,32,23,162,Blue,Lance,regular_4_3_2_1
+276,Dorcas: Pumpkin Smasher,The Blazing Blade,Armored,Green Axe,49,41,25,37,21,173,Green,Axe,tempest
+277,Dorcas: Serene Warrior,The Blazing Blade,Infantry,Green Axe,45,35,23,35,24,162,Green,Axe,specialRate
+278,Dorothea: Daring Ex-Singer,Three Houses,Infantry,Blue Tome,40,40,36,17,45,178,Blue,Tome,regular_4_3_2_1
+279,Dorothea: Rosy Songstress,Three Houses,Flying,Green Tome,43,48,30,20,48,189,Green,Tome,special
+280,Dorothea: Solar Songstress,Three Houses,Infantry,Colorless Dagger,38,37,36,16,30,157,Colorless,Dagger,special;specialRate
+281,Dorothea: Twilit Harmony,Genealogy of the Holy War,Flying,Red Tome,37,38,35,16,26,152,Red,Tome,harmonized;special;specialRate
+282,Dorothea: Yuletide Dancer,Three Houses,Cavalry,Red Tome,36,41,41,16,25,159,Red,Tome,special;specialRate
+283,Dorothy: Devoted Archer,The Binding Blade,Infantry,Colorless Bow,40,46,43,25,28,182,Colorless,Bow,regular_4_3_2_1
+284,Dozla: Harvest Attendant,The Sacred Stones,Armored,Colorless Dagger,45,38,29,35,27,174,Colorless,Dagger,special;specialRate
+285,Draug: Gentle Giant,Shadow Dragon / (New) Mystery,Armored,Red Sword,50,30,32,39,18,169,Red,Sword,regular_4_3_2_1
+286,Duessel: Obsidian,The Sacred Stones,Cavalry,Blue Lance,41,39,18,39,31,168,Blue,Lance,specialRate
+287,Duma: God of Strength,Echoes,Armored,Colorless Breath,48,40,21,34,31,174,Colorless,Breath,mythic
+288,Duma: Strength and Love,Echoes,Armored,Red Breath,47,46,19,40,43,195,Red,Breath,duo;special;specialRate
+289,Dwyer: Sleepy Butler,Fates,Infantry,Colorless Staff,40,37,35,25,39,176,Colorless,Staff,regular_4_3_2_1
+290,Echidna: Unyielding Idealist,The Binding Blade,Infantry,Green Axe,45,34,36,30,27,172,Green,Axe,regular_4_3_2_1
+291,Edain: Lady of Yngvi,Genealogy of the Holy War,Infantry,Colorless Staff,44,48,31,20,45,188,Colorless,Staff,regular_5
+292,Edelgard: Adorned Eagle,Three Houses,Armored,Green Axe,46,50,17,49,45,207,Green,Axe,special
+293,Edelgard: Adrestian Emperor,Three Houses,Armored,Green Axe,46,45,16,43,35,185,Green,Axe,specialRate
+294,Edelgard: Flame Emperor,Three Houses,Armored,Green Axe,45,42,17,39,36,179,Green,Axe,legendary
+295,Edelgard: Hegemon Husk,Three Houses,Armored,Colorless Beast,45,42,14,44,39,184,Colorless,Beast,specialRate
+296,Edelgard: Of Rivals,Three Houses,Armored,Green Axe,47,49,30,49,37,212,Green,Axe,emblem
+297,Edelgard: Promising Path,Three Houses,Armored,Green Dagger,48,49,16,49,45,207,Green,Dagger,duo;special
+298,Edelgard: Snowfall Future,Three Houses,Armored,Blue Lance,46,47,17,47,44,201,Blue,Lance,special
+299,Edelgard: Sun Empresses,Radiant Dawn,Armored,Red Sword,46,45,17,43,39,190,Red,Sword,harmonized;special;specialRate
+300,Edelgard: The Future,Three Houses,Infantry,Green Axe,41,39,30,37,21,168,Green,Axe,specialRate
+301,Edward: Blade of Justice,Radiant Dawn,Infantry,Red Sword,40,43,46,43,21,193,Red,Sword,regular_5
+302,Effie: Army of One,Fates,Armored,Blue Lance,50,40,22,33,23,168,Blue,Lance,regular_4_3_2_1
+303,Effie: Dedicated Heart,Fates,Infantry,Green Axe,43,46,43,32,23,187,Green,Axe,tempest
+304,Eikþyrnir: Blessed Strength,Heroes,Cavalry,Blue Beast,46,48,20,48,28,190,Blue,Beast,tempest
+305,Eikþyrnir: Fit for Waves,Heroes,Cavalry,Red Beast,45,49,17,49,30,190,Red,Beast,special
+306,Eikþyrnir: Quieting Strength,Heroes,Cavalry,Colorless Beast,45,47,16,47,30,185,Colorless,Beast,mythic
+307,Eikþyrnir: Resolved to Train,Heroes,Armored,Colorless Beast,53,50,16,50,43,212,Colorless,Beast,regular_5
+308,Eir: Life Ascendant,Heroes,Cavalry,Green Dagger,35,42,45,16,35,173,Green,Dagger,specialRate
+309,Eir: Merciful Death,Heroes,Flying,Colorless Dagger,35,32,37,14,31,149,Colorless,Dagger,mythic
+310,Eir: Renewed Life,Heroes,Flying,Red Dagger,39,31,36,21,34,161,Red,Dagger,tempest
+311,Eirika: Anamnesis Lady,The Sacred Stones,Cavalry,Red Tome,36,31,35,20,22,144,Red,Tome,specialRate
+312,Eirika: Beach Restorer,The Sacred Stones,Flying,Green Tome,39,39,42,25,22,167,Green,Tome,special;specialRate
+313,Eirika: Gentle as Snow,The Sacred Stones,Armored,Colorless Staff,42,36,23,30,34,165,Colorless,Staff,special;specialRate
+314,Eirika: Graceful Resolve,The Sacred Stones,Cavalry,Red Sword,38,31,39,27,21,156,Red,Sword,legendary
+315,Eirika: Of the Sacred,The Sacred Stones,Cavalry,Red Sword,40,45,48,32,25,190,Red,Sword,emblem
+316,Eirika: Pledged Restorer,The Sacred Stones,Cavalry,Blue Lance,39,40,42,28,24,173,Blue,Lance,specialRate
+317,Eirika: Resolute Princess,The Sacred Stones,Infantry,Green Axe,40,44,47,35,27,193,Green,Axe,attuned
+318,Eirika: Restoration Lady,The Sacred Stones,Infantry,Red Sword,42,26,35,26,28,157,Red,Sword,regular_4_3_2_1
+319,Eirika: Spring Company,The Sacred Stones,Cavalry,Red Tome,40,47,49,23,26,185,Red,Tome,harmonized;special
+320,Eirika: Twin Refulgence,The Sacred Stones,Infantry,Red Sword,40,36,43,30,28,177,Red,Sword,duo;special;specialRate
+321,Eitr: Hand of Nothing,Heroes,Cavalry,Blue Beast,40,44,46,33,16,179,Blue,Beast,rearmed
+322,Eitr: Spring Sunrise,Heroes,Cavalry,Colorless Beast,40,46,48,35,21,190,Colorless,Beast,special
+323,Eitri: Youthful Sage,Heroes,Flying,Green Tome,37,41,29,30,31,168,Green,Tome,legendary
+324,Eldigan: Lionheart,Genealogy of the Holy War,Cavalry,Red Sword,45,32,24,34,19,154,Red,Sword,specialRate
+325,Eldigan: Strutting Lion,Genealogy of the Holy War,Flying,Blue Lance,43,38,26,37,18,162,Blue,Lance,tempest
+326,Eleonora: Shooting Starlet,Tokyo Mirage Sessions ♯FE Encore,Infantry,Colorless Bow,42,37,38,25,24,166,Colorless,Bow,specialRate
+327,Elffin: Truth Beholden,The Binding Blade,Infantry,Colorless Tome,37,20,47,28,46,178,Colorless,Tome,regular_5
+328,Elice: Altean Princess,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,40,41,35,27,34,177,Colorless,Staff,regular_4_3_2_1
+329,Elimine: Scouring Saint,The Binding Blade,Flying,Colorless Staff,36,34,40,16,41,167,Colorless,Staff,mythic
+330,Elincia: Devoted Queen,Radiant Dawn,Flying,Colorless Staff,38,44,45,18,28,173,Colorless,Staff,specialRate
+331,Elincia: Estival Princess,Radiant Dawn,Infantry,Green Dagger,34,29,35,20,21,139,Green,Dagger,special;specialRate
+332,Elincia: Hearts of Purity,Path of Radiance,Infantry,Red Sword,40,48,49,31,36,204,Red,Sword,duo
+333,Elincia: Lost Princess,Path of Radiance,Flying,Red Sword,35,34,36,24,27,156,Red,Sword,specialRate
+334,Elincia: Seaside Queen,Radiant Dawn,Flying,Blue Bow,38,36,40,25,33,172,Blue,Bow,tempest
+335,Elincia: Undaunted Queen,Radiant Dawn,Flying,Red Sword,40,45,47,23,34,189,Red,Sword,legendary
+336,Elise: Bubbling Flower,Fates,Cavalry,Red Dagger,34,33,37,18,22,144,Red,Dagger,special;specialRate
+337,Elise: Budding Flower,Fates,Cavalry,Colorless Staff,30,32,32,19,32,145,Colorless,Staff,specialRate
+338,Elise: Sincere Sister,Fates,Cavalry,Colorless Staff,38,48,48,17,34,185,Colorless,Staff,legendary
+339,Elise: Sparkling Smile,Fates,Cavalry,Colorless Staff,38,47,47,17,31,180,Colorless,Staff,special
+340,Elise: Sweetheart Royals,Fates,Cavalry,Colorless Staff,37,43,46,16,27,169,Colorless,Staff,duo;special
+341,Elise: Tropical Flower,Fates,Infantry,Green Tome,34,36,34,18,25,147,Green,Tome,special;specialRate
+342,Eliwood: Blazing Knight,The Blazing Blade,Cavalry,Red Sword,37,36,34,33,16,156,Red,Sword,legendary
+343,Eliwood: Devoted Love,The Blazing Blade,Armored,Blue Lance,47,38,32,29,29,175,Blue,Lance,tempest
+344,Eliwood: Knight of Lycia,The Blazing Blade,Cavalry,Red Sword,39,31,30,23,32,155,Red,Sword,regular_4_3_2_1
+345,Eliwood: Marquess Pherae,The Blazing Blade,Cavalry,Blue Lance,40,37,35,32,18,162,Blue,Lance,specialRate
+346,Eliwood: Noble Ablaze,The Blazing Blade,Cavalry,Green Axe,40,48,48,41,18,195,Green,Axe,attuned
+347,Eliwood: Pledged Friend,The Blazing Blade,Cavalry,Red Sword,39,45,46,29,20,179,Red,Sword,tempest;special
+348,Elm: Resolute Grouch,Heroes,Flying,Green Beast,41,40,45,27,31,184,Green,Beast,special;specialRate
+349,Elm: Retainer to Embla,Heroes,Flying,Red Beast,41,43,48,33,30,195,Red,Beast,mythic
+350,Embla: Closed-Off Bride,Heroes,Flying,Colorless Beast,40,45,47,35,22,189,Colorless,Beast,special
+351,Embla: God of Closure,Heroes,Flying,Red Beast,41,43,44,31,24,183,Red,Beast,mythic
+352,Emmeryn: Gentle Exalt,Awakening,Infantry,Colorless Staff,43,32,34,23,30,162,Colorless,Staff,regular_4_3_2_1
+353,Emmeryn: Selfless Exalt,Awakening,Infantry,Colorless Staff,40,47,25,23,47,182,Colorless,Staff,special
+354,Ena: Autumn Tactician,Radiant Dawn,Infantry,Red Breath,44,36,23,37,36,176,Red,Breath,tempest
+355,Ephraim: Ardent Prince,The Sacred Stones,Armored,Blue Lance,47,48,17,48,41,201,Blue,Lance,special
+356,Ephraim: Dynastic Duo,The Sacred Stones,Infantry,Blue Lance,41,39,30,37,25,172,Blue,Lance,duo;specialRate
+357,Ephraim: Legendary Lord,The Sacred Stones,Cavalry,Blue Lance,43,36,27,33,18,157,Blue,Lance,legendary
+358,Ephraim: Restoration Lord,The Sacred Stones,Infantry,Blue Lance,45,35,25,32,20,157,Blue,Lance,specialRate
+359,Ephraim: Sacred Twin Lord,The Sacred Stones,Armored,Green Axe,46,38,27,37,26,174,Green,Axe,specialRate
+360,Ephraim: Sparkling Gallantly,The Sacred Stones,Armored,Blue Lance,45,41,23,36,29,174,Blue,Lance,special;specialRate
+361,Ephraim: Sunshine Valiant,The Sacred Stones,Cavalry,Green Axe,41,47,16,44,31,179,Green,Axe,special
+362,Eremiya: Bishop of Woe,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,44,32,35,23,27,161,Colorless,Staff,ghb
+363,Erinys: Earnest Knight,Genealogy of the Holy War,Flying,Blue Lance,39,37,41,32,23,172,Blue,Lance,specialRate
+364,Erk: Studious Mage,The Blazing Blade,Infantry,Red Tome,45,35,39,19,27,165,Red,Tome,regular_4_3_2_1
+365,Est: Junior Whitewing,Shadow Dragon / (New) Mystery,Flying,Blue Lance,36,35,30,24,32,157,Blue,Lance,regular_4_3_2_1
+366,Est: Springtime Flier,Shadow Dragon / (New) Mystery,Flying,Blue Tome,39,38,35,17,26,155,Blue,Tome,special;specialRate
+367,Est: Sweet Baby Sis,Echoes,Flying,Blue Lance,35,41,38,25,37,176,Blue,Lance,specialRate
+368,Ethlyn: Glimmering Lady,Genealogy of the Holy War,Flying,Colorless Dagger,37,36,41,16,28,158,Colorless,Dagger,special;specialRate
+369,Ethlyn: Spirited Princess,Genealogy of the Holy War,Cavalry,Colorless Staff,38,28,34,26,20,146,Colorless,Staff,tempest
+370,Etie: Fitness Fighter,Engage,Infantry,Colorless Bow,40,45,40,30,28,183,Colorless,Bow,regular_4_3_2_1
+371,Ewan: Eager Student,The Sacred Stones,Infantry,Red Tome,38,37,33,23,35,166,Red,Tome,specialRate
+372,Excellus: Conqueror’s Wile,Awakening,Infantry,Red Tome,42,47,21,31,47,188,Red,Tome,ghb
+373,Eyvel: Mistress of Fiana,Thracia 776,Infantry,Red Sword,41,33,35,38,25,172,Red,Sword,specialRate
+374,Fae: Childlike Dragon,The Binding Blade,Infantry,Blue Breath,40,42,28,37,41,188,Blue,Breath,legendary
+375,Fae: Divine Dragon,The Binding Blade,Infantry,Green Breath,46,33,28,25,30,162,Green,Breath,regular_4_3_2_1
+376,Fae: Holiday Dear,The Binding Blade,Armored,Green Breath,45,35,26,33,41,180,Green,Breath,special;specialRate
+377,Fáfnir: Fresh Ambition,Heroes,Cavalry,Red Dagger,40,43,39,31,16,169,Red,Dagger,special;specialRate
+378,Fáfnir: King of Desolation,Heroes,Cavalry,Blue Lance,40,48,47,37,18,190,Blue,Lance,ghb
+379,Fargus: Badon Buccaneer,The Blazing Blade,Infantry,Green Axe,43,47,31,40,32,193,Green,Axe,ghb
+380,Farina: The Great Wing,The Blazing Blade,Flying,Blue Lance,39,36,38,30,30,173,Blue,Lance,specialRate
+381,Faye: Devoted Heart,Echoes,Infantry,Colorless Bow,42,30,25,26,31,154,Colorless,Bow,specialRate
+382,Faye: Drawn Heartstring,Echoes,Armored,Colorless Bow,43,40,23,35,38,179,Colorless,Bow,special;specialRate
+383,Febail: Mercenary Waif,Genealogy of the Holy War,Infantry,Blue Bow,40,46,45,26,31,188,Blue,Bow,regular_5
+384,Fee: Aspiring Knight,Genealogy of the Holy War,Flying,Red Sword,37,40,45,26,40,188,Red,Sword,regular_4_3_2_1
+385,Felicia: Confidently Cold,Fates,Cavalry,Green Axe,41,43,47,35,24,190,Green,Axe,special
+386,Felicia: Maid Mayhem,Fates,Infantry,Colorless Dagger,34,23,37,18,35,147,Colorless,Dagger,regular_4_3_2_1
+387,Felicia: Off the Menu,Fates,Armored,Green Axe,43,30,37,30,35,175,Green,Axe,special;specialRate
+388,Felix: Icy Gift Giver,Three Houses,Armored,Blue Bow,44,38,37,32,29,180,Blue,Bow,tempest
+389,Felix: Lone-Wolf Blade,Three Houses,Infantry,Red Sword,40,46,46,31,25,188,Red,Sword,specialRate
+390,Felix: Savant's Service,Three Houses,Infantry,Blue Lance,41,47,48,38,24,198,Blue,Lance,special
+391,Felix: Sword Savant,Three Houses,Infantry,Red Sword,40,47,48,35,29,199,Red,Sword,regular_5
+392,Felix: Zealous Yearning,Three Houses,Infantry,Red Sword,41,48,49,41,24,203,Red,Sword,special
+393,Ferdinand: Highborn Sipper,Three Houses,Flying,Green Tome,40,42,45,21,25,173,Green,Tome,special
+394,Ferdinand: Noblest of Nobles,Three Houses,Cavalry,Blue Lance,41,32,35,30,24,162,Blue,Lance,regular_4_3_2_1
+395,Fernand: Traitorous Knight,Echoes,Cavalry,Blue Lance,45,41,26,32,23,167,Blue,Lance,ghb
+396,Finn: Devoted Service,Thracia 776,Cavalry,Red Sword,40,48,46,37,19,190,Red,Sword,tempest
+397,Finn: Lance of Legend,Thracia 776,Cavalry,Blue Lance,40,34,33,32,18,157,Blue,Lance,tempest
+398,Fiora: Airborne Warrior,The Blazing Blade,Flying,Blue Lance,38,32,38,21,37,166,Blue,Lance,specialRate
+399,Fiora: Defrosted Ilian,The Blazing Blade,Flying,Red Sword,40,32,37,26,28,163,Red,Sword,tempest
+400,Fir: Dual Warriors,The Binding Blade,Cavalry,Red Sword,40,46,49,35,25,195,Red,Sword,harmonized;special
+401,Fir: Student of Spring,The Binding Blade,Flying,Green Axe,39,35,41,28,24,167,Green,Axe,special;specialRate
+402,Fir: Sword Student,The Binding Blade,Infantry,Red Sword,41,25,36,24,31,157,Red,Sword,regular_4_3_2_1
+403,Fir: Swordmaiden,The Binding Blade,Infantry,Red Sword,42,44,46,34,21,187,Red,Sword,specialRate
+404,Fjorm: Bride of Rime,Heroes,Flying,Colorless Staff,42,34,34,17,23,150,Colorless,Staff,special;specialRate
+405,Fjorm: Gleaming Ice Pair,Heroes,Armored,Blue Lance,43,42,47,35,40,207,Blue,Lance,duo;special
+406,Fjorm: Ice Ascendant,Heroes,Armored,Green Axe,43,39,41,31,36,190,Green,Axe,specialRate
+407,Fjorm: Icy Miracle,Heroes,Infantry,Blue Lance,39,45,48,34,38,204,Blue,Lance,chosen
+408,Fjorm: New Traditions,Heroes,Flying,Green Bow,39,35,35,20,21,150,Green,Bow,special;specialRate
+409,Fjorm: Princess of Ice,Heroes,Infantry,Blue Lance,39,30,31,30,34,164,Blue,Lance,legendary
+410,Fjorm: Seaside Thaw,Heroes,Infantry,Red Sword,43,43,46,28,28,188,Red,Sword,special
+411,Flame Emperor: Bringer of War,Three Houses,Armored,Green Axe,50,40,25,37,26,178,Green,Axe,ghb
+412,Flavia: Bold Bride,Awakening,Cavalry,Red Sword,41,44,45,31,18,179,Red,Sword,special
+413,Flavia: Feroxi East-Khan,Awakening,Infantry,Red Sword,41,40,41,36,23,181,Red,Sword,specialRate
+414,Flayn: Playing Innocent,Three Houses,Flying,Colorless Staff,40,39,27,21,35,162,Colorless,Staff,specialRate
+415,Flayn: Silly Kitty-Cat,Three Houses,Cavalry,Colorless Staff,38,46,26,18,46,174,Colorless,Staff,special
+416,Flora: Cold as Ice,Fates,Infantry,Red Dagger,38,34,23,18,38,151,Red,Dagger,specialRate
+417,Flora: Polar-Perfect,Fates,Cavalry,Colorless Dagger,40,47,21,31,46,185,Colorless,Dagger,special
+418,Flora: Signature Dish,Fates,Armored,Red Dagger,43,38,22,29,38,170,Red,Dagger,special;specialRate
+419,Florina: Azure-Sky Knight,The Blazing Blade,Flying,Colorless Bow,39,37,43,22,31,172,Colorless,Bow,specialRate
+420,Florina: Lovely Flier,The Blazing Blade,Flying,Blue Lance,42,29,27,25,34,157,Blue,Lance,regular_4_3_2_1
+421,Fogado: Affable Prince,Engage,Cavalry,Green Bow,38,45,47,25,30,185,Green,Bow,regular_5
+422,Fogado: Summer of Bliss,Engage,Cavalry,Colorless Dagger,39,45,47,26,28,185,Colorless,Dagger,tempest
+423,Fomortiis: Dark of Night,The Sacred Stones,Armored,Red Beast,49,47,16,49,46,207,Red,Beast,special
+424,Fomortiis: Demon King,The Sacred Stones,Armored,Colorless Beast,46,44,15,46,44,195,Colorless,Beast,mythic
+425,Forde: Unfettered Knight,The Sacred Stones,Cavalry,Red Sword,40,45,45,37,18,185,Red,Sword,regular_5
+426,Forrest: Fashion Forward,Fates,Cavalry,Colorless Staff,39,32,26,19,35,151,Colorless,Staff,regular_4_3_2_1
+427,Forsyth: Loyal Lieutenant,Echoes,Armored,Blue Lance,47,40,20,39,33,179,Blue,Lance,specialRate
+428,Framme: Spring Fangirl,Engage,Infantry,Green Axe,45,41,46,30,31,193,Green,Axe,special
+429,Franz: The Faithful,The Sacred Stones,Cavalry,Blue Lance,43,46,48,35,23,195,Blue,Lance,regular_4_3_2_1
+430,Frederick: Horizon Watcher,Awakening,Infantry,Colorless Dagger,40,32,31,28,18,149,Colorless,Dagger,special;specialRate
+431,Frederick: Polite Knight,Awakening,Cavalry,Green Axe,43,35,25,36,14,153,Green,Axe,regular_4_3_2_1
+432,Frederick: Youth in Service,Awakening,Cavalry,Green Axe,41,46,28,47,23,185,Green,Axe,tempest
+433,Freyja: Fleeting Summer,Heroes,Cavalry,Colorless Beast,40,39,43,25,20,167,Colorless,Beast,special;specialRate
+434,Freyja: Lady of Nightmare,Heroes,Cavalry,Green Beast,40,38,44,24,22,168,Green,Beast,mythic
+435,Freyja: Parallel Hearts,Heroes,Infantry,Colorless Tome,40,47,49,30,28,194,Colorless,Tome,duo;special
+436,Freyr: Dream-King,Heroes,Cavalry,Blue Beast,41,46,16,41,35,179,Blue,Beast,mythic
+437,Freyr: Estival Dreams,Heroes,Cavalry,Red Beast,41,38,16,38,35,168,Red,Beast,special;specialRate
+438,Fuga: Force of Gales,Fates,Infantry,Green Axe,42,46,30,45,30,193,Green,Axe,tempest
+439,Gaius: Candy Stealer,Awakening,Infantry,Colorless Dagger,42,29,36,22,19,148,Colorless,Dagger,regular_4_3_2_1
+440,Gaius: Thief Exposed,Awakening,Infantry,Colorless Bow,34,30,37,19,28,148,Colorless,Bow,special;specialRate
+441,Galle: Azure Rider,The Binding Blade,Flying,Blue Lance,46,38,22,38,28,172,Blue,Lance,ghb
+442,Galzus: Dark Blade of Od,Thracia 776,Infantry,Red Sword,40,43,41,36,22,182,Red,Sword,specialRate
+443,Ganglöt: Death Anew,Heroes,Infantry,Green Axe,40,44,30,38,35,187,Green,Axe,rearmed
+444,Gangrel: Plegia's Mad King,Awakening,Infantry,Colorless Dagger,45,32,38,24,27,166,Colorless,Dagger,ghb
+445,Garcia: Warrior Reborn,The Sacred Stones,Infantry,Green Axe,50,49,41,44,20,204,Green,Axe,ghb
+446,Garon: King of Nohr,Fates,Infantry,Red Breath,43,33,22,33,32,163,Red,Breath,ghb
+447,Gatekeeper: Midwinter Toil,Three Houses,Armored,Colorless Tome,48,35,21,48,49,201,Colorless,Tome,special
+448,Gatekeeper: Nothing to Report,Three Houses,Infantry,Green Tome,41,37,17,40,36,171,Green,Tome,specialRate
+449,Gatrie: Armored Amour,Path of Radiance,Armored,Blue Lance,47,42,17,44,35,185,Blue,Lance,specialRate
+450,Geese: A Life at Sea,The Binding Blade,Infantry,Blue Lance,46,38,35,32,21,172,Blue,Lance,special
+451,Genny: Dressed with Care,Echoes,Cavalry,Colorless Staff,35,36,24,14,34,143,Colorless,Staff,special;specialRate
+452,Genny: Endearing Ally,Echoes,Infantry,Colorless Staff,32,35,25,21,34,147,Colorless,Staff,specialRate
+453,Geoffrey: Realm's Protector,Radiant Dawn,Cavalry,Blue Lance,40,46,40,29,25,180,Blue,Lance,specialRate
+454,Gerik: Desert Tiger,The Sacred Stones,Infantry,Green Axe,47,37,36,30,22,172,Green,Axe,specialRate
+455,Gerome: Masked Rider,Awakening,Flying,Green Axe,45,38,25,34,19,161,Green,Axe,tempest
+456,Gharnef: Dark Pontifex,Shadow Dragon / (New) Mystery,Infantry,Red Tome,38,30,34,27,23,152,Red,Tome,ghb
+457,Gilliam: Wall of Silence,The Sacred Stones,Armored,Blue Lance,47,44,21,48,35,195,Blue,Lance,specialRate
+458,Ginnungagap: Ruler of Nihility,Heroes,Cavalry,Colorless Dagger,40,47,31,30,32,180,Colorless,Dagger,rearmed
+459,Glen: Sunstone,The Sacred Stones,Flying,Red Sword,43,45,34,47,20,189,Red,Sword,ghb
+460,Goldmary: Coy Beach Divas,Three Houses,Infantry,Blue Lance,40,44,46,47,16,193,Blue,Lance,harmonized;special
+461,Gonzalez: Kindly Bandit,The Binding Blade,Infantry,Green Axe,50,42,35,33,21,181,Green,Axe,ghb
+462,Gordin: Altean Archer,Shadow Dragon / (New) Mystery,Infantry,Colorless Bow,43,31,25,32,17,148,Colorless,Bow,regular_4_3_2_1
+463,Gotoh: Apostle of Naga,Shadow Dragon / (New) Mystery,Infantry,Red Tome,40,48,16,36,48,188,Red,Tome,regular_5
+464,Gotoh: White Sage,Shadow Dragon / (New) Mystery,Infantry,Colorless Tome,40,42,14,38,42,176,Colorless,Tome,mythic
+465,Gray: Wry Comrade,Echoes,Infantry,Red Sword,43,35,32,30,22,162,Red,Sword,specialRate
+466,Gregor: Swell Sword,Awakening,Infantry,Red Sword,40,44,37,43,23,187,Red,Sword,specialRate
+467,Greil: Heroic Exemplar,Path of Radiance,Armored,Green Axe,47,41,18,38,30,174,Green,Axe,special;specialRate
+468,Grima: Tyrant of Despair,Awakening,Armored,Colorless Breath,48,48,18,45,48,207,Colorless,Breath,regular_5
+469,Grima: Tyrant of Ruin,Awakening,Armored,Blue Breath,47,49,18,46,47,207,Blue,Breath,regular_4_3_2_1
+470,Griss: Indulging Pain,Engage,Infantry,Green Tome,40,47,27,26,48,188,Green,Tome,ghb
+471,Gromell: Bolt Axe General,Path of Radiance,Flying,Green Axe,42,47,30,49,32,200,Green,Axe,ghb
+472,Guinivere: Princess of Bern,The Binding Blade,Infantry,Blue Tome,36,35,40,16,38,165,Blue,Tome,specialRate
+473,Guinivere: Queen of Bern,The Binding Blade,Infantry,Colorless Tome,37,39,45,16,40,177,Colorless,Tome,legendary
+474,Gullveig: Glittering Sunlight,Heroes,Cavalry,Red Tome,40,46,47,24,17,174,Red,Tome,duo;special
+475,Gullveig: Golden Seer,Heroes,Cavalry,Colorless Tome,37,45,47,27,18,174,Colorless,Tome,mythic
+476,Gullveig: Hidden in Time,Heroes,Cavalry,Colorless Tome,42,47,49,30,17,185,Colorless,Tome,duo;special
+477,Gullveig: Seer Beyond Time,Heroes,Flying,Blue Tome,40,45,47,27,19,178,Blue,Tome,specialRate
+478,Gunnthrá: Beaming Smile,Heroes,Cavalry,Colorless Dagger,39,33,37,17,24,150,Colorless,Dagger,special;specialRate
+479,Gunnthrá: Voice of Dreams,Heroes,Cavalry,Green Tome,37,31,33,19,25,145,Green,Tome,legendary
+480,Gunnthrá: Year's First Dream,Heroes,Flying,Red Sword,38,34,37,27,26,162,Red,Sword,special;specialRate
+481,Gunter: Inveterate Soldier,Fates,Cavalry,Green Axe,43,32,24,33,18,150,Green,Axe,regular_4_3_2_1
+482,Gustav: Majestic Love,Heroes,Armored,Green Axe,49,41,18,46,31,185,Green,Axe,special;specialRate
+483,Gustav: Sovereign Slain,Heroes,Cavalry,Green Axe,40,41,25,38,30,174,Green,Axe,specialRate
+484,Guy: Kutolah Blade,The Blazing Blade,Infantry,Red Sword,44,37,43,33,25,182,Red,Sword,regular_4_3_2_1
+485,Gwendolyn: Adorable Knight,The Binding Blade,Armored,Blue Lance,49,30,24,38,28,169,Blue,Lance,regular_4_3_2_1
+486,Haar: Black Tempest,Radiant Dawn,Flying,Green Axe,45,37,25,36,18,161,Green,Axe,ghb
+487,Haar: Tempest Runner,Radiant Dawn,Flying,Red Sword,44,42,24,44,28,182,Red,Sword,tempest
+488,Haitaka: Persistent General,Fates,Infantry,Blue Lance,43,48,46,38,28,203,Blue,Lance,ghb
+489,Hana: Focused Ninja,Fates,Infantry,Green Axe,42,36,40,28,30,176,Green,Axe,tempest
+490,Hana: Focused Samurai,Fates,Infantry,Red Sword,37,35,36,23,26,157,Red,Sword,regular_4_3_2_1
+491,Hana: Striving Heart,Fates,Armored,Red Sword,40,42,46,41,27,196,Red,Sword,special
+492,Hans: Ambitious Brute,Fates,Infantry,Green Axe,46,45,39,35,21,186,Green,Axe,ghb
+493,Hapi: Drawn-Out Sigh,Three Houses,Cavalry,Blue Tome,40,42,26,16,39,163,Blue,Tome,specialRate
+494,Hapi: Eternal Sunlit Pair,Three Houses,Flying,Blue Tome,45,48,46,17,28,184,Blue,Tome,duo;special
+495,Hardin: Dark Emperor,Shadow Dragon / (New) Mystery,Armored,Blue Lance,45,34,28,36,32,175,Blue,Lance,specialRate
+496,Hardin: The Coyote,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,41,41,44,32,21,179,Blue,Lance,specialRate
+497,Harken: Troubled Warrior,The Blazing Blade,Infantry,Red Sword,41,46,32,46,27,192,Red,Sword,regular_5
+498,Hawkeye: Desert Guardian,The Blazing Blade,Infantry,Green Axe,45,33,22,28,30,158,Green,Axe,regular_4_3_2_1
+499,Hawkeye: Taciturn Guardian,The Blazing Blade,Infantry,Blue Lance,45,47,22,41,38,193,Blue,Lance,tempest
+500,Hayato: Diviner of Reppu,Fates,Infantry,Red Tome,39,43,45,24,31,182,Red,Tome,regular_4_3_2_1
+501,Heath: Wandering Knight,The Blazing Blade,Flying,Blue Lance,40,35,33,33,27,168,Blue,Lance,ghb
+502,Heath: Wyvern Ninja,The Blazing Blade,Flying,Colorless Bow,42,43,23,40,30,178,Colorless,Bow,special
+503,Heather: Wandering Ninja,Radiant Dawn,Infantry,Green Dagger,41,42,47,27,30,187,Green,Dagger,special
+504,Hector: Brave Warrior,The Blazing Blade,Armored,Blue Lance,48,37,22,39,28,174,Blue,Lance,specialRate
+505,Hector: Dressed-Up Duo,The Blazing Blade,Armored,Red Sword,47,41,26,39,27,180,Red,Sword,duo;special;specialRate
+506,Hector: General of Ostia,The Blazing Blade,Armored,Green Axe,52,36,24,37,19,168,Green,Axe,specialRate
+507,Hector: Into the Fray,The Blazing Blade,Armored,Blue Lance,48,49,21,49,45,212,Blue,Lance,harmonized
+508,Hector: Just Here to Fight,The Blazing Blade,Armored,Green Axe,50,38,21,40,24,173,Green,Axe,special;specialRate
+509,Hector: Marquess of Ostia,The Blazing Blade,Armored,Green Axe,47,40,23,38,26,174,Green,Axe,legendary
+510,Hector: Steel Warrior,The Blazing Blade,Armored,Red Sword,48,49,17,48,45,207,Red,Sword,attuned
+511,Hector: Sworn Friend,The Blazing Blade,Armored,Green Axe,47,45,16,47,41,196,Green,Axe,special
+512,Heiðr: Innocent Goddess,Heroes,Infantry,Green Tome,38,45,45,29,20,177,Green,Tome,mythic
+513,Heiðrún: Healing Nectar,Heroes,Infantry,Green Beast,40,45,16,45,47,193,Green,Beast,mythic
+514,Heiðrún: Peaceful Horizon,Heroes,Infantry,Colorless Beast,41,46,18,46,48,199,Colorless,Beast,special
+515,Heiðrún: Sisters of Healing,Heroes,Infantry,Colorless Tome,39,47,16,38,48,188,Colorless,Tome,duo;special
+516,Heimdallr: God of Foresight,Heroes,Cavalry,Blue Tome,42,49,16,29,49,185,Blue,Tome,mythic
+517,Heimdallr: New Year's Vision,Heroes,Cavalry,Green Tome,41,49,16,30,49,185,Green,Tome,special
+518,Hel: Death Sovereign,Heroes,Flying,Green Axe,40,38,41,30,18,167,Green,Axe,mythic
+519,Helbindi: Savage Scourge,Heroes,Infantry,Green Axe,44,35,18,35,31,163,Green,Axe,specialRate
+520,Helbindi: Seaside Scourge,Heroes,Infantry,Red Sword,44,36,18,37,33,168,Red,Sword,special;specialRate
+521,Henriette: Overflowing Love,Heroes,Armored,Red Tome,42,40,18,35,40,175,Red,Tome,special;specialRate
+522,Henry: Happy Vampire,Awakening,Armored,Green Tome,36,33,34,26,36,165,Green,Tome,special;specialRate
+523,Henry: Peculiar Egg,Awakening,Cavalry,Colorless Bow,41,37,27,40,23,168,Colorless,Bow,special
+524,Henry: Twisted Mind,Awakening,Infantry,Red Tome,45,23,22,32,25,147,Red,Tome,regular_4_3_2_1
+525,Hestia: Duma's Witch,Echoes,Infantry,Blue Tome,40,45,31,23,43,182,Blue,Tome,regular_4_3_2_1
+526,Hilda: Deer's Two-Piece,Three Houses,Flying,Colorless Staff,39,37,40,20,25,161,Colorless,Staff,duo;special;specialRate
+527,Hilda: Helping Hand,Three Houses,Infantry,Green Axe,42,42,43,34,26,187,Green,Axe,specialRate
+528,Hilda: Holiday Layabout,Three Houses,Armored,Blue Lance,44,39,38,37,26,184,Blue,Lance,special
+529,Hilda: Idle Maiden,Three Houses,Infantry,Green Axe,43,37,37,28,23,168,Green,Axe,specialRate
+530,Hilda: Queen of Friege,Genealogy of the Holy War,Infantry,Red Tome,41,40,25,24,40,170,Red,Tome,ghb
+531,Hilda: Skyward Wings,The Blazing Blade,Flying,Colorless Bow,40,49,48,40,17,194,Colorless,Bow,harmonized;special
+532,Hinata: Samurai Groom,Fates,Infantry,Green Axe,47,37,27,40,21,172,Green,Axe,tempest
+533,Hinata: Wild Samurai,Fates,Infantry,Red Sword,47,32,24,36,18,157,Red,Sword,regular_4_3_2_1
+534,Hinoka: Blue Sky Warrior,Fates,Flying,Colorless Bow,37,32,35,17,29,150,Colorless,Bow,specialRate
+535,Hinoka: Fair Pirate Pair,Fates,Flying,Green Bow,40,40,40,23,23,166,Green,Bow,duo;special;specialRate
+536,Hinoka: Relaxed Warrior,Fates,Flying,Green Dagger,38,35,35,16,26,150,Green,Dagger,special;specialRate
+537,Hinoka: Thundering Wings,Fates,Flying,Red Bow,40,46,46,23,22,177,Red,Bow,legendary
+538,Hinoka: Warrior of Gusto,Fates,Flying,Blue Lance,40,48,48,36,28,200,Blue,Lance,rearmed
+539,Hinoka: Warrior Princess,Fates,Flying,Blue Lance,41,35,32,25,24,157,Blue,Lance,specialRate
+540,Höðr: Dusk Shadow God,Heroes,Flying,Blue Bow,39,48,32,21,49,189,Blue,Bow,mythic
+541,Holst: Hero of Leicester,Three Houses,Infantry,Red Sword,42,43,41,35,26,187,Red,Sword,ghb
+542,Homer: Traveling Bard,Thracia 776,Infantry,Blue Tome,40,43,47,25,33,188,Blue,Tome,regular_4_3_2_1
+543,Hortensia: Cutesplosion,Engage,Armored,Colorless Staff,40,45,48,21,48,202,Colorless,Staff,special
+544,Hortensia: Little Charmer,Engage,Flying,Colorless Staff,36,44,47,16,34,177,Colorless,Staff,rearmed
+545,Hortensia: Winter's Dearest,Engage,Cavalry,Colorless Staff,40,45,48,17,30,180,Colorless,Staff,special
+546,Hræsvelgr: Quieting Blade,Heroes,Flying,Blue Beast,40,45,48,36,25,194,Blue,Beast,mythic
+547,Hræsvelgr: Wings of Healing,Heroes,Flying,Green Beast,41,46,48,36,23,194,Green,Beast,special
+548,Hríd: Frigid Ninja,Heroes,Cavalry,Green Axe,40,49,30,49,27,195,Green,Axe,special
+549,Hríd: Icy Blade,Heroes,Cavalry,Red Sword,41,37,17,36,26,157,Red,Sword,legendary
+550,Hríd: Island Ice Prince,Heroes,Cavalry,Blue Lance,40,47,27,47,24,185,Blue,Lance,special
+551,Hríd: Resolute Prince,Heroes,Flying,Red Sword,42,38,19,36,27,162,Red,Sword,special;specialRate
+552,Hubert: Crimson Schemer,Three Houses,Armored,Blue Tome,44,48,39,23,41,195,Blue,Tome,tempest
+553,Hubert: Sinister Servant,Three Houses,Infantry,Red Tome,41,39,32,19,25,156,Red,Tome,specialRate
+554,Hugh: Worldly Mage,The Binding Blade,Infantry,Red Tome,40,38,42,27,24,171,Red,Tome,specialRate
+555,Iago: Nohr's Tactician,Fates,Infantry,Red Tome,42,38,27,23,32,162,Red,Tome,ghb
+556,Idunn: Dark Priestess,The Binding Blade,Armored,Red Breath,45,35,26,39,34,179,Red,Breath,specialRate
+557,Idunn: Divine Demon,The Binding Blade,Armored,Blue Breath,45,43,26,43,38,195,Blue,Breath,specialRate
+558,Idunn: Dragonkin Duo,The Binding Blade,Armored,Red Breath,46,37,26,37,38,184,Red,Breath,duo;special;specialRate
+559,Ignatz: Snowscape Artist,Three Houses,Armored,Colorless Bow,42,35,40,31,37,185,Colorless,Bow,tempest
+560,Ignatz: Worldly Artist,Three Houses,Infantry,Colorless Bow,40,46,48,19,46,199,Colorless,Bow,regular_5
+561,Igrene: Nabata Protector,The Binding Blade,Infantry,Red Bow,42,37,37,26,24,166,Red,Bow,specialRate
+562,Igrene: Ninja of Nabata,The Binding Blade,Flying,Colorless Dagger,40,43,38,22,30,173,Colorless,Dagger,special;specialRate
+563,Igrene: Sworn Protectors,The Binding Blade,Infantry,Blue Bow,40,46,46,24,32,188,Blue,Bow,harmonized;special
+564,Ike: Brave Mercenary,Path of Radiance,Infantry,Green Axe,43,36,28,35,20,162,Green,Axe,specialRate
+565,Ike: Close-Knit Siblings,Path of Radiance,Infantry,Red Sword,40,42,42,32,26,182,Red,Sword,duo;special;specialRate
+566,Ike: Desert Mercenary,Path of Radiance,Infantry,Blue Lance,41,47,47,36,28,199,Blue,Lance,special
+567,Ike: Of Radiance,Radiant Dawn,Infantry,Red Sword,41,47,18,45,42,193,Red,Sword,emblem
+568,Ike: Stalwart Heart,Path of Radiance,Armored,Red Sword,45,37,38,35,19,174,Red,Sword,special;specialRate
+569,Ike: Vanguard Legend,Radiant Dawn,Infantry,Red Sword,41,36,30,35,21,163,Red,Sword,legendary
+570,Ike: Young Mercenary,Path of Radiance,Infantry,Red Sword,42,35,31,32,18,158,Red,Sword,specialRate
+571,Ike: Zeal Unleashed,Radiant Dawn,Infantry,Red Sword,40,35,42,32,23,172,Red,Sword,specialRate
+572,Ike: Zealous Inheritors,The Binding Blade,Infantry,Green Axe,41,49,30,49,35,204,Green,Axe,harmonized
+573,Ilyana: Awakened Appetite,Path of Radiance,Infantry,Green Tome,40,41,30,18,42,171,Green,Tome,special
+574,Ilyana: Hungering Mage,Path of Radiance,Infantry,Blue Tome,39,38,32,17,40,166,Blue,Tome,regular_4_3_2_1
+575,Ilyana: Treat Harvester,Path of Radiance,Armored,Blue Tome,41,38,23,30,37,169,Blue,Tome,special;specialRate
+576,Ingrid: Beacon of Honor,Three Houses,Flying,Blue Lance,38,44,47,30,25,184,Blue,Lance,rearmed
+577,Ingrid: Chivalrous Heart,Three Houses,Cavalry,Blue Lance,40,47,49,36,23,195,Blue,Lance,rearmed;special
+578,Ingrid: Cordial Teatime,Thracia 776,Cavalry,Green Axe,40,46,48,35,21,190,Green,Axe,harmonized;special
+579,Ingrid: Galatea's Heir,Three Houses,Cavalry,Blue Lance,37,35,40,28,27,167,Blue,Lance,specialRate
+580,Ingrid: Solstice Knight,Three Houses,Flying,Blue Lance,39,34,42,25,26,166,Blue,Lance,special;specialRate
+581,Inigo: Festival Flower,Awakening,Flying,Green Bow,40,38,40,22,27,167,Green,Bow,special;specialRate
+582,Inigo: Flower Picker,Awakening,Infantry,Red Sword,40,44,45,34,30,193,Red,Sword,regular_4_3_2_1
+583,Inigo: Indigo Dancer,Awakening,Infantry,Green Tome,37,28,33,22,20,140,Green,Tome,special;specialRate
+584,Innes: Flawless Form,The Sacred Stones,Flying,Green Axe,42,33,37,30,20,162,Green,Axe,special;specialRate
+585,Innes: Frelian Moonlight,The Sacred Stones,Infantry,Colorless Bow,43,37,38,26,27,171,Colorless,Bow,tempest
+586,Innes: New Year's Aim,The Sacred Stones,Infantry,Colorless Bow,40,44,47,25,37,193,Colorless,Bow,tempest
+587,Innes: Regal Strategician,The Sacred Stones,Infantry,Colorless Bow,35,33,34,14,31,147,Colorless,Bow,specialRate
+588,Isadora: Escort of Pherae,The Blazing Blade,Cavalry,Blue Lance,38,43,46,32,25,184,Blue,Lance,regular_5
+589,Ishtar: Echoing Thunder,Genealogy of the Holy War,Infantry,Blue Tome,40,41,43,17,31,172,Blue,Tome,specialRate
+590,Ishtar: Thunder Goddess,Genealogy of the Holy War,Infantry,Blue Tome,38,34,36,17,26,151,Blue,Tome,specialRate
+591,Ishtar: Thunder's Waltz,Thracia 776,Flying,Red Tome,36,34,36,16,22,144,Red,Tome,special;specialRate
+592,Itsuki: Finding a Path,Tokyo Mirage Sessions ♯FE Encore,Infantry,Red Sword,41,37,30,33,32,173,Red,Sword,tempest
+593,Ivy: Flurry Embrace,Fates,Flying,Red Tome,39,49,34,19,48,189,Red,Tome,harmonized;special
+594,Ivy: Snow Queen,Engage,Flying,Blue Tome,41,47,34,26,30,178,Blue,Tome,attuned
+595,Ivy: Tidal Breeze,Engage,Flying,Green Tome,38,46,25,20,44,173,Green,Tome,special
+596,Jaffar: Angel of Death,The Blazing Blade,Infantry,Colorless Dagger,41,26,33,25,22,147,Colorless,Dagger,specialRate
+597,Jaffar: Angel of Night,The Blazing Blade,Armored,Green Dagger,44,35,37,31,27,174,Green,Dagger,tempest
+598,Jagen: Veteran Knight,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,37,27,24,25,35,148,Blue,Lance,regular_4_3_2_1
+599,Jakob: Devoted Monster,Fates,Armored,Colorless Bow,42,35,23,33,32,165,Colorless,Bow,special;specialRate
+600,Jakob: Devoted Servant,Fates,Infantry,Colorless Dagger,39,29,31,25,24,148,Colorless,Dagger,regular_4_3_2_1
+601,Jamke: Prince of Verdane,Genealogy of the Holy War,Infantry,Colorless Bow,38,36,32,29,17,152,Colorless,Bow,ghb
+602,Jarod: Nevassa General,Radiant Dawn,Infantry,Blue Lance,42,46,44,34,27,193,Blue,Lance,ghb
+603,Jedah: Priest of Duma,Echoes,Infantry,Red Tome,41,44,18,44,41,188,Red,Tome,ghb
+604,Jeorge: Perfect Shot,Shadow Dragon / (New) Mystery,Infantry,Colorless Bow,37,32,32,24,22,147,Colorless,Bow,regular_4_3_2_1
+605,Jeralt: Blade Breaker,Three Houses,Cavalry,Blue Lance,41,43,26,39,30,179,Blue,Lance,ghb
+606,Jesse: Blithe Mercenary,Echoes,Infantry,Red Sword,42,45,47,32,33,199,Red,Sword,regular_4_3_2_1
+607,Jill: Fiery Dracoknight,Path of Radiance,Flying,Green Axe,40,39,40,36,17,172,Green,Axe,specialRate
+608,Jorge: Traveling Peddler,Radiant Dawn,Infantry,Blue Bow,45,36,27,35,29,172,Blue,Bow,ghb
+609,Joshua: Resolute Tempest,The Sacred Stones,Infantry,Colorless Dagger,41,39,43,29,25,177,Colorless,Dagger,specialRate
+610,Joshua: Tempest King,The Sacred Stones,Infantry,Red Sword,40,31,35,30,28,164,Red,Sword,tempest
+611,Joshua: Tropical Gambler,The Sacred Stones,Infantry,Red Bow,40,36,39,28,24,167,Red,Bow,special;specialRate
+612,Julia: Brides of Light,Genealogy of the Holy War,Infantry,Colorless Tome,40,49,17,33,49,188,Colorless,Tome,duo;special
+613,Julia: Crusader of Light,Genealogy of the Holy War,Infantry,Blue Tome,40,39,28,19,36,162,Blue,Tome,legendary
+614,Julia: Heart Usurped,Genealogy of the Holy War,Infantry,Red Tome,39,41,24,17,40,161,Red,Tome,specialRate
+615,Julia: Naga's Blood,Genealogy of the Holy War,Infantry,Green Tome,38,35,26,17,32,148,Green,Tome,specialRate
+616,Julia: Scion of the Saint,Genealogy of the Holy War,Flying,Red Tome,39,42,35,16,35,167,Red,Tome,special;specialRate
+617,Julian: Tender Thief,Shadow Dragon / (New) Mystery,Infantry,Colorless Dagger,40,38,38,33,18,167,Colorless,Dagger,specialRate
+618,Julius: Scion of Darkness,Genealogy of the Holy War,Infantry,Red Tome,38,35,27,16,35,151,Red,Tome,ghb
+619,Juno: Nimble Grace,The Binding Blade,Flying,Red Sword,38,43,46,35,27,189,Red,Sword,special
+620,Juno: Soaring Bride,The Binding Blade,Flying,Blue Tome,38,36,38,22,26,160,Blue,Tome,special
+621,Kaden: Kitsune Braggart,Fates,Cavalry,Green Beast,38,32,36,25,25,156,Green,Beast,specialRate
+622,Kaden: Refreshed Kitsune,Fates,Cavalry,Red Beast,41,35,39,25,28,168,Red,Beast,special
+623,Kagero: Beverage Ninja,Fates,Armored,Green Dagger,41,38,21,32,33,165,Green,Dagger,special;specialRate
+624,Kagero: Bond Unwavering,Fates,Cavalry,Colorless Dagger,43,47,45,20,23,178,Colorless,Dagger,duo;special
+625,Kagero: Honorable Ninja,Fates,Infantry,Colorless Dagger,31,35,32,22,28,148,Colorless,Dagger,regular_4_3_2_1
+626,Kagero: Spring Ninja,Fates,Flying,Colorless Dagger,36,35,34,18,27,150,Colorless,Dagger,special;specialRate
+627,Kagetsu: Onigiri Samurai,Engage,Infantry,Red Sword,42,43,47,35,25,192,Red,Sword,regular_4_3_2_1
+628,Kamui: Wandering Blade,Echoes,Infantry,Red Sword,44,38,41,36,22,181,Red,Sword,regular_4_3_2_1
+629,Kana: Dragon Princess,Fates,Infantry,Green Breath,40,30,34,33,26,163,Green,Breath,specialRate
+630,Kana: Dragon Spawn,Fates,Infantry,Blue Breath,40,31,33,31,29,164,Blue,Breath,ghb
+631,Kana: Rising Dragon,Fates,Infantry,Red Breath,37,42,46,28,40,193,Red,Breath,special
+632,Kana: Rising Sunlight,Fates,Infantry,Blue Breath,37,43,45,27,41,193,Blue,Breath,tempest
+633,Karel: Sword Demon,The Blazing Blade,Infantry,Red Sword,47,30,35,25,20,157,Red,Sword,specialRate
+634,Karin: Driven Knight,Thracia 776,Flying,Blue Lance,41,37,42,26,31,177,Blue,Lance,regular_4_3_2_1
+635,Karla: Spring Reveries,Heroes,Cavalry,Green Axe,40,45,47,24,22,178,Green,Axe,harmonized;special
+636,Karla: Sun-Piercing Steel,The Blazing Blade,Infantry,Blue Lance,41,40,42,31,28,182,Blue,Lance,special;specialRate
+637,Karla: Sword Vassal,The Blazing Blade,Infantry,Red Sword,42,35,40,23,22,162,Red,Sword,specialRate
+638,Katarina: Torchlit Wanderer,Shadow Dragon / (New) Mystery,Flying,Blue Tome,39,37,43,16,28,163,Blue,Tome,special;specialRate
+639,Katarina: Wayward One,Shadow Dragon / (New) Mystery,Infantry,Red Tome,34,32,34,15,32,147,Red,Tome,specialRate
+640,Kaze: Easygoing Ninja,Fates,Infantry,Colorless Dagger,34,30,36,17,34,151,Colorless,Dagger,regular_4_3_2_1
+641,Keaton: Lupine Collector,Fates,Infantry,Red Beast,45,41,24,38,19,167,Red,Beast,specialRate
+642,Keaton: Resolved Wolfskin,Fates,Infantry,Green Beast,48,41,24,43,20,176,Green,Beast,tempest
+643,Kellam: Pumpkin Knight,Awakening,Armored,Red Sword,48,46,31,48,27,200,Red,Sword,tempest
+644,Kempf: Conniving General,Thracia 776,Cavalry,Red Sword,42,33,33,27,26,161,Red,Sword,ghb
+645,Kent: Crimson Shield,The Blazing Blade,Cavalry,Red Sword,42,37,40,30,24,173,Red,Sword,regular_4_3_2_1
+646,Kiragi: Upbeat Archer,Fates,Infantry,Colorless Bow,40,38,43,37,23,181,Colorless,Bow,regular_4_3_2_1
+647,Kiria: Cool Façade,Tokyo Mirage Sessions ♯FE Encore,Infantry,Red Tome,38,41,20,29,34,162,Red,Tome,specialRate
+648,Kjelle: Fair Fighter,Awakening,Armored,Blue Lance,47,40,22,37,28,174,Blue,Lance,specialRate
+649,Klein: Silver Nobleman,The Binding Blade,Infantry,Colorless Bow,40,31,33,20,24,148,Colorless,Bow,regular_4_3_2_1
+650,Kliff: Curious Spirit,Echoes,Infantry,Blue Tome,37,30,37,25,28,157,Blue,Tome,specialRate
+651,Knoll: Darkness Watcher,The Sacred Stones,Infantry,Red Tome,43,37,32,19,35,166,Red,Tome,regular_4_3_2_1
+652,Kris: Ardent Firebrand,Shadow Dragon / (New) Mystery,Cavalry,Green Axe,41,37,37,31,22,168,Green,Axe,tempest
+653,Kris: Unknown Hero,Shadow Dragon / (New) Mystery,Infantry,Red Sword,40,37,40,30,25,172,Red,Sword,specialRate
+654,Kris: Unsung Hero,Shadow Dragon / (New) Mystery,Infantry,Blue Lance,40,37,40,30,25,172,Blue,Lance,specialRate
+655,Kronya: Gleaming Blade,Three Houses,Infantry,Colorless Dagger,44,31,39,22,26,162,Colorless,Dagger,ghb
+656,Kurthnaga: Autumn Goldoan,Radiant Dawn,Infantry,Red Breath,45,39,27,36,35,182,Red,Breath,special
+657,Kvasir: Seer of the Past,Heroes,Cavalry,Red Tome,40,44,47,17,26,174,Red,Tome,mythic
+658,Kvasir: Unknown Future,Heroes,Infantry,Green Tome,40,45,47,21,30,183,Green,Tome,special
+659,Kyle: Zealous Knight,The Sacred Stones,Cavalry,Blue Lance,41,47,31,45,21,185,Blue,Lance,regular_4_3_2_1
+660,Kyza: Tiger of Fortune,Radiant Dawn,Infantry,Red Beast,45,39,26,41,30,181,Red,Beast,tempest
+661,L'Arachel: Harvest Princess,The Sacred Stones,Cavalry,Green Tome,39,36,34,22,20,151,Green,Tome,special;specialRate
+662,L'Arachel: Justice-Armed,The Sacred Stones,Cavalry,Colorless Staff,40,49,48,18,30,185,Colorless,Staff,rearmed
+663,L'Arachel: Princess of Light,The Sacred Stones,Cavalry,Blue Tome,33,33,31,17,31,145,Blue,Tome,regular_4_3_2_1
+664,L'Arachel: Seeker of Justice,The Sacred Stones,Cavalry,Colorless Staff,36,37,38,16,30,157,Colorless,Staff,special;specialRate
+665,L'Arachel: Summer Princess,The Sacred Stones,Flying,Colorless Staff,37,46,44,16,30,173,Colorless,Staff,special
+666,Lachesis: Ballroom Bloom,Genealogy of the Holy War,Flying,Green Dagger,37,37,27,19,37,157,Green,Dagger,special
+667,Lachesis: Lionheart's Sister,Genealogy of the Holy War,Infantry,Colorless Staff,39,32,25,22,30,148,Colorless,Staff,regular_4_3_2_1
+668,Laegjarn: Burning Sun,Heroes,Flying,Blue Tome,37,34,37,20,21,149,Blue,Tome,special;specialRate
+669,Laegjarn: Flame and Frost,Heroes,Flying,Blue Bow,40,44,19,37,38,178,Blue,Bow,duo;special;specialRate
+670,Laegjarn: Flame Ascendant,Heroes,Cavalry,Colorless Bow,40,39,41,30,18,168,Colorless,Bow,specialRate
+671,Laegjarn: New Experiences,Heroes,Cavalry,Blue Lance,38,32,35,35,17,157,Blue,Lance,tempest
+672,Laegjarn: Sheathed Steel,Heroes,Flying,Red Sword,41,32,36,36,17,162,Red,Sword,specialRate
+673,Laevatein: Bonfire's Blaze,Heroes,Flying,Green Tome,38,38,16,31,26,149,Green,Tome,special;specialRate
+674,Laevatein: Kumade Warrior,Heroes,Cavalry,Colorless Staff,33,36,30,27,18,144,Colorless,Staff,special;specialRate
+675,Laevatein: Ninja of Múspell,Heroes,Flying,Green Axe,41,42,18,37,34,172,Green,Axe,special;specialRate
+676,Laevatein: Searing Steel,Heroes,Infantry,Red Sword,39,37,31,34,22,163,Red,Sword,specialRate
+677,Lana: Benevolent Bride,Genealogy of the Holy War,Flying,Colorless Staff,40,47,41,24,31,183,Colorless,Staff,tempest
+678,Lapis: Forager of the Sea,Engage,Infantry,Blue Lance,41,45,48,35,30,199,Blue,Lance,special
+679,Lapis: Mighty Bride,Engage,Cavalry,Red Sword,41,42,47,30,24,184,Red,Sword,special
+680,Lapis: Mighty Flower,Engage,Infantry,Red Sword,41,41,45,29,32,188,Red,Sword,regular_4_3_2_1
+681,Lara: Step Lively,Thracia 776,Infantry,Red Dagger,40,35,44,34,24,177,Red,Dagger,regular_4_3_2_1
+682,Larcei: Bride of Astra,Genealogy of the Holy War,Infantry,Blue Lance,40,45,48,35,31,199,Blue,Lance,special
+683,Larcei: Keen Kin,Genealogy of the Holy War,Infantry,Red Sword,41,36,40,30,25,172,Red,Sword,specialRate
+684,Larcei: Scion of Astra,Genealogy of the Holy War,Infantry,Green Axe,40,39,42,33,28,182,Green,Axe,special;specialRate
+685,Larum: Dancing Bride,The Binding Blade,Flying,Blue Lance,38,32,40,26,31,167,Blue,Lance,tempest
+686,Larum: Sprightly Dancer,The Binding Blade,Infantry,Colorless Dagger,37,32,39,18,30,156,Colorless,Dagger,specialRate
+687,Laslow: Dancing Duelist,Fates,Infantry,Red Sword,44,35,26,30,22,157,Red,Sword,regular_4_3_2_1
+688,Laurent: The Elucidator,Awakening,Infantry,Colorless Tome,39,46,30,24,43,182,Colorless,Tome,regular_4_3_2_1
+689,Læraðr: Quieting Heart,Heroes,Armored,Colorless Beast,50,48,17,44,48,207,Colorless,Beast,mythic
+690,Leanne: Forest's Song,Radiant Dawn,Flying,Colorless Beast,36,27,37,16,34,150,Colorless,Beast,specialRate
+691,Legault: The Hurricane,The Blazing Blade,Infantry,Colorless Dagger,39,31,38,24,19,151,Colorless,Dagger,regular_4_3_2_1
+692,Legion: Masked Maniac,Shadow Dragon / (New) Mystery,Infantry,Green Axe,46,36,35,22,18,157,Green,Axe,ghb
+693,Leif: Destined Scions,Genealogy of the Holy War,Cavalry,Colorless Bow,40,40,41,27,20,168,Colorless,Bow,harmonized;special;specialRate
+694,Leif: Prince of Leonster,Thracia 776,Infantry,Red Sword,40,32,38,30,23,163,Red,Sword,specialRate
+695,Leif: Sworn to Country,Genealogy of the Holy War,Cavalry,Green Bow,40,48,16,47,34,185,Green,Bow,attuned
+696,Leif: Unifier of Thracia,Genealogy of the Holy War,Cavalry,Colorless Bow,40,38,22,29,27,156,Colorless,Bow,legendary
+697,Leila: Keen Lookout,The Blazing Blade,Flying,Red Tome,40,38,43,20,25,166,Red,Tome,special;specialRate
+698,Leila: Rose amid Fangs,The Blazing Blade,Infantry,Colorless Dagger,40,36,41,23,26,166,Colorless,Dagger,specialRate
+699,Leila: Superb Shadow,The Blazing Blade,Infantry,Colorless Dagger,40,45,48,27,33,193,Colorless,Dagger,rearmed
+700,Lena: Bereft Angel,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,45,48,27,19,49,188,Colorless,Staff,regular_5
+701,Lena: Tender Angel,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,40,32,29,24,37,162,Colorless,Staff,regular_4_3_2_1
+702,Lene: Yearning Dancer,Genealogy of the Holy War,Infantry,Red Sword,35,28,35,23,28,149,Red,Sword,specialRate
+703,Leo: Dark Sprout,Fates,Cavalry,Red Tome,40,49,27,16,48,180,Red,Tome,special
+704,Leo: Extra Tomatoes,Fates,Cavalry,Green Tome,37,33,21,27,28,146,Green,Tome,tempest
+705,Leo: Festival Bonds,Fates,Cavalry,Colorless Tome,37,46,27,18,46,174,Colorless,Tome,special
+706,Leo: Seashore's Prince,Fates,Infantry,Red Tome,37,32,27,16,35,147,Red,Tome,special;specialRate
+707,Leo: Shrouded Heart,Fates,Cavalry,Green Bow,37,45,31,16,45,174,Green,Bow,special
+708,Leo: Sorcerous Prince,Fates,Cavalry,Red Tome,39,29,22,25,30,145,Red,Tome,specialRate
+709,Leon: True of Heart,Echoes,Infantry,Colorless Bow,39,34,30,30,15,148,Colorless,Bow,regular_4_3_2_1
+710,Leonardo: Freedom's Arrow,Radiant Dawn,Infantry,Colorless Bow,40,44,42,26,36,188,Colorless,Bow,regular_4_3_2_1
+711,Leonie: Relentless Rays,Three Houses,Cavalry,Colorless Bow,41,36,39,27,19,162,Colorless,Bow,tempest
+712,Lethe: Cat Attack,Radiant Dawn,Cavalry,Blue Beast,40,44,47,35,24,190,Blue,Beast,special
+713,Lethe: Gallia's Valkyrie,Radiant Dawn,Cavalry,Red Beast,41,33,38,26,19,157,Red,Beast,specialRate
+714,Lethe: New Year's Claw,Radiant Dawn,Cavalry,Green Beast,41,35,41,27,18,162,Green,Beast,special;specialRate
+715,Letizia: Curse Director,Heroes,Cavalry,Green Tome,38,40,16,35,34,163,Green,Tome,specialRate
+716,Lewyn: Guiding Breeze,Genealogy of the Holy War,Infantry,Green Tome,38,34,37,17,25,151,Green,Tome,specialRate
+717,Lewyn: Wind-Song Scion,Genealogy of the Holy War,Infantry,Blue Tome,40,38,40,19,34,171,Blue,Tome,special
+718,Lex: Young Blade,Genealogy of the Holy War,Cavalry,Green Axe,45,36,30,38,19,168,Green,Axe,regular_4_3_2_1
+719,Libra: Fetching Friar,Awakening,Infantry,Green Axe,40,35,32,28,29,164,Green,Axe,regular_4_3_2_1
+720,Líf: Arcane Blade,Heroes,Cavalry,Red Sword,41,43,29,41,26,180,Red,Sword,rearmed
+721,Líf: Lethal Swordsman,Heroes,Infantry,Red Sword,42,38,30,34,29,173,Red,Sword,mythic
+722,Líf: Undying Ties Duo,Heroes,Cavalry,Red Tome,39,39,25,30,25,158,Red,Tome,duo;special;specialRate
+723,Lifis: Terror of Iz,Thracia 776,Infantry,Green Axe,47,36,40,30,23,176,Green,Axe,tempest
+724,Lilina: Beachside Bloom,The Binding Blade,Cavalry,Red Dagger,35,38,25,16,35,149,Red,Dagger,special;specialRate
+725,Lilina: Beaming Bride,The Binding Blade,Cavalry,Blue Tome,39,44,22,16,42,163,Blue,Tome,special;specialRate
+726,Lilina: Blush of Youth,The Binding Blade,Cavalry,Green Tome,34,35,30,20,26,145,Green,Tome,special;specialRate
+727,Lilina: Brilliant Flame,The Binding Blade,Infantry,Green Tome,40,48,35,17,48,188,Green,Tome,rearmed
+728,Lilina: Delightful Noble,The Binding Blade,Infantry,Red Tome,35,37,25,19,31,147,Red,Tome,regular_4_3_2_1
+729,Lilina: Firelight Leader,The Binding Blade,Cavalry,Red Tome,39,42,21,16,40,158,Red,Tome,legendary
+730,Lilith: Astral Daughter,Fates,Flying,Blue Breath,39,36,41,27,30,173,Blue,Breath,specialRate
+731,Lilith: Silent Broodling,Fates,Flying,Red Breath,39,40,43,29,33,184,Red,Breath,specialRate
+732,Limstella: Living Construct,The Blazing Blade,Infantry,Green Tome,41,39,23,32,36,171,Green,Tome,ghb
+733,Linde: Bound by Fate,Shadow Dragon / (New) Mystery,Cavalry,Red Tome,37,44,45,16,27,169,Red,Tome,harmonized;special;specialRate
+734,Linde: Light Mage,Shadow Dragon / (New) Mystery,Infantry,Blue Tome,35,35,36,14,27,147,Blue,Tome,specialRate
+735,Linde: Summer Rays,Shadow Dragon / (New) Mystery,Cavalry,Colorless Dagger,33,34,35,16,26,144,Colorless,Dagger,special;specialRate
+736,Linhardt: Hevring's Heir,Three Houses,Infantry,Colorless Staff,39,34,25,30,38,166,Colorless,Staff,regular_4_3_2_1
+737,Linhardt: Spring Snoozer,Three Houses,Infantry,Colorless Bow,40,46,31,25,46,188,Colorless,Bow,tempest
+738,Linoan: Lady of Tarrah,Thracia 776,Infantry,Colorless Staff,39,44,46,20,39,188,Colorless,Staff,regular_4_3_2_1
+739,Linus: Mad Dog,The Blazing Blade,Infantry,Green Axe,42,37,33,32,19,163,Green,Axe,ghb
+740,Linus: Savage Dog,The Blazing Blade,Infantry,Green Axe,42,46,43,36,20,187,Green,Axe,ghb
+741,Lissa: Littlest Princess,Awakening,Infantry,Green Axe,40,47,17,47,42,193,Green,Axe,special
+742,Lissa: Pure Joy,Awakening,Armored,Green Axe,43,33,30,35,34,175,Green,Axe,special;specialRate
+743,Lissa: Sprightly Cleric,Awakening,Infantry,Colorless Staff,39,26,25,28,30,148,Colorless,Staff,regular_4_3_2_1
+744,Lissa: Sweet Celebrant,Awakening,Armored,Colorless Staff,42,35,25,37,40,179,Colorless,Staff,tempest
+745,Lloyd: Vengeful Wolf,The Blazing Blade,Infantry,Red Sword,41,43,46,31,32,193,Red,Sword,ghb
+746,Lloyd: White Wolf,The Blazing Blade,Infantry,Red Sword,41,32,35,20,30,158,Red,Sword,ghb
+747,Loki: Spring Trickster,Heroes,Flying,Colorless Bow,39,31,34,27,25,156,Colorless,Bow,tempest
+748,Loki: The Trickster,Heroes,Infantry,Colorless Staff,42,33,35,16,25,151,Colorless,Staff,specialRate
+749,Loki: Trickster God,Heroes,Flying,Colorless Staff,39,47,30,16,47,179,Colorless,Staff,mythic
+750,Lon'qu: Solitary Blade,Awakening,Infantry,Red Sword,45,29,39,22,22,157,Red,Sword,regular_4_3_2_1
+751,Lon'qu: Spring Jitters,Awakening,Infantry,Green Axe,43,45,48,32,31,199,Green,Axe,tempest
+752,Lorenz: Highborn Heat,Three Houses,Infantry,Red Tome,45,32,31,25,29,162,Red,Tome,tempest
+753,Lorenz: Red-Rose Noble,Three Houses,Cavalry,Blue Tome,42,48,45,23,27,185,Blue,Tome,regular_4_3_2_1
+754,Louis: Petal Knight,Engage,Armored,Red Bow,50,47,16,49,45,207,Red,Bow,special
+755,Louise: Eternal Devotion,The Blazing Blade,Cavalry,Colorless Bow,39,31,34,17,30,151,Colorless,Bow,tempest
+756,Louise: Lady of Violets,The Blazing Blade,Infantry,Colorless Bow,41,37,42,16,36,172,Colorless,Bow,specialRate
+757,Lowen: Apprentice Knight,The Blazing Blade,Cavalry,Blue Lance,44,47,38,49,17,195,Blue,Lance,regular_5
+758,Lucia: Loyalty Enrobed,Path of Radiance,Infantry,Blue Lance,41,42,46,30,34,193,Blue,Lance,special
+759,Lucia: Tireless Advisor,Radiant Dawn,Infantry,Red Sword,40,41,45,29,32,187,Red,Sword,specialRate
+760,Lucina: Brave Princess,Awakening,Infantry,Blue Lance,41,34,36,27,19,157,Blue,Lance,specialRate
+761,Lucina: Fate's Resolve,Awakening,Cavalry,Green Axe,40,43,47,31,23,184,Green,Axe,rearmed
+762,Lucina: Future Fondness,Awakening,Armored,Green Axe,41,39,42,37,31,190,Green,Axe,special;specialRate
+763,Lucina: Future Witness,Awakening,Infantry,Red Sword,43,34,36,25,19,157,Red,Sword,specialRate
+764,Lucina: Glorious Archer,Awakening,Infantry,Blue Bow,36,34,35,25,20,150,Blue,Bow,legendary
+765,Lucina: Of Awakening,Awakening,Infantry,Red Bow,40,46,49,34,30,199,Red,Bow,emblem
+766,Lucina: Shadows of Fate,Awakening,Cavalry,Colorless Bow,40,45,48,28,24,185,Colorless,Bow,duo;special
+767,Lucina: Spring Exalt,Awakening,Infantry,Blue Tome,35,29,36,22,25,147,Blue,Tome,special;specialRate
+768,Lucius: Calming Light,The Blazing Blade,Infantry,Colorless Staff,38,45,31,17,47,178,Colorless,Staff,tempest
+769,Lucius: The Light,The Blazing Blade,Infantry,Colorless Staff,37,32,30,13,35,147,Colorless,Staff,regular_4_3_2_1
+770,Ludveck: Rebellious Duke,Radiant Dawn,Armored,Green Axe,46,44,32,45,28,195,Green,Axe,ghb
+771,Lugh: Anima Child,The Binding Blade,Infantry,Green Tome,37,35,36,17,31,156,Green,Tome,specialRate
+772,Lukas: Buffet for One,Echoes,Armored,Blue Lance,51,37,21,42,22,173,Blue,Lance,special;specialRate
+773,Lukas: Sharp Soldier,Echoes,Infantry,Blue Lance,45,35,22,38,17,157,Blue,Lance,regular_4_3_2_1
+774,Luke: Rowdy Squire,Shadow Dragon / (New) Mystery,Cavalry,Red Sword,43,34,28,30,20,155,Red,Sword,specialRate
+775,Lumera: Corrupted Dragon,Engage,Infantry,Red Breath,36,41,45,26,45,193,Red,Breath,rearmed
+776,Lumera: Dragon Monarch,Engage,Infantry,Red Sword,43,43,43,33,25,187,Red,Sword,ghb
+777,Lumera: In Distant Skies,Engage,Infantry,Blue Breath,37,43,46,27,40,193,Blue,Breath,mythic
+778,Lute: Limitless Curiosity,The Sacred Stones,Infantry,Red Tome,34,49,45,16,49,193,Red,Tome,aided
+779,Lute: Prodigy,The Sacred Stones,Infantry,Blue Tome,33,36,32,16,34,151,Blue,Tome,specialRate
+780,Lute: Summer Prodigy,The Sacred Stones,Flying,Blue Tome,37,35,34,17,32,155,Blue,Tome,special
+781,Luthier: Odd Wayfarer,Echoes,Infantry,Green Tome,43,37,36,20,30,166,Green,Tome,regular_4_3_2_1
+782,Luthier: Spring Hopes,Echoes,Cavalry,Blue Lance,41,38,36,31,27,173,Blue,Lance,tempest
+783,Lyn: Blazing Whirlwind,The Blazing Blade,Infantry,Blue Lance,39,38,44,34,32,187,Blue,Lance,special;specialRate
+784,Lyn: Brave Lady,The Blazing Blade,Cavalry,Colorless Bow,35,33,35,18,28,149,Colorless,Bow,specialRate
+785,Lyn: Bride of the Plains,The Blazing Blade,Infantry,Colorless Staff,39,28,34,23,24,148,Colorless,Staff,special;specialRate
+786,Lyn: Glitters of Hope,The Blazing Blade,Cavalry,Colorless Bow,40,47,49,30,24,190,Colorless,Bow,harmonized
+787,Lyn: Lady of the Beach,The Blazing Blade,Flying,Blue Bow,37,33,38,20,27,155,Blue,Bow,special;specialRate
+788,Lyn: Lady of the Plains,The Blazing Blade,Infantry,Red Sword,37,28,37,26,29,157,Red,Sword,specialRate
+789,Lyn: Lady of the Wind,The Blazing Blade,Infantry,Green Bow,36,31,36,21,27,151,Green,Bow,legendary
+790,Lyn: Ninja-Friend Duo,The Blazing Blade,Flying,Colorless Dagger,40,38,42,21,26,167,Colorless,Dagger,duo;special;specialRate
+791,Lyn: Of Blazing,The Blazing Blade,Infantry,Green Bow,40,46,48,29,31,194,Green,Bow,emblem
+792,Lyn: Plains Wind,The Blazing Blade,Cavalry,Green Beast,40,46,49,36,24,195,Green,Beast,mythic
+793,Lyn: Wind's Embrace,The Blazing Blade,Armored,Blue Tome,37,31,36,27,34,165,Blue,Tome,special;specialRate
+794,Lyon: Demon King,The Sacred Stones,Infantry,Green Tome,40,40,16,32,35,163,Green,Tome,specialRate
+795,Lyon: Esteemed Royals,The Sacred Stones,Cavalry,Green Tome,39,47,16,26,46,174,Green,Tome,duo;special
+796,Lyon: Grado's Gaze,The Sacred Stones,Infantry,Blue Tome,38,38,18,34,37,165,Blue,Tome,special
+797,Lyon: Shadow Prince,The Sacred Stones,Infantry,Red Tome,41,34,21,26,30,152,Red,Tome,ghb
+798,Lyon: Sunlit Prince,The Sacred Stones,Infantry,Red Sword,42,42,21,37,39,181,Red,Sword,special
+799,Lyre: Lap Cat of Luxury,Radiant Dawn,Cavalry,Colorless Beast,40,37,42,27,28,174,Colorless,Beast,special
+800,Lysithea: Child Prodigy,Three Houses,Infantry,Red Tome,37,41,37,21,24,160,Red,Tome,specialRate
+801,Lysithea: Duality Prodigy,Three Houses,Infantry,Green Tome,38,49,48,26,32,193,Green,Tome,rearmed
+802,Lysithea: Earnest Seeker,Three Houses,Infantry,Red Tome,40,40,39,21,25,165,Red,Tome,specialRate
+803,Lysithea: Gifted Students,The Sacred Stones,Cavalry,Colorless Tome,38,42,40,19,23,162,Colorless,Tome,harmonized;special;specialRate
+804,Lysithea: Tea Sweetener,Three Houses,Flying,Colorless Tome,38,46,46,20,22,172,Colorless,Tome,special
+805,Machyua: Blade of Gales,Thracia 776,Infantry,Red Sword,40,44,48,36,31,199,Red,Sword,rearmed
+806,Mae: Bundle of Energy,Echoes,Infantry,Blue Tome,35,36,31,16,30,148,Blue,Tome,regular_4_3_2_1
+807,Mae: Spring Cheer,Echoes,Infantry,Green Tome,40,48,41,17,41,187,Green,Tome,special
+808,Malice: Blooming Blade,Shadow Dragon / (New) Mystery,Infantry,Red Sword,41,44,48,35,31,199,Red,Sword,special
+809,Malice: Deft Sellsword,Shadow Dragon / (New) Mystery,Infantry,Red Sword,40,39,43,32,28,182,Red,Sword,specialRate
+810,Mamori: Microwavin' Idol,Tokyo Mirage Sessions ♯FE Encore,Armored,Green Axe,43,37,24,42,33,179,Green,Axe,specialRate
+811,Manuela: Silver Caroler,Three Houses,Armored,Red Sword,42,37,42,38,31,190,Red,Sword,special
+812,Marcia: Petulant Knight,Path of Radiance,Flying,Blue Lance,41,37,41,32,26,177,Blue,Lance,regular_4_3_2_1
+813,Marcus: Knight of Pherae,The Blazing Blade,Cavalry,Red Sword,40,48,34,31,37,190,Red,Sword,regular_4_3_2_1
+814,Mareeta: Astra Awakened,Thracia 776,Infantry,Red Sword,40,40,43,34,25,182,Red,Sword,specialRate
+815,Mareeta: Sword of Stars,Thracia 776,Infantry,Red Sword,41,35,42,31,23,172,Red,Sword,specialRate
+816,Mareeta: The Blade's Pawn,Thracia 776,Infantry,Red Sword,42,33,41,29,23,168,Red,Sword,specialRate
+817,Maria: Minerva's Sister,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,36,27,34,19,32,148,Colorless,Staff,regular_4_3_2_1
+818,Maria: Ritual Sacrifice,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,37,44,45,16,35,177,Colorless,Staff,specialRate
+819,Maria: Sunny Smile,Shadow Dragon / (New) Mystery,Flying,Green Axe,35,37,40,40,25,177,Green,Axe,special;specialRate
+820,Marianne: Adopted Daughter,Three Houses,Infantry,Blue Tome,36,41,32,17,39,165,Blue,Tome,specialRate
+821,Marianne: Cursed Blessing,Three Houses,Flying,Red Tome,37,46,40,16,45,184,Red,Tome,rearmed
+822,Marianne: Serene Adherent,Three Houses,Infantry,Colorless Tome,38,40,41,17,35,171,Colorless,Tome,specialRate
+823,Maribelle: Dire Damsel,Awakening,Cavalry,Colorless Staff,34,35,33,16,27,145,Colorless,Staff,specialRate
+824,Marisa: Crimson Flash,The Sacred Stones,Infantry,Red Sword,46,30,36,30,21,163,Red,Sword,tempest
+825,Marisa: Crimson Rabbit,The Sacred Stones,Flying,Blue Lance,42,33,38,28,21,162,Blue,Lance,special;specialRate
+826,Marisa: Willful Blades,The Sacred Stones,Cavalry,Green Axe,45,45,48,28,23,189,Green,Axe,harmonized;special
+827,Mark: Winds of Hope,The Blazing Blade,Infantry,Blue Tome,40,44,27,20,46,177,Blue,Tome,duo;special
+828,Marla: Duma's Witch,Echoes,Infantry,Red Tome,38,46,33,20,45,182,Red,Tome,ghb
+829,Marni: Pining for Praise,Engage,Armored,Green Axe,49,46,20,50,40,205,Green,Axe,ghb
+830,Marth: Altean Groom,Shadow Dragon / (New) Mystery,Cavalry,Green Axe,40,31,36,30,20,157,Green,Axe,tempest
+831,Marth: Altean Prince,Shadow Dragon / (New) Mystery,Infantry,Red Sword,41,31,34,29,23,158,Red,Sword,regular_4_3_2_1
+832,Marth: Enigmatic Blade,Awakening,Infantry,Red Sword,43,34,36,25,19,157,Red,Sword,tempest
+833,Marth: Hero-King,Shadow Dragon / (New) Mystery,Infantry,Red Sword,40,34,36,32,21,163,Red,Sword,legendary
+834,Marth: Legacied Hero,Shadow Dragon / (New) Mystery,Infantry,Red Sword,41,36,37,32,26,172,Red,Sword,special
+835,Marth: Love and Courage,Shadow Dragon / (New) Mystery,Flying,Red Sword,40,45,48,36,25,194,Red,Sword,duo
+836,Marth: Masked Gladiator,Awakening,Infantry,Blue Lance,40,46,49,38,31,204,Blue,Lance,special
+837,Marth: Of Beginnings,Shadow Dragon / (New) Mystery,Infantry,Red Sword,41,45,47,33,27,193,Red,Sword,emblem
+838,Marth: Prince of Light,Shadow Dragon / (New) Mystery,Infantry,Red Sword,41,41,43,32,25,182,Red,Sword,specialRate
+839,Marth: Royal Altean Duo,Shadow Dragon / (New) Mystery,Armored,Colorless Bow,42,36,41,30,25,174,Colorless,Bow,duo;special;specialRate
+840,Mathilda: Legendary Knight,Echoes,Cavalry,Blue Lance,35,29,32,24,34,154,Blue,Lance,regular_4_3_2_1
+841,Matthew: Faithful Spy,The Blazing Blade,Infantry,Colorless Dagger,41,25,34,30,18,148,Colorless,Dagger,regular_4_3_2_1
+842,Matthis: Brother to Lena,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,41,43,32,38,25,179,Blue,Lance,ghb
+843,Mauvier: Penitent Knight,Engage,Cavalry,Blue Lance,42,44,18,46,35,185,Blue,Lance,ghb
+844,Medeus: Earth-Dragon King,Shadow Dragon / (New) Mystery,Infantry,Colorless Breath,40,44,18,38,43,183,Colorless,Breath,mythic
+845,Medeus: Last Earth Dragon,Shadow Dragon / (New) Mystery,Infantry,Blue Breath,41,49,19,42,47,198,Blue,Breath,regular_4_3_2_1
+846,Melady: Crimson Rider,The Binding Blade,Flying,Blue Lance,41,40,33,41,17,172,Blue,Lance,specialRate
+847,Melíai: Warrior Wanderer,Heroes,Armored,Green Beast,47,49,18,49,43,206,Green,Beast,regular_5
+848,Mercedes: Kindly Devotee,Three Houses,Infantry,Colorless Staff,39,33,30,22,33,157,Colorless,Staff,regular_4_3_2_1
+849,Mercedes: Unfussed Basker,Three Houses,Cavalry,Red Tome,38,39,25,17,38,157,Red,Tome,special;specialRate
+850,Merlinus: Pherae's Clerk,The Binding Blade,Cavalry,Colorless Dagger,50,20,35,31,27,163,Colorless,Dagger,regular_4_3_2_1
+851,Merric: Changing Winds,Shadow Dragon / (New) Mystery,Infantry,Green Tome,41,34,41,21,25,162,Green,Tome,special;specialRate
+852,Merric: Wind Mage,Shadow Dragon / (New) Mystery,Infantry,Green Tome,43,26,32,28,19,148,Green,Tome,regular_4_3_2_1
+853,Merric: Wind Pontifex,Shadow Dragon / (New) Mystery,Cavalry,Green Tome,41,43,46,23,20,173,Green,Tome,regular_5
+854,Merrin: Suave Knight,Engage,Cavalry,Red Sword,39,45,47,36,23,190,Red,Sword,regular_5
+855,Metodey: Shrewd Braggart,Three Houses,Infantry,Colorless Dagger,41,43,47,35,26,192,Colorless,Dagger,ghb
+856,Mia: Budding Blade,Path of Radiance,Infantry,Red Sword,40,41,43,32,27,183,Red,Sword,special;specialRate
+857,Mia: Harmonic Blades,Radiant Dawn,Cavalry,Colorless Dagger,38,35,41,17,25,156,Colorless,Dagger,harmonized;special;specialRate
+858,Mia: Lady of Blades,Path of Radiance,Infantry,Red Sword,38,32,40,28,25,163,Red,Sword,specialRate
+859,Mia: Moonlit Witch,Radiant Dawn,Flying,Colorless Staff,36,30,34,22,28,150,Colorless,Staff,special;specialRate
+860,Mia: Summer Slice,Path of Radiance,Flying,Green Axe,38,42,47,27,35,189,Green,Axe,special
+861,Mia: Zenith Challenger,Radiant Dawn,Flying,Red Sword,40,45,49,45,21,200,Red,Sword,special
+862,Micaiah: Dawn Wind's Duo,Radiant Dawn,Flying,Colorless Tome,39,39,20,19,38,155,Colorless,Tome,duo;special;specialRate
+863,Micaiah: Dawning Maiden,Radiant Dawn,Flying,Green Tome,40,47,16,30,46,179,Green,Tome,attuned
+864,Micaiah: Of Dawn,Radiant Dawn,Infantry,Colorless Tome,40,49,30,20,49,188,Colorless,Tome,emblem
+865,Micaiah: Priestess of Dawn,Radiant Dawn,Infantry,Blue Tome,35,35,28,18,35,151,Blue,Tome,specialRate
+866,Micaiah: Queen of Dawn,Radiant Dawn,Flying,Green Tome,36,37,28,17,37,155,Green,Tome,specialRate
+867,Micaiah: Radiant Queen,Radiant Dawn,Infantry,Colorless Tome,38,42,31,19,41,171,Colorless,Tome,legendary
+868,Micaiah: Summer's Dawn,Radiant Dawn,Infantry,Red Tome,33,34,20,18,34,139,Red,Tome,special;specialRate
+869,Micaiah: Wavecrest Maiden,Radiant Dawn,Cavalry,Colorless Tome,38,42,30,16,37,163,Colorless,Tome,special;specialRate
+870,Michalis: Ambitious King,Shadow Dragon / (New) Mystery,Flying,Green Axe,43,34,26,35,19,157,Green,Axe,ghb
+871,Michalis: Fruiting Ambition,Shadow Dragon / (New) Mystery,Flying,Blue Lance,43,45,32,47,17,184,Blue,Lance,tempest
+872,Midir: Archer of Yngvi,Genealogy of the Holy War,Cavalry,Blue Bow,40,46,47,30,22,185,Blue,Bow,regular_5
+873,Midori: Reliable Chemist,Fates,Infantry,Red Bow,41,41,30,34,21,167,Red,Bow,specialRate
+874,Mikoto: Caring Mother,Fates,Infantry,Colorless Staff,38,35,32,20,26,151,Colorless,Staff,specialRate
+875,Mila: Goddess of Love,Echoes,Infantry,Colorless Breath,41,37,17,40,37,172,Colorless,Breath,mythic
+876,Minerva: Above the Stars,Shadow Dragon / (New) Mystery,Flying,Green Axe,41,47,48,45,19,200,Green,Axe,special
+877,Minerva: Princess-Knight,Shadow Dragon / (New) Mystery,Flying,Green Axe,40,36,37,35,19,167,Green,Axe,tempest
+878,Minerva: Red Dragoon,Shadow Dragon / (New) Mystery,Flying,Green Axe,40,31,33,32,22,158,Green,Axe,specialRate
+879,Minerva: Verdant Dragoon,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,41,36,38,35,18,168,Blue,Lance,special
+880,Mirabilis: Daydream,Heroes,Flying,Red Sword,38,34,18,32,35,157,Red,Sword,mythic
+881,Mirabilis: Spring Daydream,Heroes,Flying,Blue Tome,37,36,18,36,41,168,Blue,Tome,special
+882,Mirabilis: Sugarplum Vision,Heroes,Flying,Blue Dagger,39,36,17,34,36,162,Blue,Dagger,special;specialRate
+883,Miranda: Willful Princess,Thracia 776,Infantry,Red Tome,38,36,35,21,36,166,Red,Tome,regular_4_3_2_1
+884,Miriel: Rapier Intellect,Awakening,Infantry,Blue Tome,37,37,40,25,31,170,Blue,Tome,regular_4_3_2_1
+885,Mist: Helpful Sister,Path of Radiance,Infantry,Colorless Staff,39,27,28,20,34,148,Colorless,Staff,specialRate
+886,Mist: Purest Spirit,Path of Radiance,Cavalry,Green Tome,36,34,34,17,23,144,Green,Tome,special;specialRate
+887,Monica: Favored Vassal,Three Houses,Infantry,Blue Tome,40,38,43,24,31,176,Blue,Tome,specialRate
+888,Mordecai: Gentle Firetender,Radiant Dawn,Infantry,Green Beast,48,43,29,43,24,187,Green,Beast,tempest
+889,Mordecai: Kindhearted Tiger,Radiant Dawn,Infantry,Blue Beast,47,37,24,39,20,167,Blue,Beast,regular_4_3_2_1
+890,Morgan: Devoted Darkness,Awakening,Flying,Green Axe,40,39,17,41,35,172,Green,Axe,specialRate
+891,Morgan: Fated Darkness,Awakening,Infantry,Red Tome,38,37,17,35,38,165,Red,Tome,specialRate
+892,Morgan: Lad from Afar,Awakening,Infantry,Red Tome,37,33,34,20,26,150,Red,Tome,regular_4_3_2_1
+893,Morgan: Lass from Afar,Awakening,Flying,Blue Tome,37,34,30,16,33,150,Blue,Tome,specialRate
+894,Morva: Darkling Warden,The Sacred Stones,Flying,Green Breath,40,49,18,48,45,200,Green,Breath,regular_5
+895,Mozu: Tragic Start,Fates,Infantry,Blue Lance,40,44,46,41,27,198,Blue,Lance,regular_5
+896,Muarim: Raw Instinct,Radiant Dawn,Infantry,Blue Beast,45,43,40,31,23,182,Blue,Beast,ghb
+897,Murdock: Loyal General,The Binding Blade,Armored,Green Axe,47,45,23,45,35,195,Green,Axe,ghb
+898,Múspell: Flame God,Heroes,Cavalry,Red Breath,40,41,16,39,37,173,Red,Breath,specialRate
+899,Múspell: Raging Inferno,Heroes,Cavalry,Colorless Breath,40,43,26,41,30,180,Colorless,Breath,special;specialRate
+900,Mustafa: Plegian Champion,Awakening,Infantry,Green Axe,45,38,25,36,28,172,Green,Axe,regular_4_3_2_1
+901,Mycen: Zofia's Champion,Echoes,Cavalry,Blue Lance,40,46,16,45,37,184,Blue,Lance,regular_5
+902,Myrrh: Adored Dragon,The Sacred Stones,Armored,Colorless Breath,50,47,16,48,45,206,Colorless,Breath,special
+903,Myrrh: Great Dragon,The Sacred Stones,Flying,Green Breath,42,33,25,36,31,167,Green,Breath,specialRate
+904,Myrrh: Guardian Dragon,The Sacred Stones,Flying,Blue Breath,40,39,25,42,36,182,Blue,Breath,legendary
+905,Myrrh: Spooky Monster,The Sacred Stones,Armored,Red Breath,46,38,23,40,32,179,Red,Breath,special;specialRate
+906,Myrrh: Spring Harmony,The Sacred Stones,Flying,Colorless Breath,40,38,25,40,35,178,Colorless,Breath,harmonized;special;specialRate
+907,Naesala: Sea's Shadow,Radiant Dawn,Flying,Red Beast,42,39,43,23,25,172,Red,Beast,special;specialRate
+908,Naesala: Sky's Shadow,Radiant Dawn,Flying,Blue Beast,39,32,38,24,29,162,Blue,Beast,ghb
+909,Naga: Dragon Divinity,Shadow Dragon / (New) Mystery,Flying,Blue Breath,37,30,36,33,26,162,Blue,Breath,mythic
+910,Naga: Harvest Divinity,Shadow Dragon / (New) Mystery,Flying,Colorless Breath,38,42,31,35,37,183,Colorless,Breath,special
+911,Naga: Ruler of Dragons,Shadow Dragon / (New) Mystery,Flying,Colorless Breath,37,41,27,45,45,195,Colorless,Breath,regular_5
+912,Nagi: Dragon Avatar,Shadow Dragon / (New) Mystery,Armored,Green Breath,46,37,19,36,41,179,Green,Breath,specialRate
+913,Nagi: Hopeful Eternity,Shadow Dragon / (New) Mystery,Armored,Red Breath,49,48,17,45,48,207,Red,Breath,harmonized;special
+914,Nah: Grateful One,Awakening,Armored,Green Breath,53,47,18,49,45,212,Green,Breath,special
+915,Nah: Little Miss,Awakening,Infantry,Red Breath,44,34,25,38,32,173,Red,Breath,specialRate
+916,Nailah: Blessed Queen,Radiant Dawn,Infantry,Green Beast,40,35,41,31,25,172,Green,Beast,special;specialRate
+917,Nailah: Hatari Scorcher,Radiant Dawn,Infantry,Red Beast,40,39,43,35,25,182,Red,Beast,special;specialRate
+918,Nailah: Unflinching Eye,Radiant Dawn,Infantry,Blue Beast,40,31,37,32,23,163,Blue,Beast,specialRate
+919,Nanna: Beloved Princess,Thracia 776,Cavalry,Red Sword,40,39,42,27,25,173,Red,Sword,legendary
+920,Nanna: Mystletainn Scion,Thracia 776,Flying,Colorless Staff,40,35,41,23,28,167,Colorless,Staff,tempest
+921,Nanna: Nordion Princess,Thracia 776,Cavalry,Colorless Staff,36,27,34,21,26,144,Colorless,Staff,regular_4_3_2_1
+922,Narcian: Vernal General,The Binding Blade,Flying,Blue Lance,43,35,34,37,18,167,Blue,Lance,special
+923,Narcian: Wyvern General,The Binding Blade,Flying,Green Axe,42,29,29,32,26,158,Green,Axe,ghb
+924,Natasha: Sacred Healer,The Sacred Stones,Infantry,Colorless Staff,37,36,32,24,36,165,Colorless,Staff,regular_4_3_2_1
+925,Navarre: Scarlet Ninja,Shadow Dragon / (New) Mystery,Infantry,Blue Lance,41,39,42,31,23,176,Blue,Lance,special;specialRate
+926,Navarre: Scarlet Sword,Shadow Dragon / (New) Mystery,Infantry,Red Sword,42,31,37,23,24,157,Red,Sword,ghb
+927,Neimi: Tearful Archer,The Sacred Stones,Infantry,Red Bow,39,39,42,21,35,176,Red,Bow,specialRate
+928,Nel: Stoic Bride,Engage,Infantry,Green Breath,40,42,46,30,36,194,Green,Breath,special
+929,Nel: Stoic Dragon,Engage,Infantry,Blue Breath,38,44,47,30,40,199,Blue,Breath,rearmed
+930,Nemesis: King of Liberation,Three Houses,Infantry,Red Sword,43,39,23,37,34,176,Red,Sword,ghb
+931,Nephenee: Festival Harmony,Path of Radiance,Flying,Red Tome,45,45,47,21,20,178,Red,Tome,harmonized;special
+932,Nephenee: Fierce Halberdier,Path of Radiance,Infantry,Blue Lance,37,31,35,34,20,157,Blue,Lance,specialRate
+933,Nephenee: Sincere Dancer,Path of Radiance,Infantry,Colorless Bow,37,35,36,24,25,157,Colorless,Bow,special;specialRate
+934,Nergal: Traitor to Nabata,The Blazing Blade,Infantry,Green Tome,40,45,16,39,43,183,Green,Tome,regular_5
+935,Nerþuz: Beach Chaperone,Heroes,Cavalry,Green Beast,40,46,47,33,19,185,Green,Beast,special
+936,Nerþuz: Divine Abundance,Heroes,Cavalry,Red Beast,40,47,48,42,18,195,Red,Beast,special
+937,Nerþuz: God of the Land,Heroes,Cavalry,Blue Beast,40,42,47,30,20,179,Blue,Beast,mythic
+938,Nerþuz: New-Year Doter,Heroes,Cavalry,Colorless Beast,40,45,47,32,21,185,Colorless,Beast,special
+939,Niðavellir: Founding King,Heroes,Cavalry,Colorless Bow,40,45,47,27,21,180,Colorless,Bow,regular_5
+940,Níðhöggr: Daze of Healing,Heroes,Armored,Blue Beast,50,48,16,49,44,207,Blue,Beast,special
+941,Níðhöggr: Quieting Dose,Heroes,Armored,Red Beast,50,49,17,48,43,207,Red,Beast,mythic
+942,Nifl: God of Ice,Heroes,Cavalry,Blue Breath,39,38,40,27,23,167,Blue,Breath,specialRate
+943,Nifl: Tropical Ice God,Heroes,Cavalry,Colorless Breath,39,38,43,28,26,174,Colorless,Breath,special;specialRate
+944,Niime: Mountain Hermit,The Binding Blade,Infantry,Colorless Tome,36,42,33,17,43,171,Colorless,Tome,specialRate
+945,Niles: Cruel to Be Kind,Fates,Infantry,Colorless Bow,37,25,34,17,34,147,Colorless,Bow,regular_4_3_2_1
+946,Niles: Forbidden Tease,Fates,Armored,Blue Bow,37,34,39,25,29,164,Blue,Bow,special;specialRate
+947,Nils: Bright Bard,The Blazing Blade,Infantry,Blue Breath,45,31,35,26,25,162,Blue,Breath,specialRate
+948,Nils: Snowflake Melody,The Blazing Blade,Infantry,Blue Breath,40,35,43,30,40,188,Blue,Breath,tempest
+949,Nils: Wandering Star,The Blazing Blade,Infantry,Green Breath,44,35,41,21,35,176,Green,Breath,tempest
+950,Nina: Eye Spy,Fates,Infantry,Colorless Bow,35,32,37,16,31,151,Colorless,Bow,specialRate
+951,Nina: Shadowy Figures,Fates,Cavalry,Colorless Dagger,38,37,43,18,32,168,Colorless,Dagger,duo;special;specialRate
+952,Ninian: Bright-Eyed Bride,The Blazing Blade,Flying,Blue Tome,34,28,33,18,27,140,Blue,Tome,special;specialRate
+953,Ninian: Frozen Heart,The Blazing Blade,Infantry,Blue Breath,45,27,40,23,36,171,Blue,Breath,specialRate
+954,Ninian: Heartfelt Dancer,The Blazing Blade,Cavalry,Colorless Breath,42,46,48,23,26,185,Colorless,Breath,entwined
+955,Ninian: Ice-Dragon Oracle,The Blazing Blade,Cavalry,Green Breath,44,37,41,22,24,168,Green,Breath,legendary
+956,Ninian: Oracle of Destiny,The Blazing Blade,Infantry,Blue Breath,42,24,33,23,27,149,Blue,Breath,specialRate
+957,Nino: Burst of Summer,The Blazing Blade,Infantry,Red Tome,38,46,48,24,32,188,Red,Tome,special
+958,Nino: Fang's Heart,The Blazing Blade,Infantry,Green Dagger,38,44,47,26,33,188,Green,Dagger,attuned
+959,Nino: Flower of Frost,The Blazing Blade,Armored,Blue Tome,40,35,41,22,31,169,Blue,Tome,special;specialRate
+960,Nino: Pale Flower,The Blazing Blade,Flying,Green Tome,36,33,38,17,25,149,Green,Tome,specialRate
+961,Nino: Pious Mage,The Blazing Blade,Infantry,Green Tome,33,33,36,19,26,147,Green,Tome,regular_4_3_2_1
+962,Nino: Spirited Sorcerer,The Blazing Blade,Infantry,Red Tome,38,41,46,20,32,177,Red,Tome,tempest;special;specialRate
+963,Noah: Mercenary-Errant,The Binding Blade,Cavalry,Blue Lance,40,45,45,31,18,179,Blue,Lance,specialRate
+964,Noire: Demurely Deft,Awakening,Infantry,Colorless Dagger,38,44,47,36,28,193,Colorless,Dagger,tempest
+965,Noire: Of Two Minds,Awakening,Infantry,Red Bow,38,46,47,35,28,194,Red,Bow,rearmed
+966,Noire: Shade Seeker,Awakening,Infantry,Colorless Bow,36,32,36,27,20,151,Colorless,Bow,special;specialRate
+967,Nomah: Priest of Mila,Echoes,Infantry,Green Tome,40,47,28,24,49,188,Green,Tome,regular_5
+968,Norne: Seaside Volunteer,Shadow Dragon / (New) Mystery,Infantry,Blue Lance,42,37,39,31,27,176,Blue,Lance,tempest
+969,Norne: The Volunteer,Shadow Dragon / (New) Mystery,Infantry,Colorless Bow,42,32,36,31,27,168,Colorless,Bow,regular_4_3_2_1
+970,Nótt: Moon's Elegance,Heroes,Infantry,Blue Lance,40,41,40,28,27,176,Blue,Lance,mythic
+971,Nowi: Eternal Witch,Awakening,Flying,Red Tome,34,34,32,20,27,147,Red,Tome,special;specialRate
+972,Nowi: Eternal Youth,Awakening,Infantry,Blue Breath,45,34,27,30,27,163,Blue,Breath,regular_4_3_2_1
+973,Nuibaba: Mistress of Fear,Echoes,Infantry,Blue Tome,40,48,36,17,47,188,Blue,Tome,rearmed
+974,Nyna: The Last Princess,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,40,34,41,23,38,176,Colorless,Staff,regular_4_3_2_1
+975,Nyx: Rulebreaker Mage,Fates,Infantry,Red Tome,36,42,40,19,28,165,Red,Tome,specialRate
+976,Oboro: Fierce Bride-to-Be,Fates,Infantry,Red Sword,42,39,35,40,16,172,Red,Sword,special;specialRate
+977,Oboro: Fierce Fighter,Fates,Infantry,Blue Lance,40,32,26,35,24,157,Blue,Lance,regular_4_3_2_1
+978,Odin: Potent Force,Fates,Infantry,Blue Tome,43,22,32,25,25,147,Blue,Tome,regular_4_3_2_1
+979,Ogier: Ostia's New Blade,The Binding Blade,Infantry,Red Sword,46,44,47,36,24,197,Red,Sword,regular_4_3_2_1
+980,Ogma: Blade on Leave,Shadow Dragon / (New) Mystery,Infantry,Blue Lance,44,38,38,35,21,176,Blue,Lance,special
+981,Ogma: Former Gladiator,Shadow Dragon / (New) Mystery,Infantry,Red Sword,41,48,47,45,23,204,Red,Sword,tempest
+982,Ogma: Loyal Blade,Shadow Dragon / (New) Mystery,Infantry,Red Sword,47,35,34,28,13,157,Red,Sword,regular_4_3_2_1
+983,Oliver: Admirer of Beauty,Radiant Dawn,Infantry,Blue Tome,42,32,20,23,34,151,Blue,Tome,ghb
+984,Olivia: Blushing Beauty,Awakening,Infantry,Red Sword,36,28,33,27,26,150,Red,Sword,regular_4_3_2_1
+985,Olivia: Festival Dancer,Awakening,Infantry,Colorless Dagger,34,28,34,16,28,140,Colorless,Dagger,special;specialRate
+986,Olivia: Sky-High Dancer,Awakening,Flying,Red Sword,36,30,34,26,23,149,Red,Sword,specialRate
+987,Olivia: Wavecrest Dancer,Awakening,Flying,Colorless Tome,37,40,45,21,25,168,Colorless,Tome,special
+988,Olwen: Blue Mage Knight,Thracia 776,Cavalry,Blue Tome,34,26,34,20,30,144,Blue,Tome,specialRate
+989,Olwen: Righteous Knight,Thracia 776,Cavalry,Green Tome,34,30,35,19,27,145,Green,Tome,specialRate
+990,Ophelia: Dramatic Heroine,Fates,Infantry,Blue Tome,38,37,33,20,23,151,Blue,Tome,specialRate
+991,Ophelia: Starlit Maiden,Fates,Infantry,Red Tome,39,44,36,25,32,176,Red,Tome,rearmed
+992,Orochi: Merry Diviner,Fates,Infantry,Green Tome,40,40,24,24,37,165,Green,Tome,regular_4_3_2_1
+993,Orson: Passion's Folly,The Sacred Stones,Cavalry,Blue Lance,43,38,28,36,23,168,Blue,Lance,ghb
+994,Oscar: Agile Horseman,Path of Radiance,Cavalry,Blue Lance,40,33,34,26,21,154,Blue,Lance,regular_4_3_2_1
+995,Osian: Scolded Soldier,Thracia 776,Infantry,Green Axe,42,35,36,33,27,173,Green,Axe,specialRate
+996,Oswin: Impregnable Knight,The Blazing Blade,Armored,Blue Lance,51,47,31,49,27,205,Blue,Lance,regular_4_3_2_1
+997,Ótr: Kingsbrother,Heroes,Cavalry,Green Axe,41,41,17,40,35,174,Green,Axe,mythic
+998,Owain: Chosen One,Awakening,Infantry,Red Sword,41,32,37,31,22,163,Red,Sword,specialRate
+999,Owain: Devoted Defender,Awakening,Cavalry,Blue Lance,41,38,42,31,21,173,Blue,Lance,special
+1000,Palla: Eldest Bun-Bun,Shadow Dragon / (New) Mystery,Flying,Red Dagger,38,37,34,17,29,155,Red,Dagger,special;specialRate
+1001,Palla: Eldest Whitewing,Shadow Dragon / (New) Mystery,Flying,Red Sword,42,31,31,28,26,158,Red,Sword,regular_4_3_2_1
+1002,Palla: Kind Eldest Sister,Echoes,Flying,Red Sword,41,42,21,41,28,173,Red,Sword,specialRate
+1003,Palla: Sisterly Trio,Shadow Dragon / (New) Mystery,Flying,Blue Lance,40,39,31,33,24,167,Blue,Lance,duo;special;specialRate
+1004,Palla: Soaring Summer,Echoes,Flying,Green Axe,41,49,18,46,40,194,Green,Axe,special
+1005,Pandreo: Party Priest,Engage,Infantry,Colorless Staff,40,43,40,18,47,188,Colorless,Staff,regular_4_3_2_1
+1006,Panette: Classy Brawler,Engage,Infantry,Green Axe,49,48,41,35,24,197,Green,Axe,ghb
+1007,Panne: Proud Taguel,Awakening,Cavalry,Blue Beast,41,29,34,30,23,157,Blue,Beast,ghb
+1008,Panne: Welcoming Dawn,Awakening,Cavalry,Red Beast,40,41,44,32,21,178,Red,Beast,special
+1009,Patty: Youthful Thief,Genealogy of the Holy War,Infantry,Colorless Dagger,40,41,45,37,24,187,Colorless,Dagger,regular_4_3_2_1
+1010,Pelleas: Ashnard's Orphan,Radiant Dawn,Infantry,Red Tome,43,40,36,21,31,171,Red,Tome,ghb
+1011,Pent: Fancy Fiancé,The Blazing Blade,Cavalry,Blue Tome,37,33,34,19,21,144,Blue,Tome,special;specialRate
+1012,Pent: Mage General,The Blazing Blade,Infantry,Green Tome,40,38,39,19,30,166,Green,Tome,specialRate
+1013,Peony: Álfar Dream Duo,Heroes,Flying,Green Tome,38,34,40,16,23,151,Green,Tome,duo;special;specialRate
+1014,Peony: Cherished Dream,Heroes,Flying,Green Axe,40,40,45,25,29,179,Green,Axe,attuned
+1015,Peony: Fruitful Dream,Heroes,Flying,Blue Tome,38,42,48,23,28,179,Blue,Tome,special
+1016,Peony: Sweet Dream,Heroes,Flying,Blue Tome,38,31,36,16,24,145,Blue,Tome,mythic
+1017,Perceval: Knightly Ideal,The Binding Blade,Cavalry,Blue Lance,38,32,37,28,27,162,Blue,Lance,specialRate
+1018,Peri: Playful Slayer,Fates,Cavalry,Blue Lance,35,33,33,23,30,154,Blue,Lance,regular_4_3_2_1
+1019,Perne: Dacian Scoundrel,Thracia 776,Infantry,Colorless Dagger,44,43,45,34,21,187,Colorless,Dagger,ghb
+1020,Petra: Faraway Sun,Three Houses,Flying,Red Bow,40,45,47,28,24,184,Red,Bow,special
+1021,Petra: Princess of Brigid,Three Houses,Flying,Blue Dagger,40,32,38,25,20,155,Blue,Dagger,specialRate
+1022,Petrine: Icy Flame-Lancer,Path of Radiance,Cavalry,Blue Lance,42,35,37,30,24,168,Blue,Lance,ghb
+1023,Phila: Pegasus Master,Awakening,Flying,Blue Lance,38,37,42,26,40,183,Blue,Lance,regular_4_3_2_1
+1024,Phina: Roving Dancer,Shadow Dragon / (New) Mystery,Infantry,Red Sword,40,35,37,26,23,161,Red,Sword,specialRate
+1025,Plumeria: Lewd Dream,Heroes,Flying,Red Tome,41,40,18,16,37,152,Red,Tome,mythic
+1026,Plumeria: Rapturous Dream,Heroes,Flying,Blue Tome,40,46,18,19,45,168,Blue,Tome,rearmed
+1027,Plumeria: Spring Dance,Heroes,Flying,Blue Lance,40,45,16,34,49,184,Blue,Lance,harmonized;special
+1028,Plumeria: Temptation Anew,Heroes,Flying,Colorless Bow,41,42,17,18,39,157,Colorless,Bow,special;specialRate
+1029,Priam: Radiant Hero,Awakening,Infantry,Red Sword,40,41,40,35,26,182,Red,Sword,specialRate
+1030,Priscilla: Delicate Princess,The Blazing Blade,Cavalry,Colorless Staff,36,29,29,19,32,145,Colorless,Staff,regular_4_3_2_1
+1031,Python: Apathetic Archer,Echoes,Cavalry,Green Bow,38,32,35,31,20,156,Green,Bow,regular_4_3_2_1
+1032,Quan: Lightfoot Prince,Genealogy of the Holy War,Flying,Blue Bow,40,41,20,36,20,157,Blue,Bow,special;specialRate
+1033,Quan: Luminous Lancer,Genealogy of the Holy War,Cavalry,Blue Lance,44,37,29,31,16,157,Blue,Lance,specialRate
+1034,Rafal: Atoning Dragon,Engage,Armored,Red Breath,44,47,27,49,40,207,Red,Breath,regular_5
+1035,Rafiel: Blessed Wings,Radiant Dawn,Infantry,Blue Beast,38,28,35,20,41,162,Blue,Beast,special
+1036,Raigh: Dark Child,The Binding Blade,Infantry,Red Tome,36,32,29,22,29,148,Red,Tome,regular_4_3_2_1
+1037,Ranulf: Considerate Gaze,Radiant Dawn,Cavalry,Blue Beast,41,46,48,36,24,195,Blue,Beast,tempest
+1038,Ranulf: Friend of Nations,Radiant Dawn,Cavalry,Green Beast,40,30,37,33,17,157,Green,Beast,specialRate
+1039,Raphael: Beast of Leicester,Three Houses,Armored,Green Axe,59,49,31,49,24,212,Green,Axe,ghb
+1040,Raphael: Muscle-Monger,Three Houses,Armored,Colorless Bow,48,42,28,38,23,179,Colorless,Bow,special
+1041,Ratatoskr: Mending Hand,Heroes,Cavalry,Blue Beast,40,44,46,34,21,185,Blue,Beast,mythic
+1042,Rath: Wolf of Sacae,The Blazing Blade,Cavalry,Green Bow,41,33,35,23,24,156,Green,Bow,regular_4_3_2_1
+1043,Raven: Peerless Fighter,The Blazing Blade,Infantry,Green Axe,41,34,35,25,22,157,Green,Axe,regular_4_3_2_1
+1044,Rebecca: Breezy Scamp,The Blazing Blade,Infantry,Colorless Bow,39,44,45,22,33,183,Colorless,Bow,special
+1045,Rebecca: Wildflower,The Blazing Blade,Infantry,Colorless Bow,37,29,34,21,27,148,Colorless,Bow,regular_4_3_2_1
+1046,Reginn: Bearing Dawn,Heroes,Cavalry,Blue Tome,37,38,40,23,24,162,Blue,Tome,special;specialRate
+1047,Reginn: Bearing Hope,Heroes,Cavalry,Red Sword,38,36,40,30,24,168,Red,Sword,mythic
+1048,Reginn: Dvergr Heir,Heroes,Cavalry,Blue Lance,40,45,47,37,21,190,Blue,Lance,aided
+1049,Reina: Sanguine Shinobi,Fates,Flying,Green Bow,40,43,45,24,31,183,Green,Bow,special
+1050,Reinhardt: Lightning's Rondo,Thracia 776,Flying,Green Tome,38,34,21,27,25,145,Green,Tome,special;specialRate
+1051,Reinhardt: Thrud Reborn,Thracia 776,Cavalry,Blue Tome,41,46,45,22,20,174,Blue,Tome,rearmed
+1052,Reinhardt: Thunder's Fist,Thracia 776,Cavalry,Blue Tome,38,32,23,27,25,145,Blue,Tome,regular_4_3_2_1
+1053,Reinhardt: Thunder's Sword,Thracia 776,Cavalry,Red Sword,40,35,23,31,28,157,Red,Sword,specialRate
+1054,"Rennac: Rich ""Merchant""",The Sacred Stones,Infantry,Green Dagger,39,37,42,34,25,177,Green,Dagger,specialRate
+1055,Reyson: White Prince,Radiant Dawn,Flying,Green Beast,37,29,34,24,26,150,Green,Beast,regular_4_3_2_1
+1056,Rhajat: Black Magician,Fates,Infantry,Green Tome,36,35,34,21,24,150,Green,Tome,specialRate
+1057,Rhea: Aura of Love,Three Houses,Armored,Colorless Breath,46,48,17,46,50,207,Colorless,Breath,duo;special
+1058,Rhea: Immaculate One,Three Houses,Armored,Colorless Breath,46,43,18,40,43,190,Colorless,Breath,specialRate
+1059,Rhea: Loving Matriarch,Three Houses,Infantry,Colorless Breath,40,44,16,42,46,188,Colorless,Breath,specialRate
+1060,Rhea: Witch of Creation,Three Houses,Infantry,Green Breath,40,43,18,39,42,182,Green,Breath,special;specialRate
+1061,Rhys: Gentle Basker,Radiant Dawn,Infantry,Colorless Staff,44,34,27,21,36,162,Colorless,Staff,tempest
+1062,Rickard: Carefree Culprit,Shadow Dragon / (New) Mystery,Flying,Red Sword,38,38,42,33,25,176,Red,Sword,tempest
+1063,Ricken: Shepherd Novice,Awakening,Infantry,Green Tome,40,43,39,24,30,176,Green,Tome,regular_4_3_2_1
+1064,Riev: Blood Beryl,The Sacred Stones,Infantry,Blue Tome,43,39,25,23,40,170,Blue,Tome,ghb
+1065,Rinea: Reminiscent Belle,Echoes,Infantry,Blue Tome,38,30,33,23,28,152,Blue,Tome,tempest
+1066,Rinkah: Consuming Flame,Fates,Infantry,Red Sword,40,37,41,44,25,187,Red,Sword,special
+1067,Rinkah: Scion of Flame,Fates,Infantry,Green Axe,40,34,39,41,18,172,Green,Axe,specialRate
+1068,Robin: Exalt's Deliverer,Awakening,Infantry,Red Sword,40,46,45,35,27,193,Red,Sword,specialRate
+1069,Robin: Exalt's Other Half,Awakening,Infantry,Green Tome,40,45,30,31,31,177,Green,Tome,legendary
+1070,Robin: Exalt's Right Hand,Awakening,Infantry,Colorless Tome,40,45,47,30,26,188,Colorless,Tome,regular_5
+1071,Robin: Fall Reincarnation,Awakening,Armored,Colorless Breath,46,43,21,43,37,190,Colorless,Breath,special;specialRate
+1072,Robin: Fall Vessel,Awakening,Flying,Green Breath,40,40,17,37,38,172,Green,Breath,special;specialRate
+1073,Robin: Fated Vessel,Awakening,Infantry,Red Tome,40,46,45,36,16,183,Red,Tome,special
+1074,Robin: Fell Reincarnation,Awakening,Armored,Green Breath,48,40,24,35,27,174,Green,Breath,specialRate
+1075,Robin: Fell Tactician,Awakening,Armored,Colorless Breath,43,41,44,35,33,196,Colorless,Breath,rearmed
+1076,Robin: Fell Vessel,Awakening,Flying,Colorless Breath,40,32,35,30,25,162,Colorless,Breath,legendary
+1077,Robin: Festive Tactician,Awakening,Armored,Blue Lance,45,35,34,35,25,174,Blue,Lance,special;specialRate
+1078,Robin: High Deliverer,Awakening,Infantry,Blue Tome,40,29,29,29,22,149,Blue,Tome,regular_4_3_2_1
+1079,Robin: Keen Groom,Awakening,Cavalry,Red Tome,40,46,35,23,24,168,Red,Tome,tempest
+1080,Robin: Mystery Tactician,Awakening,Infantry,Green Tome,40,29,29,29,22,149,Green,Tome,ghb
+1081,Robin: Seaside Tactician,Awakening,Infantry,Blue Lance,35,32,34,28,29,158,Blue,Lance,special;specialRate
+1082,Robin: Tactful Deliverer,Awakening,Armored,Colorless Tome,42,41,16,39,42,180,Colorless,Tome,special;specialRate
+1083,Robin: Vessels of Fate,Awakening,Infantry,Blue Tome,40,45,46,30,22,183,Blue,Tome,duo;special
+1084,Roderick: Steady Squire,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,40,31,34,25,24,154,Blue,Lance,regular_4_3_2_1
+1085,Rolf: Tricky Archer,Path of Radiance,Cavalry,Colorless Bow,40,30,36,28,23,157,Colorless,Bow,tempest
+1086,Ronan: Villager of Iz,Thracia 776,Infantry,Blue Bow,38,34,40,17,42,171,Blue,Bow,specialRate
+1087,Rosado: Adorable Artist,Engage,Flying,Green Axe,40,43,46,44,16,189,Green,Axe,regular_5
+1088,Roshea: Coyote's Faithful,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,41,38,35,38,21,173,Blue,Lance,regular_4_3_2_1
+1089,Ross: His Father's Son,The Sacred Stones,Infantry,Green Axe,47,38,31,32,24,172,Green,Axe,regular_4_3_2_1
+1090,Roy: Blazing Bachelors,The Binding Blade,Cavalry,Green Axe,39,38,42,30,25,174,Green,Axe,harmonized;special;specialRate
+1091,Roy: Blazing Lion,The Binding Blade,Infantry,Red Sword,39,34,38,32,26,169,Red,Sword,legendary
+1092,Roy: Brave Lion,The Binding Blade,Cavalry,Red Sword,38,32,34,26,24,154,Red,Sword,specialRate
+1093,Roy: Young Lion,The Binding Blade,Infantry,Red Sword,44,30,31,25,28,158,Red,Sword,regular_4_3_2_1
+1094,Roy: Youthful Gifts,The Binding Blade,Cavalry,Colorless Bow,34,35,19,27,30,145,Colorless,Bow,special;specialRate
+1095,Rudolf: Emperor of Rigel,Echoes,Armored,Blue Lance,46,43,21,41,29,180,Blue,Lance,special;specialRate
+1096,Rune: Source of Wisdom,Heroes,Infantry,Colorless Tome,37,47,35,21,48,188,Colorless,Tome,mythic
+1097,Rutger: Lone Swordsman,The Binding Blade,Infantry,Red Sword,44,32,39,29,24,168,Red,Sword,ghb
+1098,Ryoma: Dancing Samurai,Fates,Infantry,Blue Dagger,36,32,34,21,17,140,Blue,Dagger,special;specialRate
+1099,Ryoma: Peerless Samurai,Fates,Infantry,Red Sword,41,34,35,27,21,158,Red,Sword,specialRate
+1100,Ryoma: Samurai at Ease,Fates,Flying,Blue Lance,40,35,36,28,23,162,Blue,Lance,special;specialRate
+1101,Ryoma: Supreme Samurai,Fates,Flying,Red Sword,41,34,39,28,20,162,Red,Sword,legendary
+1102,Ryoma: Warrior of Bonds,Fates,Infantry,Red Sword,40,47,48,36,33,204,Red,Sword,attuned
+1103,Saber: Driven Mercenary,Echoes,Infantry,Red Sword,40,31,33,32,22,158,Red,Sword,specialRate
+1104,Saber: Dune Walker,Echoes,Infantry,Blue Lance,40,47,46,45,21,199,Blue,Lance,tempest
+1105,Safy: Font of Piety,Thracia 776,Infantry,Colorless Staff,38,47,31,21,46,183,Colorless,Staff,regular_5
+1106,Saias: Bishop of Flame,Thracia 776,Infantry,Blue Tome,36,33,30,18,34,151,Blue,Tome,ghb
+1107,Sain: Green Lance,The Blazing Blade,Cavalry,Blue Lance,40,42,38,36,18,174,Blue,Lance,specialRate
+1108,Saizo: Angry Ninja,Fates,Infantry,Colorless Dagger,36,29,34,33,16,148,Colorless,Dagger,regular_4_3_2_1
+1109,Saizo: Hoshido's Flame,Fates,Infantry,Blue Lance,37,41,45,45,25,193,Blue,Lance,tempest
+1110,Sakura: Gentle Nekomata,Fates,Infantry,Colorless Dagger,33,32,34,14,34,147,Colorless,Dagger,special;specialRate
+1111,Sakura: Hot-Spring Healer,Fates,Flying,Colorless Staff,36,35,32,26,21,150,Colorless,Staff,special;specialRate
+1112,Sakura: In Full Bloom,Fates,Flying,Colorless Staff,39,48,47,23,27,184,Colorless,Staff,legendary
+1113,Sakura: Loving Priestess,Fates,Infantry,Colorless Staff,36,28,30,24,30,148,Colorless,Staff,regular_4_3_2_1
+1114,Saleh: Vernal Sage,The Sacred Stones,Cavalry,Green Axe,41,37,36,26,28,168,Green,Axe,tempest
+1115,Salem: Dark Sage,Thracia 776,Infantry,Red Tome,41,38,36,18,38,171,Red,Tome,ghb
+1116,Sanaki: Apostle in White,Path of Radiance,Flying,Green Tome,35,36,30,16,33,150,Green,Tome,special;specialRate
+1117,Sanaki: Begnion's Apostle,Radiant Dawn,Infantry,Red Tome,33,37,26,17,34,147,Red,Tome,specialRate
+1118,Sanaki: Dawnsworn Ninja,Radiant Dawn,Cavalry,Red Tome,40,47,24,16,47,174,Red,Tome,duo;special
+1119,Sara: Lady of Loptr,Thracia 776,Infantry,Colorless Staff,35,40,37,16,37,165,Colorless,Staff,specialRate
+1120,Saul: Loving Shepherd,The Binding Blade,Infantry,Colorless Staff,37,40,44,16,40,177,Colorless,Staff,regular_4_3_2_1
+1121,Saul: Minister of Love,The Binding Blade,Cavalry,Colorless Staff,37,33,37,16,35,158,Colorless,Staff,special;specialRate
+1122,Say'ri: Chon'sin's Blade,Awakening,Infantry,Red Sword,40,35,40,23,34,172,Red,Sword,specialRate
+1123,Say'ri: Righteous Bride,Awakening,Flying,Blue Lance,40,44,46,28,26,184,Blue,Lance,special
+1124,Scarlet: Rebellious Streak,Fates,Flying,Green Axe,40,48,46,45,21,200,Green,Axe,regular_4_3_2_1
+1125,Scáthach: Astra's Wake,Genealogy of the Holy War,Infantry,Red Sword,43,42,30,43,24,182,Red,Sword,regular_4_3_2_1
+1126,Seadall: Misfortune-Teller,Engage,Infantry,Red Tome,40,40,46,21,25,172,Red,Tome,special
+1127,Sedgar: Coyote's Dutiful,Shadow Dragon / (New) Mystery,Cavalry,Green Bow,41,36,39,27,24,167,Green,Bow,ghb
+1128,Sedgar: Festive Horseman,Shadow Dragon / (New) Mystery,Cavalry,Colorless Bow,41,46,48,31,24,190,Colorless,Bow,special
+1129,Seiðr: Candlelit Hope,Heroes,Cavalry,Green Tome,38,48,30,20,49,185,Green,Tome,special
+1130,Seiðr: Goddess of Hope,Heroes,Cavalry,Green Tome,39,43,30,17,40,169,Green,Tome,mythic
+1131,Seiðr: Time's Goddesses,Heroes,Flying,Blue Tome,40,47,29,17,46,179,Blue,Tome,duo;special
+1132,Seiros: Saint of Legend,Three Houses,Infantry,Blue Breath,40,42,18,37,40,177,Blue,Breath,mythic
+1133,Selena: Admiring General,The Sacred Stones,Cavalry,Red Tome,40,45,46,20,22,173,Red,Tome,special
+1134,Selena: Cutting Wit,Fates,Infantry,Red Sword,37,25,35,32,28,157,Red,Sword,regular_4_3_2_1
+1135,Selena: Fluorspar,The Sacred Stones,Cavalry,Blue Tome,40,39,39,16,23,157,Blue,Tome,specialRate
+1136,Selena: Sandbar Fluorspar,The Sacred Stones,Cavalry,Green Tome,36,37,37,17,23,150,Green,Tome,special;specialRate
+1137,Seliph: Enduring Legacy,Genealogy of the Holy War,Cavalry,Red Sword,40,43,41,37,18,179,Red,Sword,specialRate
+1138,Seliph: Heir of Light,Genealogy of the Holy War,Infantry,Red Sword,47,34,24,30,22,157,Red,Sword,regular_4_3_2_1
+1139,Seliph: Light's Legacy,Genealogy of the Holy War,Cavalry,Green Axe,41,48,47,37,17,190,Green,Axe,special
+1140,Seliph: Scion of Light,Genealogy of the Holy War,Cavalry,Red Sword,41,41,17,37,26,162,Red,Sword,legendary
+1141,Selkie: Free Spirit,Fates,Cavalry,Blue Beast,35,29,38,19,35,156,Blue,Beast,specialRate
+1142,Selkie: New Year's Spirit,Fates,Cavalry,Colorless Beast,35,31,39,16,40,161,Colorless,Beast,special;specialRate
+1143,Sephiran: Hoary Sovereign,Path of Radiance,Armored,Colorless Staff,43,42,21,29,40,175,Colorless,Staff,special;specialRate
+1144,Serra: Outspoken Cleric,The Blazing Blade,Infantry,Colorless Staff,33,30,31,21,33,148,Colorless,Staff,regular_4_3_2_1
+1145,Seteth: Seiros Adherent,Three Houses,Flying,Blue Lance,44,36,36,32,24,172,Blue,Lance,regular_4_3_2_1
+1146,Seth: Silver Knight,The Sacred Stones,Cavalry,Red Sword,37,32,31,32,22,154,Red,Sword,regular_4_3_2_1
+1147,Seth: Silver-Sea Knight,The Sacred Stones,Cavalry,Green Axe,40,40,38,31,24,173,Green,Axe,tempest
+1148,Setsuna: Absent Archer,Fates,Infantry,Colorless Bow,37,28,37,22,23,147,Colorless,Bow,regular_4_3_2_1
+1149,Severa: Bitter Blossom,Awakening,Cavalry,Red Tome,39,37,40,24,17,157,Red,Tome,special;specialRate
+1150,Severa: Secret Dreamer,Awakening,Infantry,Red Sword,42,43,47,37,24,193,Red,Sword,regular_5
+1151,Shamir: Archer Apart,Three Houses,Infantry,Green Bow,41,40,40,25,24,170,Green,Bow,specialRate
+1152,Shamir: Heartbeats United,Three Houses,Cavalry,Blue Bow,40,43,46,25,20,174,Blue,Bow,duo;special
+1153,Shamir: Lone-Moon Ninja,Three Houses,Infantry,Green Axe,42,37,40,31,32,182,Green,Axe,tempest
+1154,Shanna: Bridal Novice,The Binding Blade,Flying,Red Bow,37,38,42,23,27,167,Red,Bow,special;specialRate
+1155,Shanna: Sprightly Flier,The Binding Blade,Flying,Blue Lance,39,30,35,25,29,158,Blue,Lance,regular_4_3_2_1
+1156,Shannan: Wielder of Astra,Genealogy of the Holy War,Infantry,Red Sword,43,38,36,37,18,172,Red,Sword,specialRate
+1157,Sharena: Borrowed Divinity,Heroes,Cavalry,Blue Lance,40,48,49,35,23,195,Blue,Lance,entwined
+1158,Sharena: Hopeful Princess,Heroes,Cavalry,Green Tome,40,46,49,28,22,185,Green,Tome,regular_5
+1159,Sharena: Pillars of Peace,Heroes,Cavalry,Blue Lance,40,44,47,32,21,184,Blue,Lance,duo;special
+1160,Sharena: Princess of Askr,Heroes,Infantry,Blue Lance,43,32,32,29,22,158,Blue,Lance,story
+1161,Sharena: Spring Princess,Heroes,Infantry,Green Tome,37,32,36,16,30,151,Green,Tome,special;specialRate
+1162,Sheena: Princess of Gra,Shadow Dragon / (New) Mystery,Armored,Green Axe,45,30,25,36,33,169,Green,Axe,regular_4_3_2_1
+1163,Shez: Covert Mercenary,Three Houses,Infantry,Blue Dagger,40,46,49,38,25,198,Blue,Dagger,special
+1164,Shez: Dual Sword Master,Three Houses,Infantry,Red Dagger,41,47,47,32,27,194,Red,Dagger,legendary
+1165,Shez: Keen Mercenary,Three Houses,Infantry,Green Axe,38,41,42,32,34,187,Green,Axe,regular_4_3_2_1
+1166,Shez: Mercenary Shade,Three Houses,Flying,Blue Lance,41,44,44,31,23,183,Blue,Lance,tempest
+1167,Shez: Mercenary Shine,Three Houses,Cavalry,Red Sword,40,46,45,30,18,179,Red,Sword,special
+1168,Shez: Ninja Mercenary,Three Houses,Infantry,Green Axe,40,48,48,44,24,204,Green,Axe,tempest
+1169,Shez: Rising Mercenary,Three Houses,Infantry,Red Sword,40,43,41,37,26,187,Red,Sword,specialRate
+1170,Shez: Sharpest Blades,Three Houses,Infantry,Blue Dagger,40,43,44,31,25,183,Blue,Dagger,legendary
+1171,Shez: Snowfield Envoy,Three Houses,Cavalry,Green Dagger,40,45,48,30,22,185,Green,Dagger,special
+1172,Shigure: Dark Sky Singer,Fates,Infantry,Blue Tome,34,31,29,21,24,139,Blue,Tome,special;specialRate
+1173,Shigure: Uplifting Artist,Fates,Flying,Blue Lance,40,33,37,27,25,162,Blue,Lance,regular_4_3_2_1
+1174,Shinon: Scathing Archer,Path of Radiance,Infantry,Colorless Bow,40,38,42,27,24,171,Colorless,Bow,specialRate
+1175,Shinon: Sharptongue Ninja,Radiant Dawn,Infantry,Red Bow,40,40,43,28,26,177,Red,Bow,special;specialRate
+1176,Shiro: Raw Talent,Fates,Infantry,Blue Lance,41,35,30,35,22,163,Blue,Lance,specialRate
+1177,Shura: Righteous Rebel,Fates,Infantry,Green Bow,40,45,48,19,47,199,Green,Bow,regular_4_3_2_1
+1178,Siegbert: Future King,Fates,Cavalry,Red Sword,41,34,35,31,16,157,Red,Sword,specialRate
+1179,Sigrun: Loyal Protector,Path of Radiance,Flying,Blue Lance,37,32,36,28,34,167,Blue,Lance,tempest
+1180,Sigrun: Steadfast Bride,Path of Radiance,Flying,Red Sword,35,31,38,27,31,162,Red,Sword,special;specialRate
+1181,Sigurd: Destined Duo,Genealogy of the Holy War,Cavalry,Red Tome,38,38,18,16,37,147,Red,Tome,duo;special;specialRate
+1182,Sigurd: Fated Holy Knight,Genealogy of the Holy War,Cavalry,Red Sword,41,41,23,37,26,168,Red,Sword,legendary
+1183,Sigurd: Holy Knight,Genealogy of the Holy War,Cavalry,Red Sword,41,35,32,34,17,159,Red,Sword,specialRate
+1184,Sigurd: Of the Holy War,Genealogy of the Holy War,Cavalry,Blue Lance,41,48,37,47,17,190,Blue,Lance,emblem
+1185,Sigurd: Proper Pourer,Genealogy of the Holy War,Cavalry,Blue Tome,40,46,31,35,16,168,Blue,Tome,special
+1186,Silas: Loyal Knight,Fates,Cavalry,Blue Lance,40,35,24,36,21,156,Blue,Lance,regular_4_3_2_1
+1187,Silque: Adherent of Mila,Echoes,Infantry,Colorless Staff,39,33,23,35,31,161,Colorless,Staff,specialRate
+1188,Silque: Selfless Cleric,Echoes,Cavalry,Colorless Staff,40,28,22,32,29,151,Colorless,Staff,tempest
+1189,Silvia: Traveling Dancer,Genealogy of the Holy War,Infantry,Red Sword,40,27,36,17,30,150,Red,Sword,regular_4_3_2_1
+1190,Sirius: Mysterious Knight,Shadow Dragon / (New) Mystery,Cavalry,Blue Lance,40,34,37,35,16,162,Blue,Lance,specialRate
+1191,Skrimir: Echoing Howl,Radiant Dawn,Armored,Green Beast,52,48,21,49,41,211,Green,Beast,special
+1192,Soleil: Adorable Adorer,Fates,Infantry,Red Sword,37,38,35,28,24,162,Red,Sword,regular_4_3_2_1
+1193,Solon: Church Shadow,Three Houses,Infantry,Red Tome,45,38,20,24,38,165,Red,Tome,ghb
+1194,Sonia: Inhuman Beauty,The Blazing Blade,Infantry,Blue Tome,40,35,24,32,35,166,Blue,Tome,ghb
+1195,Sonya: Beautiful Mage,Echoes,Infantry,Green Tome,38,47,32,20,45,182,Green,Tome,rearmed
+1196,Sonya: Dazzling Rabbits,Echoes,Flying,Green Tome,40,42,41,23,20,166,Green,Tome,harmonized;special;specialRate
+1197,Sonya: Vengeful Mage,Echoes,Infantry,Green Tome,36,33,31,15,32,147,Green,Tome,specialRate
+1198,Sophia: Cobweb Prophet,The Binding Blade,Flying,Blue Tome,37,38,23,27,42,167,Blue,Tome,tempest
+1199,Sophia: Nabata Prophet,The Binding Blade,Infantry,Red Tome,40,33,19,28,29,149,Red,Tome,regular_4_3_2_1
+1200,Sophia: Prescient Bride,The Binding Blade,Flying,Red Tome,38,40,19,36,34,167,Red,Tome,special;specialRate
+1201,Soren: Addled Strategist,Path of Radiance,Cavalry,Blue Tome,37,35,33,14,25,144,Blue,Tome,special;specialRate
+1202,Soren: Hushed Voice,Path of Radiance,Infantry,Colorless Tome,36,42,34,16,43,171,Colorless,Tome,special;specialRate
+1203,Soren: Isolated Strategist,Path of Radiance,Infantry,Blue Tome,40,48,38,18,49,193,Blue,Tome,rearmed
+1204,Soren: Radiant Confidant,Radiant Dawn,Infantry,Green Tome,40,45,34,16,47,182,Green,Tome,specialRate
+1205,Soren: Shrewd Strategist,Path of Radiance,Infantry,Green Tome,36,33,33,17,29,148,Green,Tome,regular_4_3_2_1
+1206,Soren: Wind of Tradition,Radiant Dawn,Infantry,Blue Tome,38,43,34,18,45,178,Blue,Tome,tempest
+1207,Sothe: Dawning Zephyr,Radiant Dawn,Infantry,Colorless Dagger,43,43,47,30,25,188,Colorless,Dagger,rearmed
+1208,Sothe: In the Breeze,Radiant Dawn,Infantry,Colorless Dagger,42,45,49,34,29,199,Colorless,Dagger,rearmed;special
+1209,Sothe: Rushing Dawn,Radiant Dawn,Flying,Green Dagger,41,39,41,28,23,172,Green,Dagger,special
+1210,Sothe: Zephyr,Radiant Dawn,Infantry,Colorless Dagger,39,36,33,22,21,151,Colorless,Dagger,regular_4_3_2_1
+1211,Sothis: Bound-Spirit Duo,Three Houses,Flying,Blue Breath,40,36,42,31,34,183,Blue,Breath,duo;special;specialRate
+1212,Sothis: Girl on the Throne,Three Houses,Infantry,Red Breath,41,34,39,32,27,173,Red,Breath,mythic
+1213,Sothis: Silver Specter,Three Houses,Armored,Green Breath,44,35,41,30,35,185,Green,Breath,special;specialRate
+1214,Stahl: Viridian Knight,Awakening,Cavalry,Red Sword,45,31,26,30,22,154,Red,Sword,regular_4_3_2_1
+1215,Stefan: No-Man's-Blade,Path of Radiance,Infantry,Red Sword,41,46,49,37,31,204,Red,Sword,regular_5
+1216,Subaki: Perfect Expert,Fates,Flying,Blue Lance,40,25,35,35,22,157,Blue,Lance,regular_4_3_2_1
+1217,Sue: Doe of the Plains,The Binding Blade,Cavalry,Green Bow,36,32,38,23,20,149,Green,Bow,specialRate
+1218,Sully: Crimson Knight,Awakening,Cavalry,Blue Lance,42,26,34,24,28,154,Blue,Lance,regular_4_3_2_1
+1219,Sumia: Maid of Flowers,Awakening,Flying,Blue Lance,39,30,39,29,25,162,Blue,Lance,specialRate
+1220,Surtr: Pirate of Red Sky,Heroes,Armored,Blue Lance,45,45,16,44,36,186,Blue,Lance,special;specialRate
+1221,Surtr: Ruler of Flame,Heroes,Armored,Green Axe,50,39,17,40,33,179,Green,Axe,specialRate
+1222,Sylvain: Consummate Flirt,Three Houses,Cavalry,Green Axe,40,44,35,37,23,179,Green,Axe,regular_4_3_2_1
+1223,Sylvain: Hanging with Tens,Three Houses,Cavalry,Green Tome,42,32,35,27,16,152,Green,Tome,special
+1224,Sylvain: Spring Flingster,Three Houses,Cavalry,Blue Lance,40,47,45,32,21,185,Blue,Lance,special
+1225,Syrene: Graceful Rider,The Sacred Stones,Flying,Red Sword,37,39,45,21,41,183,Red,Sword,specialRate
+1226,Tailtiu: Teatime Mingler,Genealogy of the Holy War,Infantry,Green Tome,39,42,44,21,31,177,Green,Tome,tempest
+1227,Tailtiu: Thunder Noble,Genealogy of the Holy War,Infantry,Blue Tome,39,32,35,17,25,148,Blue,Tome,regular_4_3_2_1
+1228,Takumi: Empty Vessel,Fates,Infantry,Colorless Bow,37,31,34,25,24,151,Colorless,Bow,ghb
+1229,Takumi: Prince at Play,Fates,Flying,Colorless Bow,40,35,35,21,19,150,Colorless,Bow,special;specialRate
+1230,Takumi: Prince of Soup,Fates,Infantry,Colorless Dagger,40,34,34,17,27,152,Colorless,Dagger,special;specialRate
+1231,Takumi: Troubled Heart,Fates,Armored,Blue Tome,40,40,46,28,31,185,Blue,Tome,tempest;special
+1232,Takumi: Wild Card,Fates,Infantry,Colorless Bow,40,32,33,25,18,148,Colorless,Bow,specialRate
+1233,Takumi: Wishful Spark,Fates,Cavalry,Colorless Bow,40,42,46,28,23,179,Colorless,Bow,tempest
+1234,Tana: Frelian Starlight,The Sacred Stones,Flying,Blue Lance,40,39,41,29,23,172,Blue,Lance,special;specialRate
+1235,Tana: Noble and Nimble,The Sacred Stones,Flying,Red Tome,35,33,36,20,25,149,Red,Tome,special;specialRate
+1236,Tana: Soaring New Year,The Sacred Stones,Flying,Red Sword,40,45,47,37,25,194,Red,Sword,special
+1237,Tana: Soaring Princess,The Sacred Stones,Flying,Colorless Bow,40,45,47,22,23,177,Colorless,Bow,rearmed
+1238,Tana: Soothing Warmth,Heroes,Flying,Green Dagger,39,39,42,26,32,178,Green,Dagger,harmonized;special;specialRate
+1239,Tana: Winged Princess,The Sacred Stones,Flying,Blue Lance,36,34,36,25,25,156,Blue,Lance,specialRate
+1240,Tanith: Bright Blade,Path of Radiance,Flying,Red Sword,41,36,40,32,28,177,Red,Sword,regular_4_3_2_1
+1241,Tanith: Forthright Heart,Path of Radiance,Flying,Blue Lance,37,34,36,33,21,161,Blue,Lance,special;specialRate
+1242,Tanya: Dagdar's Kid,Thracia 776,Infantry,Colorless Bow,41,30,37,25,28,161,Colorless,Bow,regular_4_3_2_1
+1243,Tatiana: Devoted Saint,Echoes,Infantry,Blue Tome,40,37,34,15,39,165,Blue,Tome,regular_4_3_2_1
+1244,Tethys: Beloved Dancer,The Sacred Stones,Infantry,Colorless Dagger,38,27,35,23,34,157,Colorless,Dagger,regular_4_3_2_1
+1245,Tethys: Dancing Sands,The Sacred Stones,Flying,Colorless Dagger,37,31,47,21,42,178,Colorless,Dagger,special
+1246,"Tharja: ""Normal Girl""",Awakening,Armored,Red Tome,43,34,18,34,36,165,Red,Tome,special;specialRate
+1247,Tharja: Beach Dark Mage,Awakening,Cavalry,Blue Tome,40,45,44,19,20,168,Blue,Tome,special
+1248,Tharja: Dark Shadow,Awakening,Infantry,Red Tome,39,32,34,23,20,148,Red,Tome,regular_4_3_2_1
+1249,Tharja: Florid Charmer,Awakening,Flying,Green Tome,40,39,41,19,22,161,Green,Tome,special;specialRate
+1250,Tharja: Gloomy Mage,Awakening,Flying,Green Tome,35,44,47,16,42,184,Green,Tome,attuned
+1251,Tharja: Obsessive Bride,Awakening,Infantry,Red Tome,39,35,35,21,21,151,Red,Tome,special;specialRate
+1252,Tharja: Shadow Ninja,Awakening,Cavalry,Red Tome,45,46,47,20,21,179,Red,Tome,special
+1253,Thea: Stormy Flier,The Binding Blade,Flying,Blue Lance,37,31,35,31,28,162,Blue,Lance,regular_4_3_2_1
+1254,Thea: Wings of Winter,The Binding Blade,Flying,Red Sword,39,43,47,27,39,195,Red,Sword,special
+1255,Thórr: Spring War God,Heroes,Flying,Blue Lance,45,49,16,49,40,199,Blue,Lance,special
+1256,Thórr: Sun-Kissed Gods,Heroes,Flying,Blue Tome,40,43,16,30,38,167,Blue,Tome,duo;special;specialRate
+1257,Thórr: War God,Heroes,Flying,Green Axe,40,44,19,41,34,178,Green,Axe,mythic
+1258,Thrasir: Omnicidal Witch,Heroes,Infantry,Green Tome,40,33,39,23,27,162,Green,Tome,mythic
+1259,Tibarn: Lord of the Air,Radiant Dawn,Flying,Red Beast,41,38,31,34,18,162,Red,Beast,specialRate
+1260,Tibarn: Shipless Pirate,Radiant Dawn,Flying,Colorless Beast,42,41,30,36,18,167,Colorless,Beast,special;specialRate
+1261,Tiki: Awakened Blood,Shadow Dragon / (New) Mystery,Infantry,Red Breath,38,42,44,32,36,192,Red,Breath,specialRate
+1262,Tiki: Beachside Scion,Shadow Dragon / (New) Mystery,Flying,Red Breath,40,33,37,32,26,168,Red,Breath,special;specialRate
+1263,Tiki: Bridal Reflections,Shadow Dragon / (New) Mystery,Armored,Colorless Breath,42,42,26,40,45,195,Colorless,Breath,harmonized;special
+1264,Tiki: Dragon Scion,Shadow Dragon / (New) Mystery,Infantry,Red Breath,41,31,30,32,29,163,Red,Breath,specialRate
+1265,Tiki: Dragon's Progeny,Shadow Dragon / (New) Mystery,Infantry,Green Breath,36,31,48,48,40,203,Green,Breath,attuned
+1266,Tiki: Everlasting Voice,Awakening,Armored,Colorless Breath,52,48,16,47,49,212,Colorless,Breath,mythic
+1267,Tiki: Fated Divinity,Awakening,Infantry,Green Breath,40,43,27,37,41,188,Green,Breath,specialRate
+1268,Tiki: Harmonic Hope,Shadow Dragon / (New) Mystery,Flying,Blue Breath,39,39,42,32,25,177,Blue,Breath,harmonized;special;specialRate
+1269,Tiki: Legendary Dragon,Shadow Dragon / (New) Mystery,Armored,Blue Breath,45,34,35,37,29,180,Blue,Breath,legendary
+1270,Tiki: Naga's Voice,Awakening,Infantry,Red Breath,40,35,23,35,24,157,Red,Breath,regular_4_3_2_1
+1271,Tiki: Summering Scion,Awakening,Infantry,Green Axe,35,36,30,32,24,157,Green,Axe,special;specialRate
+1272,Tiki: Torpid Dragon,Shadow Dragon / (New) Mystery,Armored,Colorless Breath,45,36,34,37,28,180,Colorless,Breath,specialRate
+1273,Timerra: Desert Warrior,Engage,Infantry,Blue Lance,40,34,47,47,31,199,Blue,Lance,attuned
+1274,Timerra: Trick or Meat,Engage,Infantry,Blue Lance,37,41,46,46,23,193,Blue,Lance,special
+1275,Tina: Playful Scamp,Thracia 776,Infantry,Colorless Staff,44,43,46,19,31,183,Colorless,Staff,regular_5
+1276,Tine: Determined Bride,Genealogy of the Holy War,Cavalry,Red Tome,38,46,47,21,27,179,Red,Tome,special
+1277,Tine: Rumbling Thunder,Genealogy of the Holy War,Infantry,Colorless Tome,38,42,42,23,26,171,Colorless,Tome,specialRate
+1278,Titania: Mighty Mercenary,Path of Radiance,Cavalry,Green Axe,37,28,34,25,30,154,Green,Axe,regular_4_3_2_1
+1279,Titania: Warm Knight,Path of Radiance,Cavalry,Red Tome,35,30,33,17,30,145,Red,Tome,tempest
+1280,Tobin: The Clueless One,Echoes,Infantry,Red Sword,46,31,27,33,26,163,Red,Sword,tempest
+1281,Tormod: Indomitable Will,Radiant Dawn,Infantry,Red Tome,40,43,45,25,30,183,Red,Tome,special
+1282,Travant: King of Thracia,Genealogy of the Holy War,Flying,Blue Lance,46,36,26,40,18,166,Blue,Lance,ghb
+1283,Triandra: Nightmare,Heroes,Flying,Green Tome,38,37,38,16,22,151,Green,Tome,mythic
+1284,Triandra: Reverent Dream,Heroes,Flying,Red Sword,39,44,46,27,22,178,Red,Sword,attuned
+1285,Triandra: Sunlit Nightmare,Heroes,Flying,Colorless Tome,37,43,46,18,18,162,Colorless,Tome,special
+1286,Tsubasa: Madcap Idol,Tokyo Mirage Sessions ♯FE Encore,Flying,Blue Lance,39,32,40,26,30,167,Blue,Lance,specialRate
+1287,Ullr: The Bowmaster,Genealogy of the Holy War,Infantry,Blue Bow,39,42,41,30,19,171,Blue,Bow,mythic
+1288,Ursula: Blackened Crow,The Blazing Blade,Cavalry,Blue Tome,40,43,47,17,27,174,Blue,Tome,regular_5
+1289,Ursula: Blue Crow,The Blazing Blade,Cavalry,Blue Tome,35,29,32,19,30,145,Blue,Tome,ghb
+1290,Ursula: Clear-Blue Crow,The Blazing Blade,Cavalry,Colorless Dagger,36,36,34,16,28,150,Colorless,Dagger,special;specialRate
+1291,Ursula: Royal-Blue Crow,The Blazing Blade,Cavalry,Green Tome,40,42,46,18,22,168,Green,Tome,special;specialRate
+1292,Uther: Frugal Militarist,The Blazing Blade,Armored,Green Axe,47,48,21,46,43,205,Green,Axe,regular_4_3_2_1
+1293,Vaida: Dracofang General,The Blazing Blade,Flying,Blue Lance,40,47,37,47,23,194,Blue,Lance,ghb
+1294,Vaike: Sunbaked Stunner,Awakening,Infantry,Green Axe,46,47,33,42,24,192,Green,Axe,tempest
+1295,Valbar: Open and Honest,Echoes,Armored,Blue Lance,49,35,25,38,26,173,Blue,Lance,regular_4_3_2_1
+1296,Váli: Devoted Sister,Heroes,Flying,Red Tome,45,49,48,26,21,189,Red,Tome,special
+1297,Váli: God of Vengeance,Heroes,Flying,Green Tome,42,49,48,24,25,188,Green,Tome,mythic
+1298,Validar: Fell Architect,Awakening,Infantry,Red Tome,42,46,17,35,43,183,Red,Tome,ghb
+1299,Valter: Dark Moonstone,The Sacred Stones,Flying,Blue Lance,42,32,31,34,19,158,Blue,Lance,ghb
+1300,Vanessa: Dutiful Rider,The Sacred Stones,Flying,Blue Lance,39,40,43,27,34,183,Blue,Lance,regular_4_3_2_1
+1301,Vanitas: Hollow God,Heroes,Armored,Green Breath,51,48,18,46,49,212,Green,Breath,rearmed
+1302,Veld: Manfroy's Rock,Thracia 776,Infantry,Red Tome,43,38,26,22,36,165,Red,Tome,ghb
+1303,Velouria: Renewed Wolfpup,Fates,Infantry,Blue Beast,41,38,40,34,23,176,Blue,Beast,special;specialRate
+1304,Velouria: Wolf Cub,Fates,Infantry,Colorless Beast,40,35,37,33,23,168,Colorless,Beast,specialRate
+1305,Veronica: Bestowed Love,Heroes,Cavalry,Blue Tome,40,36,38,21,22,157,Blue,Tome,tempest
+1306,Veronica: Brave Princess,Heroes,Cavalry,Colorless Staff,36,32,36,21,19,144,Colorless,Staff,specialRate
+1307,Veronica: Harmonic Pirates,Heroes,Cavalry,Green Axe,38,39,19,36,29,161,Green,Axe,harmonized;special;specialRate
+1308,Veronica: Princess Rising,Heroes,Cavalry,Red Tome,38,42,45,19,25,169,Red,Tome,legendary
+1309,Veronica: Royal Reception,Heroes,Cavalry,Colorless Tome,38,47,48,21,25,179,Colorless,Tome,special
+1310,Veronica: Spring Princess,Heroes,Flying,Green Tome,38,35,36,16,25,150,Green,Tome,special;specialRate
+1311,Veyle: Fell Successor,Engage,Infantry,Colorless Tome,40,47,16,32,47,182,Colorless,Tome,regular_5
+1312,Veyle: Gentle Dragon,Engage,Infantry,Blue Tome,39,46,30,21,46,182,Blue,Tome,mythic
+1313,Veyle: Sister Dragons,Engage,Cavalry,Green Tome,40,49,30,17,49,185,Green,Tome,duo;special
+1314,Veyle: Spring Tranquility,Engage,Cavalry,Red Tome,40,48,28,16,48,180,Red,Tome,special
+1315,Vigarde: Silent Emperor,The Sacred Stones,Armored,Blue Lance,46,47,30,44,29,196,Blue,Lance,ghb
+1316,Vigarde: Warmhearted Sire,The Sacred Stones,Armored,Green Axe,51,45,26,47,31,200,Green,Axe,tempest
+1317,Vika: Sea-Dark Wing,Radiant Dawn,Flying,Colorless Beast,41,34,40,17,40,172,Colorless,Beast,special
+1318,Virion: Elite Archer,Awakening,Infantry,Colorless Bow,46,31,31,26,13,147,Colorless,Bow,regular_4_3_2_1
+1319,Volke: Man of Mysteries,Path of Radiance,Infantry,Red Dagger,40,41,43,28,25,177,Red,Dagger,specialRate
+1320,Vyland: Coyote's Justice,Shadow Dragon / (New) Mystery,Cavalry,Green Axe,47,41,30,36,19,173,Green,Axe,regular_4_3_2_1
+1321,Walhart: The Conqueror,Awakening,Cavalry,Green Axe,41,37,27,36,16,157,Green,Axe,ghb
+1322,Wallace: Crag of Caelin,The Blazing Blade,Armored,Blue Lance,51,49,28,48,35,211,Blue,Lance,ghb
+1323,Wil: Unequaled Archer,The Blazing Blade,Infantry,Colorless Bow,42,45,34,27,40,188,Colorless,Bow,regular_4_3_2_1
+1324,Wolf: Coyote's Loyal,Shadow Dragon / (New) Mystery,Cavalry,Colorless Bow,40,39,42,28,20,169,Colorless,Bow,specialRate
+1325,Wolt: Sunbeam Archer,The Binding Blade,Cavalry,Green Bow,40,34,34,25,17,150,Green,Bow,special;specialRate
+1326,Wrys: Kindly Priest,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,42,24,23,22,36,147,Colorless,Staff,regular_4_3_2_1
+1327,Xander: Dancing Knight,Fates,Infantry,Colorless Dagger,38,35,17,34,16,140,Colorless,Dagger,special;specialRate
+1328,Xander: Focused Firstborn,Fates,Cavalry,Red Sword,41,48,30,48,23,190,Red,Sword,tempest
+1329,Xander: Gallant King,Fates,Cavalry,Green Axe,40,42,41,35,17,175,Green,Axe,legendary
+1330,Xander: Paragon Knight,Fates,Cavalry,Red Sword,44,32,24,37,17,154,Red,Sword,ghb
+1331,Xander: Spring Prince,Fates,Cavalry,Blue Lance,40,25,28,35,26,154,Blue,Lance,special;specialRate
+1332,Xander: Student Swimmer,Fates,Infantry,Green Axe,43,32,30,36,16,157,Green,Axe,special;specialRate
+1333,Xane: Autumn Trickster,Shadow Dragon / (New) Mystery,Infantry,Colorless Tome,47,30,34,25,30,166,Colorless,Tome,special
+1334,Xane: Desert Mirage,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,47,30,36,23,35,171,Colorless,Staff,special
+1335,Xane: Fickle Dragon,Shadow Dragon / (New) Mystery,Infantry,Blue Tome,48,43,46,23,28,188,Blue,Tome,ghb
+1336,Yarne: Hoppy New Year,Awakening,Cavalry,Blue Beast,40,43,40,35,21,179,Blue,Beast,tempest
+1337,Yarne: Timid Taguel,Awakening,Cavalry,Green Beast,40,35,33,32,17,157,Green,Beast,specialRate
+1338,Yarne: Trick or Taguel,Awakening,Cavalry,Red Beast,40,47,45,36,21,189,Red,Beast,tempest
+1339,Yen'fay: Blade Legend,Awakening,Infantry,Red Sword,43,37,42,32,28,182,Red,Sword,ghb
+1340,Ylgr: Breaking the Ice,Heroes,Infantry,Green Axe,42,35,36,30,25,168,Green,Axe,tempest
+1341,Ylgr: Fresh Snowfall,Heroes,Infantry,Blue Dagger,38,33,38,22,20,151,Blue,Dagger,specialRate
+1342,Ymir: Life-Mother,Heroes,Cavalry,Green Breath,38,40,26,35,34,173,Green,Breath,specialRate
+1343,Ymir: Seasons of Life,Heroes,Infantry,Colorless Tome,38,45,18,35,41,177,Colorless,Tome,duo;special
+1344,Yukimura: Puppet Master,Fates,Cavalry,Colorless Dagger,40,46,16,33,45,180,Colorless,Dagger,regular_5
+1345,Yuliya: Princess of Grust,Shadow Dragon / (New) Mystery,Infantry,Colorless Staff,38,41,46,21,36,182,Colorless,Staff,regular_4_3_2_1
+1346,Yunaka: Hidden Mask,Engage,Infantry,Colorless Dagger,40,46,48,28,32,194,Colorless,Dagger,aided
+1347,Yunaka: Spirited Envoy,Engage,Cavalry,Colorless Dagger,39,43,47,21,30,180,Colorless,Dagger,special
+1348,Yunaka: Stealthy Imitator,Engage,Infantry,Red Bow,40,47,49,31,32,199,Red,Bow,special
+1349,Yune: Chaos Goddess,Radiant Dawn,Flying,Green Tome,38,33,27,15,37,150,Green,Tome,mythic
+1350,Yuri: Ashen Valiant,Three Houses,Infantry,Colorless Dagger,40,39,43,26,29,177,Colorless,Dagger,specialRate
+1351,Yuri: Tropical Wolf,Three Houses,Cavalry,Green Dagger,41,44,48,25,27,185,Green,Dagger,special
+1352,Yuri: Underground Lord,Three Houses,Infantry,Red Dagger,41,44,47,24,26,182,Red,Dagger,legendary
+1353,Zeiss: Ebon Bolt,The Binding Blade,Flying,Blue Lance,43,48,36,41,25,193,Blue,Lance,ghb
+1354,Zeke: Past Unknown,Echoes,Cavalry,Blue Lance,40,40,15,38,35,168,Blue,Lance,specialRate
+1355,Zelestia: Loving Leader,Engage,Flying,Green Tome,40,43,47,24,30,184,Green,Tome,regular_4_3_2_1
+1356,Zelgius: Jet-Black General,Radiant Dawn,Armored,Red Sword,46,36,33,38,21,174,Red,Sword,specialRate
+1357,Zelgius: Ninja Knight,Radiant Dawn,Armored,Blue Lance,49,47,16,47,42,201,Blue,Lance,special
+1358,Zelkov: Winter Shadow,Engage,Infantry,Colorless Dagger,40,44,49,40,26,199,Colorless,Dagger,tempest
+1359,Zelot: Avowed Groom,The Binding Blade,Cavalry,Green Axe,41,37,25,39,25,167,Green,Axe,tempest
+1360,Zephia: Scheming Dragon,Engage,Flying,Red Tome,41,40,44,23,24,172,Red,Tome,ghb
+1361,Zephiel: The Liberator,The Binding Blade,Armored,Red Sword,55,35,16,38,24,168,Red,Sword,ghb
+1362,Zephiel: Winter's Crown,The Blazing Blade,Armored,Red Sword,48,38,19,38,36,179,Red,Sword,special;specialRate
+1363,Zihark: Ninja Blademaster,Path of Radiance,Infantry,Red Sword,43,37,42,30,24,176,Red,Sword,special
+1364,Þjazi: Ruthless Jötun,Heroes,Armored,Green Axe,49,50,18,47,42,206,Green,Axe,rearmed
