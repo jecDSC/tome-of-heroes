@@ -38,8 +38,13 @@ def get_heroes_list():
         print('Level 40 Stats Table pulled successfully.')
 
     heroes = bs4.BeautifulSoup(heroes_html, 'lxml')
-    with open('data/lv40_heroes.html', 'w', encoding='utf-8') as file:
-        file.write(str(heroes.prettify()))
+
+    resp = input('Would you like to locally save the Level 40 Stats Table site? (y / n) - ')
+    while resp != 'y' and resp != 'n':
+        resp = input('Would you like to locally save the Level 40 Stats Table site? (y / n) - ')
+    if resp == 'y':
+        with open('data/lv40_heroes.html', 'w', encoding='utf-8') as file:
+            file.write(str(heroes.prettify()))
     rows = heroes.find_all('tr', class_='hero-filter-element')
 
     heroes = []
