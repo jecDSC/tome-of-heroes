@@ -1,6 +1,6 @@
+from fetcher import fetch_fandom_html
 import pandas as pd
 import bs4
-from fullupdater import fetch_fandom_html
 
 def get_40_table():
     url = 'https://feheroes.fandom.com/wiki/Level_40_stats_table'
