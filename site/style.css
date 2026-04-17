@@ -1,0 +1,29 @@
+:root {
+  --bg-dark: #2c2f33;
+  --nav-gold: #c9a227;
+  --text-dark: #1f1f1f;
+  --text-light: #f1f1f1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg-dark);
+  color: var(--text-light);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top-nav {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background: var(--nav-gold);
+  color: var(--text-dark);
+  padding: 0.9rem 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
