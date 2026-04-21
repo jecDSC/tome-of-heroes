@@ -21,16 +21,28 @@ def build_table():
     with open('data/lv40_heroes.html', encoding='utf-8') as fp:
         html = bs4.BeautifulSoup(fp, features='lxml')
 
+    rows = html.find_all('tr', class_="hero-filter-element")
+
+    # This is for pulling all possible values of availability from the table.
+    # Each possible availability value will have its own column in the base table
+    # with one-hot encoded data.
+    avail = []
+    for a in rows:
+        for j in a.get('data-availability-classes').split(';'):
+            avail.append(j)
+    avail = set(avail)
+
     lv40_table = pd.DataFrame(columns=['hero', 'entry', 'move', 'weapon', 'hp', 'atk', 'spd', 'def',
-                                       'res', 'total', 'color', 'weapon-type'])
+                                       'res', 'total', 'color', 'weapon-type'] + list(avail))
     
-    for i in html.find_all('tr', class_="hero-filter-element"):
-        td = i.find_all('td')
-        wp = i.get('data-weapon-type')
-        lv40_table.loc[lv40_table.shape[0]] = [
-            i.find('a').get('title'),
-            i.find_all('img')[1].get('alt'),
-            i.get('data-move-type'),
+    for i in range(len(rows)):
+        td = rows[i].find_all('td')
+        wp = rows[i].get('data-weapon-type')
+
+        baseinfo = [
+            rows[i].find('a').get('title'),
+            rows[i].find_all('img')[1].get('alt'),
+            rows[i].get('data-move-type'),
             wp,
             td[5].text,
             td[6].text,
@@ -41,6 +53,13 @@ def build_table():
             wp.split()[0],
             wp.split()[1]
         ]
+
+        availH = rows[i].get('data-availability-classes').split(';')
+        availbools = []
+        for j in avail:
+            availbools.append(j in availH)
+
+        lv40_table.loc[i] = baseinfo + availbools
 
     lv40_table.to_csv('data/lv40_table.csv')
     print('Level 40 Table stored as csv!')
