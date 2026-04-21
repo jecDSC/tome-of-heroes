@@ -19,6 +19,7 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 - partupdater.py is used to locally save select hero pages from feheroes.fandom.com. (in development)
 - base40table.py is used to locally save the Level 40 Stats Table from feheroes.fandom.com, as well as create a basic information dataset saved locally as a csv file.
 - fetcher.py holds the function used to fetch feheroes.fandom.com pages.
+- appendto40table.py pulls data from the 1300+ locally-saved hero pages to append to a Level 40 Table csv. Currently, this file appends release date and version of each hero to the table.
 
 ## Executable File Manager
 
@@ -29,6 +30,26 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 
 - It currently holds a Level 40 Stats Table built from the data available from feheroes.fandom.com, saved as a csv.
 - If you use the File Manager programs, it locally saves a few datasets that are helpful in building the stats csv.
+
+## A breakdown of the columns in lv40_table.csv
+
+| Column | Contains |
+| ------ | -------- |
+| hero        | Name of the hero. |
+| entry       | Fire Emblem game the hero is from. |
+| move        | Move type of the hero. |
+| weapon      | Weapon of the hero (color + weapon type). |
+| hp          | Hit points stat of the hero. |
+| atk         | Attack stat of the hero. |
+| spd         | Speed stat of the hero. |
+| def         | Defense stat of the hero. |
+| res         | Resistance stat of the hero. |
+| total       | Stat total of the hero. |
+| color       | Weapon color of the hero. |
+| weapon-type | Weapon type of the hero. |
+| release     | Date the hero was added to the game. |
+| version     | Game version when hero was added to the game. |
+
 
 ## And who are you?
 
