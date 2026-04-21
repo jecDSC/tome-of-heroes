@@ -60,8 +60,8 @@ def build_table():
             availbools.append(j in availH)
 
         lv40_table.loc[i] = baseinfo + availbools
-
-    lv40_table.to_csv('data/lv40_table.csv')
+    
+    lv40_table.to_csv('data/lv40_table.csv', index=False)
     print('Level 40 Table stored as csv!')
     
 

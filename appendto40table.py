@@ -21,7 +21,7 @@ def append40():
     table40['release'] = release
     table40['version'] = version
 
-    table40.drop(columns=['Unnamed: 0.1', 'Unnamed: 0']).to_csv('./data/lv40_table.csv')
+    table40.to_csv('./data/lv40_table.csv', index=False)
     print("""
 =========================================
 Release date and version have been
