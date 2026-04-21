@@ -2,7 +2,8 @@
 hero-pages
 worldbox
 test
-outdated
+notebooks
+__pycache__
 
 # Files
 heroes_pages.csv

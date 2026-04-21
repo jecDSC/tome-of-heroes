@@ -70,10 +70,10 @@ def hero_file(tome):
 
 
 if __name__ == '__main__':
-    print("""=========================================================================================
-= Welcome to the page updater! Note that if you do not have a hero-page folder locally, =
-= one will be created. Update time for all hero pages may take at least 20 minutes.     =
-=========================================================================================\n""")
+    print("""=====================================================================================
+Welcome to the page updater! Note that if you do not have a hero-page folder locally,
+one will be created. Update time for all hero pages may take at least 20 minutes.    
+=====================================================================================\n""")
     print('Attempting to fetch Level 40 Stats Table...')
     heroes_dict = get_heroes_list()
     if heroes_dict:
@@ -84,4 +84,4 @@ if __name__ == '__main__':
         if resp == 'y':
             hero_file(heroes_dict)
         else:
-            print('\n======================\n= Updater Terminated =\n======================')
+            print('\n==================\nUpdater Terminated\n==================')
