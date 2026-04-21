@@ -1,14 +1,17 @@
-from fetcher import fetch_fandom_html
+import fetcher as ft
 import pandas as pd
 import bs4
 import time
+
+LINE_UP = '\033[1A'
+LINE_CLEAR = '\x1b[2K'
 
 # Run this once to fetch the Level 40 Stats Table
 
 # get_heroes_list produces a list of heroes and a list of their hero page links.
 def get_heroes_list():
     url = 'https://feheroes.fandom.com/wiki/Level_40_stats_table'
-    heroes_html = fetch_fandom_html(url)
+    heroes_html = ft.fetch_fandom_html(url)
     if not heroes_html:
         print('Could not pull Level 40 Stats Table.')
         return
@@ -41,14 +44,11 @@ def hero_file(tome):
     fails = []
     for i in tome.keys():
         # Create file name
-        temp = i.split()
-        for j in range(len(temp)):
-            temp[j] = temp[j].strip(':\'"')
-            name = ''.join(temp)
+        name = ft.format_name(i)
         
         # Pull HTML from site
         time.sleep(0.5)
-        soup = fetch_fandom_html(tome[i])
+        soup = ft.fetch_fandom_html(tome[i])
         if not soup:
             print(f'Skipping {i} because page request failed.')
             fails.append(i)
@@ -60,7 +60,9 @@ def hero_file(tome):
         # Save page to file
         with open(f'hero-pages/{name}.html', 'w', encoding = 'utf-8') as file:
             file.write(str(soup))
-        print(name, 'saved successfully.', end='\r')
+
+        print('Successfully saved ' + name)
+        print(LINE_UP, end=LINE_CLEAR)
 
     print('Finished saving pages.')
     if fails:

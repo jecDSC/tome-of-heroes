@@ -21,3 +21,10 @@ def fetch_fandom_html(page_url):
     except requests.RequestException as e:
         print(f"Request failed for {title}: {e}")
         return None
+
+def format_name(name):
+    temp = name.split()
+    for j in range(len(temp)):
+        temp[j] = temp[j].strip(':\'"')
+    return ''.join(temp)
+        

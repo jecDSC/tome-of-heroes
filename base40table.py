@@ -1,10 +1,10 @@
-from fetcher import fetch_fandom_html
+import fetcher as fetch
 import pandas as pd
 import bs4
 
 def get_40_table():
     url = 'https://feheroes.fandom.com/wiki/Level_40_stats_table'
-    heroes_html = fetch_fandom_html(url)
+    heroes_html = fetch.fetch_fandom_html(url)
     if not heroes_html:
         print('Could not pull Level 40 Stats Table.')
         return
