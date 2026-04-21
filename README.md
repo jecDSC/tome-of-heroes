@@ -50,7 +50,6 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 | release     | Date the hero was added to the game. |
 | version     | Game version when hero was added to the game. |
 
-
 ## And who are you?
 
 - I'm just a Fire Emblem fan who got into this series through Heroes back in February of 2019. I've only gained the skills to make this stuff in the last three years, and this was an idea that's been in the back of my mind for a while. My goals are simple: make an easily-accessible dataset of the 1300+ Heroes in the game, create visualizations out of the data, and do some simple analyses that may give insight into how much this game's changed in the last 10 years of so of this game being active.
