@@ -60,7 +60,7 @@ def hero_file(tome):
         # Save page to file
         with open(f'hero-pages/{name}.html', 'w', encoding = 'utf-8') as file:
             file.write(str(soup))
-        print(name, 'saved successfully.')
+        print(name, 'saved successfully.', end='\r')
 
     print('Finished saving pages.')
     if fails:
