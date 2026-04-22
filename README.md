@@ -8,6 +8,11 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 ## Currently Added Datasets
 
 - Level 40 Stats Table
+- Release date and versions of Heroes pulled from individual hero pages
+
+## Studies
+- My own analysis into different aspects of the game.
+- A Study on Speed Stat Ceiling Breaks has been added! Still a work in progress.
   
 ## Regarding Special Characters in Hero Names
 
