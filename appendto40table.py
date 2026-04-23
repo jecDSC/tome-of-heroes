@@ -1,7 +1,6 @@
 import fetcher as ft
 import pandas as pd
 import bs4
-import os
 
 def append40():
     LINE_UP = '\033[1A'
@@ -10,7 +9,6 @@ def append40():
     release = []
     version = []
     majorver = []
-    pages = os.listdir('./hero-pages')
 
     print('\nPulling csv...\n')
     table40 = pd.read_csv('./data/lv40_table.csv')
@@ -25,7 +23,7 @@ def append40():
                 table = html.select('table.wikitable:not(.default)')
                 release.append(table[0].find('time').text)
                 version.append(table[0].find_all('a')[-1].text)
-                majorver.append(int(table[0].find_all('a')[-1].text))
+                majorver.append(int(float(table[0].find_all('a')[-1].text)))
 
         print('Saved ' + i)
         print(LINE_UP, end=LINE_CLEAR)
