@@ -5,7 +5,7 @@ Includes an extensive dataset of Heroes from the game Fire Emblem Heroes.
 
 Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom.
 
-## Currently Added Datasets
+## Currently Added Data
 
 - Level 40 Stats Table
 - Release date and versions of Heroes pulled from individual hero pages
@@ -13,6 +13,7 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 ## Studies
 - My own analysis into different aspects of the game.
 - A Study on Speed Stat Ceiling Breaks has been added! Still a work in progress.
+- More studies and statistical analysis being done on my local repository.
   
 ## Regarding Special Characters in Hero Names
 
@@ -54,6 +55,11 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 | weapon-type | Weapon type of the hero. |
 | release     | Date the hero was added to the game. |
 | version     | Game version when hero was added to the game. |
+| majorver    | Major game version when hero was added to the game.
+
+Columns that have not been listed are for the hero type (e.g. Duo, Special, etc.). Values for these columns are either a 0 (indicating False) or 1 (indicating True).
+
+The dataset has also been posted on [Kaggle](https://www.kaggle.com/datasets/snoufoxx/fire-emblem-heroes-dataset/data). Go check it out!
 
 ## And who are you?
 
