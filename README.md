@@ -27,11 +27,6 @@ Data and datasets are pulled from fandom.com, from the Fire Emblem Heroes fandom
 - fetcher.py holds the function used to fetch feheroes.fandom.com pages.
 - appendto40table.py pulls data from the 1300+ locally-saved hero pages to append to a Level 40 Table csv. Currently, this file appends release date and version of each hero to the table.
 
-## Executable File Manager
-
-- Coming soon...
-- Plan is try to combine fullupdater, partupdater, base40table, fetcher into an executable file.
-
 ## What's in data?
 
 - It currently holds a Level 40 Stats Table built from the data available from feheroes.fandom.com, saved as a csv.
