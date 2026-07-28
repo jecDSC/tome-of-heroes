@@ -1,0 +1,11 @@
+Playable
+Robin Chrom Lissa Frederick Sully Virion Stahl Vaike Miriel Sumia Kellam Donnel Lon'qu Ricken Maribelle Panne Gaius Cordelia Gregor Nowi Libra Tharja Anna Olivia Cherche Henry Lucina Say'ri Tiki Basilio Flavia Owain Inigo Brady Kjelle Cynthia Severa Gerome Morgan Yarne Laurent Noire Nah Gangrel Walhart Emmeryn Yen'fay Aversa Priam
+
+Non Playable
+Validar Garrick Raimi Orton Vasto Chalard Campari Mustafa Dalton Ignatius Farber Cervantes Pheros Excellus Algol Mus Bovis Tigris Lepus Draco Anguilla Equus Ovis Simia Gallus Canis Porcus Naga Roddick Victor Vincent Gecko Jamil Xalbador Cassius Ruger Nelson Holland Morristan Gyral Dalen Nombry Ezra Zanth Ardri Grima
+
+Kingdoms
+HalidomofYlisse TheocracyofPlegia RegnaFerox ValmeseEmpire Chon'sin Rosanne Outrealms
+
+Locations
+Southtown Ylisstol Northroad Longfort ArenaFerox BorderPass BreakneckPass BorderSands PlegiaCastle TheMidmire BorderWastes PortFerox CarrionIsle Searoad ValmHarbor MilaTree FortSteiger Demon'sIngle ValmCastle Dragon'sTable MountPrism OriginPeak Farfort Sage'sHamlet GreatGate MilaShrineRuins VerdantForest WyvernValley DesertOasis Kidnapper'sKeep WellspringofTruth GardenofGiants OutrealmGate Grima

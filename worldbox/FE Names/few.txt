@@ -1,0 +1,11 @@
+Playable
+Rowan Lianna Chrom Lissa Frederick Lucina Robin Owain Sakura Hinoka Takumi Oboro Ryoma Elise Camilla Leo Niles Xander Corrin Marth Caeda Navarre Tiki Anna Lyn Celica Azura Minerva Linde Tharja Olivia
+
+Non Playable
+Darios Yelena Validar Iago Oskar Velezark Gharnef
+
+General Locations
+Aytolis Gristonne
+
+Map Locations
+AytolisCastle AytolisCity Kingswood DragonValley DesolateGorge CastleSol EbonyVolcano DuskCastle GreatPlain WorldTree Interspace

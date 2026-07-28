@@ -1,0 +1,14 @@
+Playable
+Byleth, EdelgardvonHresvelg, DimitriAlexandreBlaiddyd, ClaudevonRiegan, HubertvonVestra, FerdinandvonAegir, LinhardtvonHevring, CasparvonBergliez, BernadettavonVarley, DorotheaArnault, PetraMacneary, DedueMolinaro, FelixHugoFraldarius, AsheUbert, SylvainJoseGautier, MercedesvonMartritz, AnnetteFantineDominic, IngridBrandlGalatea, LorenzHellmanGloucester, RaphaelKirsten, IgnatzVictor, LysitheavonOrdelia, MariannevonEdmund, HildaValentineGoneril, LeoniePinelli, Seteth, Flayn, HannemanvonEssar, ManuelaCasagranda, GilbertPronislav, AloisRangeld, Catherine, ShamirNevrand, Cyril, JeritzavonHrym, Anna, YuriLeclerc, BalthusvonAlbrecht, ConstancevonNuvelle, Hapi
+
+Non playable
+Nemesis, Sothis, JeraltReusEisner, Kostas, Rhea, Tomas, LonatoGildasGaspard, DeathKnight, VolkhardvonArundel, FlameEmperor, RodrigueAchilleFraldarius, JudithvonDaphnel, MiklanAnschutzGautier, MonicavonOchs, Solon, Thales, Kronya, EmperorIoniusIX, DukeAegir, Metodey, Ladislava, RandolphvonBergliez, CorneliaArnim, Pallardó, FlechevonBergliez, Acheron, Nader, Gwendal, LambertEgitteBlaiddyd, Luca, Iris, Bernhard, Gajus, Chevalier, Wilhelm, Bias, Pittacus, Myson, Chilon, Odesse, Charon, Goneril, Daphnel, Blaiddyd, Gautier, Gloucester, Riegan, Fraldarius, Dominic, Lamine, TheImmovable, WanderingBeast, TheWindCaller, AelfricDahlman
+
+Backstory
+Seiros, TheImmaculateOne, Cethleann, Cichol, Macuil, Indech, Glenn, Holst, Maurice, Noa, Chevalier, Timotheos, Aubin, Patricia, Anselma, SitriEisner, Zoltan
+
+World Map
+RemireVillage, GarregMachMonastery(Outskirts), Zanado, TheRedCanyon, MagdredWay, Monastery(HolyMausoleum), ConandTower, Monastery(UndergroundChamber), GronderField, Monastery(ChapelRuins), SealedForest, HolyTomb, Monastery(OuterWall), Monastery(SouthWall), Monastery(WestWall), AilelltheValleyofTorment, GreatBridgeofMyrddin, FortMerceus, Enbarr, Enbarr(Imperialpalace), Shambhala, TheUndergroundCity, CaledonianPlateau, Derdriu, Arianrhod, TailteanPlains, Fhirdiad, Fódlan'sThroat, SrengDesert, RhodosCoast, BrionacPlateau, LakeTeutates, EmpireTerritory, KingdomTerritory, Forest, Plains, Mountains, Cathedral, Abyss, UndergroundArena, BeneathGarregMach
+
+Locations
+Fódlan, Adrestia, Faerghus, Leicester, Albinea, Brigid, Dagda, Sreng, Almyra, Morfis, Duscur, Abyss
